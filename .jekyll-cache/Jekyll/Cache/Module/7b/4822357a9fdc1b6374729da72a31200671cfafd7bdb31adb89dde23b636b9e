@@ -1,4 +1,4 @@
-I"a<!--[if gt IE 10]><!---->
+I"c<!--[if gt IE 10]><!---->
   <script nomodule>!function(){var t,n=document.createElement("script");!("noModule"in n)&&"onbeforeload"in n&&(t=!1,document.addEventListener("beforeload",function(e){if(e.target===n)t=!0;else if(!e.target.hasAttribute("nomodule")||!t)return;e.preventDefault()},!0),n.type="module",n.src=".",document.head.appendChild(n),n.remove())}();
 </script>
   <script src="/assets/js/hydejack-9.1.0.js" type="module"></script>
@@ -10,7 +10,7 @@
     w.ga=w.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
 
     /**/
-      ga('create', 'G-TKJ4H24F0F', 'auto');
+      ga('create', 'UA-189642795-1', 'auto');
     /**/
 
     var pushStateEl = d.getElementById('_pushState');
