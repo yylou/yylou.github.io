@@ -4,7 +4,7 @@ title: Coding
 description: >
   Sharing my solutions, which I post on my [Medium](https://yylou.medium.com/){:target="_blank"} page and also my [GitHub](https://github.com/yylou/leetcode-problem-solving){:target="_blank"} page, to the [LeetCode](https://leetcode.com/problemset/all/){:target="_blank"} problems. <br>
   They might not be the best answers, however, they should be explainable for your interview. Please feel free to contact me to correct or enhance the answers. <br><br>
-  **`2021.02.12`** ---&nbsp; Irregular but continuing update, the links are empty only for now, please keep following.
+  **`2021.02.12`** ---&nbsp; Irregular but continuing update, **the links are empty only for now**, please keep following.
 ---
 
 0. this unordered seed list will be replaced by toc as unordered list
