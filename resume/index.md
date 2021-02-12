@@ -37,7 +37,7 @@ hide_description: true
 ## <font style="color: rgb(72, 103, 115)"> &#127891; &nbsp; Education </font>
 ---
 **[National Taiwan University](https://www.inm.ntu.edu.tw/main.php)** &nbsp;|&nbsp; M.S. in Computer Science &nbsp;|&nbsp; **GPA 3.9 / 4.3** &nbsp;|&nbsp; *2015.09 - 2017.06*  
-* **`Thesis`** &nbsp; Fog-based Virtualization for Low-Latency Wearable Services  
+* **`Thesis`** &nbsp; Fog-based Virtualization for Low-Latency Wearable Services &nbsp;---&nbsp; **`Advisor`** [Prof. Ai-Chun Pang (IEEE Fellow)](https://www.csie.ntu.edu.tw/~acpang/index.html){:target="_blank"}
 * **`Awards`** &nbsp; Two-time Outstanding TA Awards, Valedictorian of Graduation Ceremony  
 
 <br>
