@@ -109,7 +109,7 @@ hide_description: true
 * Coordinated company's first [AI product](https://www.electronicsweekly.com/news/business/761235-2020-11/){:target="_blank"} and 7nm/12nm/16nm projects of mobile devices
 * Established Python programming disciplines and organized training sessions 
 * Served as on-campus technical recruiter at National Taiwan University in 2018 and 2019
-* Promoted twice within 24 months to Supervisor
+* **Promoted twice within 24 months to Supervisor**
 
 ---
 
