@@ -12,7 +12,6 @@ hide_description: true
 {:.note}
 --->
 
-Actively seeking for **Software Development Engineer** and **Backend Engineer** full-time job in 2021 &nbsp;---&nbsp; `Taiwan` / `Remote`  
 **Incoming M.S. / Ph.D. student in EECS for Fall 2021 in the US** &nbsp;---&nbsp; `Software Engineering` / `Computer Networking` / `Machine Learning`  
 {:.note}
 
