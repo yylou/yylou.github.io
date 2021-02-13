@@ -25,7 +25,7 @@ hide_description: true
 ## <font style="color: rgb(72, 103, 115)"> &#x1F9BE; &nbsp; Skills</font>
 ---
 * **Programming** &nbsp;&nbsp; `Python` &nbsp; `Java` &nbsp; `C/C++` &nbsp; `Scripting` &nbsp; `HTML` &nbsp; `CSS` &nbsp; `Javascript` &nbsp; `CUDA` 
-* **System & Tools** &nbsp;&nbsp; `Linux` &nbsp; `LAMP` &nbsp; `Android` &nbsp; `Django` &nbsp; `Bootstrap` &nbsp; `MongodB` &nbsp; `MySQL` &nbsp; `Git`  
+* **System & Tools** &nbsp;&nbsp; `Linux` &nbsp; `LAMP` &nbsp; `Android` &nbsp; `Django` &nbsp; `Bootstrap` &nbsp; `MongoDB` &nbsp; `MySQL` &nbsp; `Git`  
 * **Research** &nbsp;&nbsp; `Cloud/Edge/Fog Computing` &nbsp; `Internet of Things (IoT)` &nbsp; `Machine Learning`
 
 ---
@@ -37,7 +37,7 @@ hide_description: true
 ## <font style="color: rgb(72, 103, 115)"> &#127891; &nbsp; Education </font>
 ---
 **[National Taiwan University](https://www.inm.ntu.edu.tw/main.php){:target="_blank"}** &nbsp;|&nbsp; M.S. in Computer Science &nbsp;|&nbsp; **GPA 3.9 / 4.3** &nbsp;|&nbsp; *2015.09 - 2017.06*  
-* **`Thesis`** &nbsp; Fog-based Virtualization for Low-Latency Wearable Services &nbsp;---&nbsp; **`Advisor`** [Prof. Ai-Chun Pang (IEEE Fellow)](https://www.csie.ntu.edu.tw/~acpang/index.html){:target="_blank"}
+* **`Thesis`** &nbsp; Fog-based Virtualization for Low-Latency Wearable Services &nbsp;---&nbsp; **`Advisor`** [Prof. Ai-Chun Pang (*IEEE Fellow*)](https://www.csie.ntu.edu.tw/~acpang/index.html){:target="_blank"}
 * **`Awards`** &nbsp; Two-time Outstanding TA Awards, Valedictorian of Graduation Ceremony  
 
 <br>
@@ -58,7 +58,7 @@ hide_description: true
 * Yuan-Yao Shih, Ai-Chun Pang, **Yuan-Yao Lou**, “[Chapter 13 - Development of Wearable Services with Edge Devices,](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119501121.ch13){:target="_blank"}” *Fog and Fogonomics: Challenges and Practices of Fog Computing, Communication, Networking, Strategy, and Economics*, 2020
 
 **Journal Paper**
-* Xiaoli Wang, Ming-Jye Sheng, **Yuan-Yao Lou**, Mung Chiang, “[Internet of Things Session Management Over LTE — Balancing Signal Load, Power, and Delay,](https://ieeexplore.ieee.org/document/7314871){:target="_blank"}” *IEEE Internet of Things Journal*, 2015
+* Xiaoli Wang, Ming-Jye Sheng, **Yuan-Yao Lou**, Mung Chiang, “[Internet of Things Session Management Over LTE — Balancing Signal Load, Power, and Delay,](https://ieeexplore.ieee.org/document/7314871){:target="_blank"}” *IEEE Internet of Things Journal (IoT-J)*, 2015
 
 **Conference Paper**
 * Yuan-Yao Shih, Ai-Chun Pang, **Yuan-Yao Lou**, Ching-Chih Chuang, Liqiang Zhao, Zhiyuan Ren, “[Modularized Service Provisioning at Fog Networks,](/assets/2018-modularized-service-provisioning-at-fog-networks.pdf){:target="_blank"}” *IEEE Vehicular Technology Society (VTS) Asia Pacific Wireless Communications Symposium (APWCS)*, 2018
@@ -74,13 +74,13 @@ hide_description: true
 ---
 **[Ministry of Science and Technology (MOST)](https://www.most.gov.tw/?l=en){:target="_blank"}** &nbsp;|&nbsp; Graduate Researcher and Network Engineer &nbsp;|&nbsp; *2015.09 - 2017.09*  
 * Modified Android Wear OS to enable computation offloading through IoT devices &nbsp;\|&nbsp;<span style="color: rgb(3, 74, 166)">**`Android`** **`Java`**</span> 
-* Built edge network on developmental boards and developed low-latency applications &nbsp;\|&nbsp;<span style="color: rgb(3, 74, 166)">**`Python`** **`Java`** **`Raspberry Pi`**</span>
+* Built edge network on developmental boards and developed low-latency applications &nbsp;\|&nbsp;<span style="color: rgb(3, 74, 166)">**`Python`** **`Java`** **`LAMP`** **`Raspberry Pi`**</span>
 * Deployed web applications to control network operation &nbsp;\|&nbsp;<span style="color: rgb(3, 74, 166)">**`Django + Bootstrap`** **`MongoDB`** **`RESTful`**</span>
 
 **Major Achievement**
 * Eliminated Android wearable devices' connection and computing limitations
 * Demonstrated Fog/Edge network prototype in 5G workshop held by [Ministry of Economic Affairs (MOEA)](https://www.moea.gov.tw/MNS/english/home/English.aspx){:target="_blank"}
-* Published two conference papers (IEEE and ACM) and one book chapter
+* **Published two conference papers (IEEE and ACM) and one book chapter**
 
 <br>
 
@@ -90,7 +90,7 @@ hide_description: true
 
 **Major Achievement**
 * Proposed LTE mechanism (RRC and DRX) enhancement to support IoT-type network sessions 
-* Published one journal paper (IEEE IoT Journal)
+* **Published one journal paper (IEEE IoT Journal)**
 
 ---
 
@@ -101,9 +101,9 @@ hide_description: true
 ## <font style="color: rgb(72, 103, 115)"> &#128188; &nbsp; Experience - Industry </font>
 ---
 **[Silicon Motion - Algorithm and Technology R&D Center](https://www.siliconmotion.com/company/overview){:target="_blank"}** &nbsp;|&nbsp; Supvervisor Software Engineer &nbsp;|&nbsp; *2017.12 - 2021.03*  
-* Developed automated software system to boost development efficiency &nbsp;\|&nbsp;<span style="color: rgb(3, 74, 166)">**`Python`** **`JSON`** **`QT`** **`TCL`**</span> 
+* Developed automated software system to boost development efficiency &nbsp;\|&nbsp;<span style="color: rgb(3, 74, 166)">**`Python`** **`JSON`** **`QT`**</span> 
 * Devised design tracking system by graph algorithms and visualized profile data &nbsp;\|&nbsp;<span style="color: rgb(3, 74, 166)">**`Python`** **`SQLite`**</span>
-* Enhanced design handoff quality by bridging EDA tools' APIs with data consistency checks &nbsp;\|&nbsp;<span style="color: rgb(3, 74, 166)">**`Python`**</span>
+* Enhanced design handoff quality by bridging EDA tools' APIs with data consistency checks &nbsp;\|&nbsp;<span style="color: rgb(3, 74, 166)">**`Python`** **`TCL`**</span>
 
 **Major Achievement**
 * Coordinated company's first [AI product](https://www.electronicsweekly.com/news/business/761235-2020-11/){:target="_blank"} and 7nm/12nm/16nm projects of mobile devices
@@ -143,8 +143,8 @@ hide_description: true
 <br>
 
 **[MIT App Inventor 2](https://appinventor.mit.edu){:target="_blank"}** - LayerBox Feature &nbsp;|&nbsp; NCTU **`IOC5157`** Free and Open Source Software and Project &nbsp;|&nbsp; *2015.03 - 2015.06*
-* Delivered new feature to improve programmability of visual programming environment &nbsp;\|&nbsp;<span style="color: rgb(3, 74, 166)">**`Javascript`**</span>
-* Attended [MIT App Inventor Summit](http://appinventor.mit.edu/explore/2013-Summit){:target="_blank"} in Boston, MA, the US as developer in 2013
+* Delivered [new feature](https://groups.google.com/g/mitappinventortest/c/F6gED-J-JHM/m/b__eQud2L04J){:target="_blank"} to improve programmability of visual programming environment &nbsp;\|&nbsp;<span style="color: rgb(3, 74, 166)">**`Javascript`**</span>
+* Attended [MIT App Inventor Summit](http://appinventor.mit.edu/explore/summit-2013-archive){:target="_blank"} in Boston, MA, the US as developer in 2013
 
 <br>
 
@@ -152,7 +152,7 @@ hide_description: true
 * Acted as team leader and planned project milestone with programming assignments &nbsp;\|&nbsp;<span style="color: rgb(3, 74, 166)">**`Matrix Multiplication Optimization`**</span>
 * Focused on reducing decoding/encoding time by decomposing HEVC and applying parallel programming &nbsp;\|&nbsp;<span style="color: rgb(3, 74, 166)">**`CUDA`**</span>
 * Presented project findings in English on weekly engineering project seminar
-* Funded and awarded by delivering proposal to Ministry of Science and Technology
+* **Funded and awarded by delivering proposal to Ministry of Science and Technology (MOST)**
 
 ---
 
