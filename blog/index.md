@@ -2,7 +2,7 @@
 layout: page
 title: Blog 
 description: >
-  The posts here are linked to [my Medium page](https://yylou.medium.com/){:target="_blank"}. <br><br>
+  The posts here are linked to my [Medium](https://yylou.medium.com/){:target="_blank"} page. <br><br>
   **`2021.02.12`** ---&nbsp; Planning to share how I prepare for graduate applications and of course, my future graduate study in the US.
 ---
 
