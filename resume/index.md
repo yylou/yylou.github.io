@@ -12,8 +12,10 @@ hide_description: true
 {:.note}
 --->
 
+<!---
 **Incoming M.S. / Ph.D. student in EECS for Fall 2021 in the US** &nbsp;---&nbsp; `Software Engineering` / `Computer Networking` / `Machine Learning`  
 {:.note}
+--->
 
 0. this unordered seed list will be replaced by toc as unordered list
 {:toc}
