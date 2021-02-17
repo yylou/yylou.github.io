@@ -30,7 +30,7 @@ Actively seeking for **`Software Development Enginner`** and **`Backend Engineer
 ## <font style="color: rgb(72, 103, 115)"> &#x1F9BE; &nbsp; Skills</font>
 ---
 * **Programming** &nbsp;&nbsp; `Python` &nbsp; `Java` &nbsp; `C/C++` &nbsp; `Scripting` &nbsp; `HTML` &nbsp; `CSS` &nbsp; `Javascript` &nbsp; `CUDA` 
-* **System & Tools** &nbsp;&nbsp; `Linux` &nbsp; `LAMP` &nbsp; `Android` &nbsp; `Django` &nbsp; `Bootstrap` &nbsp; `MongoDB` &nbsp; `MySQL` &nbsp; `Git`  
+* **System & Tools** &nbsp;&nbsp; `Linux` &nbsp; `LAMP` &nbsp; `Android` &nbsp; `Django` &nbsp; `Bootstrap` &nbsp; `MongoDB` &nbsp; `MySQL` &nbsp; `Git` &nbsp; `GCP`  
 * **Research** &nbsp;&nbsp; `Cloud/Edge/Fog Computing` &nbsp; `Internet of Things (IoT)` &nbsp; `Machine Learning`
 
 ---
@@ -148,7 +148,7 @@ Actively seeking for **`Software Development Enginner`** and **`Backend Engineer
 <br>
 
 **[MIT App Inventor 2](https://appinventor.mit.edu){:target="_blank"}** - LayerBox Feature &nbsp;|&nbsp; NCTU **`IOC5157`** Free and Open Source Software and Project &nbsp;|&nbsp; *2015.03 - 2015.06*
-* Delivered [new feature](https://groups.google.com/g/mitappinventortest/c/F6gED-J-JHM/m/b__eQud2L04J){:target="_blank"} to improve programmability of visual programming environment &nbsp;\|&nbsp;<span style="color: rgb(3, 74, 166)">**`Javascript`**</span>
+* Delivered [new feature](https://groups.google.com/g/mitappinventortest/c/F6gED-J-JHM/m/b__eQud2L04J){:target="_blank"} to improve programmability of visual programming environment &nbsp;\|&nbsp;<span style="color: rgb(3, 74, 166)">**`Javascript`** **`GCP`** **`App Engine`**</span>
 * Attended [MIT App Inventor Summit](http://appinventor.mit.edu/explore/summit-2013-archive){:target="_blank"} in Boston, MA, the US as developer in 2013
 
 <br>

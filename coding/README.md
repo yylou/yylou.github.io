@@ -2,9 +2,10 @@
 layout: page
 title: Coding
 description: >
-  Sharing my solutions that I post on my [GitHub](https://github.com/yylou/leetcode-problem-solving){:target="_blank"} to the [LeetCode](https://leetcode.com/problemset/all/){:target="_blank"} and [HackerRank](https://www.hackerrank.com/){:target=:"_blank"} problems. *__If you find it helps, please do not hesitate to give me a STAR!__* <br>
+  Sharing my solutions that I post on my [GitHub](https://github.com/yylou/leetcode-problem-solving){:target="_blank"} to the [LeetCode](https://leetcode.com/problemset/all/){:target="_blank"} and [HackerRank](https://www.hackerrank.com/){:target="_blank"} problems. *__If you find it helps, please do not hesitate to give me a STAR!__* <br>
   They might not be the best answers, however, they should be explainable for your interview. <br><br>
-  **`2021.02.13`** ---&nbsp; Irregular but continuing update, please keep following.
+  **`2021.02.13`** ---&nbsp; Irregular but continuing update, please keep following. <br>
+  **`2021.02.18`** ---&nbsp; Add one more section for HackerRank problem-solving.
 ---
 
 0. this unordered seed list will be replaced by toc as unordered list
