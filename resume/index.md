@@ -17,7 +17,7 @@ hide_description: true
 {:.note}
 --->
 
-Actively seeking for **`Software Development Enginner`** and **`Backend Engineer (Python)`** full-time job in 2021.
+Actively seeking for **`Software Development Engineer`** and **`Backend Engineer (Python)`** full-time job in 2021.
 {:.note}
 
 0. this unordered seed list will be replaced by toc as unordered list
