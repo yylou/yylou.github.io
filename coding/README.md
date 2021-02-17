@@ -2,7 +2,7 @@
 layout: page
 title: Coding
 description: >
-  Sharing my solutions that I post on my [GitHub](https://github.com/yylou/leetcode-problem-solving){:target="_blank"} to the [LeetCode](https://leetcode.com/problemset/all/){:target="_blank"} problems. *__If you find it helps, please do not hesitate to give me a STAR!__* <br>
+  Sharing my solutions that I post on my [GitHub](https://github.com/yylou/leetcode-problem-solving){:target="_blank"} to the [LeetCode](https://leetcode.com/problemset/all/){:target="_blank"} and [HackerRank](https://www.hackerrank.com/){:target=:"_blank"} problems. *__If you find it helps, please do not hesitate to give me a STAR!__* <br>
   They might not be the best answers, however, they should be explainable for your interview. <br><br>
   **`2021.02.13`** ---&nbsp; Irregular but continuing update, please keep following.
 ---
@@ -10,8 +10,10 @@ description: >
 0. this unordered seed list will be replaced by toc as unordered list
 {:toc}
 
+## <font style="color: rgb(72, 103, 115)"> LeetCode </font>
+---
 
-## Easy
+<h3> Easy </h3>
 ---
 * [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 40 ms (*93.69%*) &nbsp;\|&nbsp;
@@ -34,9 +36,7 @@ description: >
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0104-maximum-depth-of-binary-tree){:target="_blank"}
 {:.related-posts.faded}
 
-<br>
-
-## Medium
+<h3> Medium </h3>
 ---
 * [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/){:.heading.flip-title  target="_blank"} ---
 **`Runtime`** 36 ms (*95.77%*) &nbsp;\|&nbsp;
@@ -47,6 +47,11 @@ description: >
 **`Runtime`** 116 ms (*99.87%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 15.4 MB (*43.03%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0011-container-with-most-water){:target="_blank"}
+
+* [15. 3Sum](https://leetcode.com/problems/3sum/){:.heading.flip-title  target="_blank"} ---
+**`Runtime`** 528 ms (*96.39%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 16.9 MB (*38.27%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0015-3-sum){:target="_blank"}
 
 * [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/){:.heading.flip-title  target="_blank"} ---
 **`Runtime`** 28 ms (*99.63%*) &nbsp;\|&nbsp;
@@ -59,9 +64,7 @@ description: >
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0208-implement-trie-prefix-tree){:target="_blank"}
 {:.related-posts.faded}
 
-<br>
-
-## Hard
+<h3> Hard </h3>
 ---
 * [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/){:.heading.flip-title  target="_blank"} ---
 **`Runtime`** 68 ms (*88.56%*) &nbsp;\|&nbsp;
@@ -73,3 +76,17 @@ description: >
 **`Mem Usage`** 16.6 MB (*84.05%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0072-edit-distance){:target="_blank"}
 {:.related-posts.faded}
+
+<br>
+
+## <font style="color: rgb(72, 103, 115)"> HackerRank </font>
+---
+
+<h3> Interview Preparation Kit </h3>
+---
+
+<h3> Algorithm </h3>
+---
+
+<h3> Data Structure </h3>
+---
