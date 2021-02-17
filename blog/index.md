@@ -3,7 +3,8 @@ layout: page
 title: Blog 
 description: >
   The posts here are linked to my [Medium](https://yylou.medium.com/){:target="_blank"} page. <br><br>
-  **`2021.02.12`** ---&nbsp; Planning to share how I prepare for graduate applications and of course, my future graduate study in the US.
+  <!-- **`2021.02.12`** ---&nbsp; Planning to share how I prepare for graduate applications and of course, my future graduate study in the US. --->
+  **`2021.02.17`** ---&nbsp; Planning to share how I prepare for SWE and Backend Engineer interview.
 ---
 
 <br>
