@@ -36,6 +36,7 @@ description: >
 **`Mem Usage`** 15.9 MB (*92.41%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0104-maximum-depth-of-binary-tree){:target="_blank"}
 {:.related-posts.faded}
+---
 
 <h3> Medium </h3>
 ---
@@ -54,6 +55,11 @@ description: >
 **`Mem Usage`** 16.9 MB (*38.27%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0015-3-sum){:target="_blank"}
 
+* [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/){:.heading.flip-title  target="_blank"} ---
+**`Runtime`** 12 ms (*98.94%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 13.3 MB (*72.36%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0019-remove-nth-node-from-end-of-list){:target="_blank"}
+
 * [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/){:.heading.flip-title  target="_blank"} ---
 **`Runtime`** 28 ms (*99.63%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 13.3 MB (*97.40%*) &nbsp;\|&nbsp;
@@ -64,6 +70,7 @@ description: >
 **`Mem Usage`** 29.6 MB (*93.89%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0208-implement-trie-prefix-tree){:target="_blank"}
 {:.related-posts.faded}
+---
 
 <h3> Hard </h3>
 ---
@@ -77,6 +84,7 @@ description: >
 **`Mem Usage`** 16.6 MB (*84.05%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0072-edit-distance){:target="_blank"}
 {:.related-posts.faded}
+---
 
 <br>
 
@@ -85,9 +93,39 @@ description: >
 
 <h3> Interview Preparation Kit </h3>
 ---
+* [Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem){:.heading.flip-title  target="_blank"} ---
+`Easy` &nbsp;\|&nbsp; [**`Github`**](https://github.com/yylou/hacker-rank-problem-solving/tree/main/ipk-sales-by-match/solution.py){:target="_blank"}
+
+* [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem){:.heading.flip-title  target="_blank"} ---
+`Easy` &nbsp;\|&nbsp; [**`Github`**](https://github.com/yylou/hacker-rank-problem-solving/tree/main/ipk-counting-valleys/solution.py){:target="_blank"}
+
+* [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem){:.heading.flip-title  target="_blank"} ---
+`Easy` &nbsp;\|&nbsp; [**`Github`**](https://github.com/yylou/hacker-rank-problem-solving/tree/main/ipk-jumping-on-the-clouds/solution.py){:target="_blank"}
+
+* [Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem){:.heading.flip-title  target="_blank"} ---
+`Easy` &nbsp;\|&nbsp; [**`Github`**](https://github.com/yylou/hacker-rank-problem-solving/tree/main/ipk-repeated-string/solution.py){:target="_blank"}
+{:.related-posts.faded}
+---
 
 <h3> Algorithm </h3>
 ---
+* [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem){:.heading.flip-title  target="_blank"} ---
+`Easy` &nbsp;\|&nbsp; [**`Github`**](https://github.com/yylou/hacker-rank-problem-solving/tree/main/algo-birthday-cake-candles/solution.py){:target="_blank"}
+
+* [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem){:.heading.flip-title  target="_blank"} ---
+`Easy` &nbsp;\|&nbsp; [**`Github`**](https://github.com/yylou/hacker-rank-problem-solving/tree/main/algo-time-conversion/solution.py){:target="_blank"}
+
+* [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem){:.heading.flip-title  target="_blank"} ---
+`Easy` &nbsp;\|&nbsp; [**`Github`**](https://github.com/yylou/hacker-rank-problem-solving/tree/main/algo-diagonal-difference/solution.py){:target="_blank"}
+{:.related-posts.faded}
+---
 
 <h3> Data Structure </h3>
+---
+* [Reverse Array](https://www.hackerrank.com/challenges/arrays-ds/problem){:.heading.flip-title  target="_blank"} ---
+`Easy` &nbsp;\|&nbsp; [**`Github`**](https://github.com/yylou/hacker-rank-problem-solving/tree/main/ds-reverse-array/solution.py){:target="_blank"}
+
+* [2D Array](https://www.hackerrank.com/challenges/2d-array/problem){:.heading.flip-title  target="_blank"} ---
+`Easy` &nbsp;\|&nbsp; [**`Github`**](https://github.com/yylou/hacker-rank-problem-solving/tree/main/ds-2d-array/solution.py){:target="_blank"}
+{:.related-posts.faded}
 ---

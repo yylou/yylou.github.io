@@ -1,0 +1,177 @@
+I"lA<!---
+<sup>Full resume in PDF format is availabe on my LinkedIn page. <sup>&nbsp;[*click*](https://www.linkedin.com/in/yylou/){:target="_blank"}</sup></sup>
+{:.note}
+--->
+
+<!---
+**Incoming M.S. / Ph.D. student in EECS for Fall 2021 in the US** &nbsp;---&nbsp; `Software Engineering` / `Computer Networking` / `Machine Learning`  
+{:.note}
+--->
+
+<p class="note">Actively seeking for <strong><code class="language-plaintext highlighter-rouge">Software Development Engineer</code></strong> and <strong><code class="language-plaintext highlighter-rouge">Backend Engineer (Python)</code></strong> full-time job in 2021.</p>
+
+<ol id="markdown-toc">
+  <li><a href="#-x1f9be-nbsp-skills" id="markdown-toc--x1f9be-nbsp-skills"><font style="color: rgb(72, 103, 115)"> &#x1F9BE; &nbsp; Skills</font></a></li>
+  <li><a href="#-127891-nbsp-education-" id="markdown-toc--127891-nbsp-education-"><font style="color: rgb(72, 103, 115)"> &#127891; &nbsp; Education </font></a></li>
+  <li><a href="#-x1f9fb-nbsp-publications-" id="markdown-toc--x1f9fb-nbsp-publications-"><font style="color: rgb(72, 103, 115)"> &#x1F9FB; &nbsp; Publications </font></a></li>
+  <li><a href="#-128188-nbsp-experience---industry-" id="markdown-toc--128188-nbsp-experience---industry-"><font style="color: rgb(72, 103, 115)"> &#128188; &nbsp; Experience - Industry </font></a></li>
+  <li><a href="#-128209-nbsp-experience---research-" id="markdown-toc--128209-nbsp-experience---research-"><font style="color: rgb(72, 103, 115)"> &#128209; &nbsp; Experience - Research </font></a></li>
+  <li><a href="#-x1f4a1-nbsp-experience---teaching-" id="markdown-toc--x1f4a1-nbsp-experience---teaching-"><font style="color: rgb(72, 103, 115)"> &#x1F4A1; &nbsp; Experience - Teaching </font></a></li>
+  <li><a href="#-x1f680-nbsp-projects-" id="markdown-toc--x1f680-nbsp-projects-"><font style="color: rgb(72, 103, 115)"> &#x1F680; &nbsp; Projects </font></a></li>
+  <li><a href="#-128220-nbsp-certificates-" id="markdown-toc--128220-nbsp-certificates-"><font style="color: rgb(72, 103, 115)"> &#128220; &nbsp; Certificates </font></a></li>
+</ol>
+
+<h2 id="-x1f9be-nbsp-skills"><font style="color: rgb(72, 103, 115)"> &#x1F9BE; &nbsp; Skills</font></h2>
+<hr />
+<ul>
+  <li><strong>Programming</strong>    <code class="language-plaintext highlighter-rouge">Python</code>   <code class="language-plaintext highlighter-rouge">Java</code>   <code class="language-plaintext highlighter-rouge">C/C++</code>   <code class="language-plaintext highlighter-rouge">Scripting</code>   <code class="language-plaintext highlighter-rouge">HTML</code>   <code class="language-plaintext highlighter-rouge">CSS</code>   <code class="language-plaintext highlighter-rouge">Javascript</code>   <code class="language-plaintext highlighter-rouge">CUDA</code></li>
+  <li><strong>System &amp; Tools</strong>    <code class="language-plaintext highlighter-rouge">Linux</code>   <code class="language-plaintext highlighter-rouge">LAMP</code>   <code class="language-plaintext highlighter-rouge">Android</code>   <code class="language-plaintext highlighter-rouge">Django</code>   <code class="language-plaintext highlighter-rouge">Bootstrap</code>   <code class="language-plaintext highlighter-rouge">MongoDB</code>   <code class="language-plaintext highlighter-rouge">MySQL</code>   <code class="language-plaintext highlighter-rouge">Git</code>   <code class="language-plaintext highlighter-rouge">GCP</code></li>
+  <li><strong>Research</strong>    <code class="language-plaintext highlighter-rouge">Cloud/Edge/Fog Computing</code>   <code class="language-plaintext highlighter-rouge">Internet of Things (IoT)</code>   <code class="language-plaintext highlighter-rouge">Machine Learning</code></li>
+</ul>
+
+<hr />
+
+<h2 id="-127891-nbsp-education-"><font style="color: rgb(72, 103, 115)"> &#127891; &nbsp; Education </font></h2>
+<hr />
+<p><strong><a href="https://www.inm.ntu.edu.tw/main.php" target="_blank">National Taiwan University</a></strong>  |  M.S. in Computer Science  |  <strong>GPA 3.9 / 4.3</strong>  |  <em>2015.09 - 2017.06</em></p>
+<ul>
+  <li><strong><code class="language-plaintext highlighter-rouge">Thesis</code></strong>   Fog-based Virtualization for Low-Latency Wearable Services  —  <strong><code class="language-plaintext highlighter-rouge">Advisor</code></strong> <a href="https://www.csie.ntu.edu.tw/~acpang/index.html" target="_blank">Prof. Ai-Chun Pang (<em>IEEE Fellow</em>)</a></li>
+  <li><strong><code class="language-plaintext highlighter-rouge">Awards</code></strong>   Two-time Outstanding TA Awards, Valedictorian of Graduation Ceremony</li>
+</ul>
+
+<p><br /></p>
+
+<p><strong><a href="https://www.cs.nycu.edu.tw/?locale=en" target="_blank">National Chiao Tung University</a></strong>  |  B.S. in Computer Science  |  <strong>GPA 3.9 / 4.3</strong>  |  <em>2011.09 - 2015.06</em></p>
+<ul>
+  <li><strong><code class="language-plaintext highlighter-rouge">Project</code></strong>   Accelerating HEVC by Adopting GPGPU/CUDA <sup> <a href="#-x1f680-nbsp-projects-"><em>click</em></a></sup></li>
+  <li><strong><code class="language-plaintext highlighter-rouge">Awards</code></strong>   Two-time Presidential Awards, MOST Research Project Funding and Awards</li>
+</ul>
+
+<hr />
+
+<h2 id="-x1f9fb-nbsp-publications-"><font style="color: rgb(72, 103, 115)"> &#x1F9FB; &nbsp; Publications </font></h2>
+<hr />
+<p><strong>Book Chapter</strong></p>
+<ul>
+  <li>Yuan-Yao Shih, Ai-Chun Pang, <strong>Yuan-Yao Lou</strong>, “<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119501121.ch13" target="_blank">Chapter 13 - Development of Wearable Services with Edge Devices,</a>” <em>Fog and Fogonomics: Challenges and Practices of Fog Computing, Communication, Networking, Strategy, and Economics</em>, 2020</li>
+</ul>
+
+<p><strong>Journal Paper</strong></p>
+<ul>
+  <li>Xiaoli Wang, Ming-Jye Sheng, <strong>Yuan-Yao Lou</strong>, Mung Chiang, “<a href="https://ieeexplore.ieee.org/document/7314871" target="_blank">Internet of Things Session Management Over LTE — Balancing Signal Load, Power, and Delay,</a>” <em>IEEE Internet of Things Journal (IoT-J)</em>, 2015</li>
+</ul>
+
+<p><strong>Conference Paper</strong></p>
+<ul>
+  <li>Yuan-Yao Shih, Ai-Chun Pang, <strong>Yuan-Yao Lou</strong>, Ching-Chih Chuang, Liqiang Zhao, Zhiyuan Ren, “<a href="/assets/2018-modularized-service-provisioning-at-fog-networks.pdf" target="_blank">Modularized Service Provisioning at Fog Networks,</a>” <em>IEEE Vehicular Technology Society (VTS) Asia Pacific Wireless Communications Symposium (APWCS)</em>, 2018</li>
+  <li>Hsin-Peng Lin, Yuan-Yao Shih, Ai-Chun Pang, <strong>Yuan-Yao Lou</strong>, “<a href="https://dl.acm.org/doi/10.1145/2988287.2989150" target="_blank">A Virtual Local-hub Solution with Function Module Sharing for Wearable Devices,</a>” <em>ACM International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems (MSWiM)</em>, 2016</li>
+</ul>
+
+<hr />
+
+<h2 id="-128188-nbsp-experience---industry-"><font style="color: rgb(72, 103, 115)"> &#128188; &nbsp; Experience - Industry </font></h2>
+<hr />
+<p><strong><a href="https://www.siliconmotion.com/company/overview" target="_blank">Silicon Motion - Algorithm and Technology R&amp;D Center</a></strong>  |  Supvervisor Software Engineer  |  <em>2017.12 - 2021.03</em></p>
+<ul>
+  <li>Developed automated software system to boost development efficiency  | <span style="color: rgb(3, 74, 166)"><strong><code class="language-plaintext highlighter-rouge">Python</code></strong> <strong><code class="language-plaintext highlighter-rouge">JSON</code></strong> <strong><code class="language-plaintext highlighter-rouge">QT</code></strong></span></li>
+  <li>Devised design tracking system by graph algorithms and visualized profile data  | <span style="color: rgb(3, 74, 166)"><strong><code class="language-plaintext highlighter-rouge">Python</code></strong> <strong><code class="language-plaintext highlighter-rouge">SQLite</code></strong></span></li>
+  <li>Enhanced design handoff quality by bridging EDA tools’ APIs with data consistency checks  | <span style="color: rgb(3, 74, 166)"><strong><code class="language-plaintext highlighter-rouge">Python</code></strong> <strong><code class="language-plaintext highlighter-rouge">TCL</code></strong></span></li>
+</ul>
+
+<p><strong>Major Achievement</strong></p>
+<ul>
+  <li>Coordinated company’s first <a href="https://www.electronicsweekly.com/news/business/761235-2020-11/" target="_blank">AI product</a> and 7nm/12nm/16nm projects of mobile devices</li>
+  <li>Established Python programming disciplines and organized training sessions</li>
+  <li>Served as on-campus technical recruiter at National Taiwan University in 2018 and 2019</li>
+  <li><strong>Promoted twice within 24 months to Supervisor</strong></li>
+</ul>
+
+<hr />
+
+<h2 id="-128209-nbsp-experience---research-"><font style="color: rgb(72, 103, 115)"> &#128209; &nbsp; Experience - Research </font></h2>
+<hr />
+<p><strong><a href="https://www.most.gov.tw/?l=en" target="_blank">Ministry of Science and Technology (MOST)</a></strong>  |  Graduate Researcher and Network Engineer  |  <em>2015.09 - 2017.09</em></p>
+<ul>
+  <li>Modified Android Wear OS to enable computation offloading through IoT devices  | <span style="color: rgb(3, 74, 166)"><strong><code class="language-plaintext highlighter-rouge">Android</code></strong> <strong><code class="language-plaintext highlighter-rouge">Java</code></strong></span></li>
+  <li>Built edge network on developmental boards and developed low-latency applications  | <span style="color: rgb(3, 74, 166)"><strong><code class="language-plaintext highlighter-rouge">Python</code></strong> <strong><code class="language-plaintext highlighter-rouge">Java</code></strong> <strong><code class="language-plaintext highlighter-rouge">LAMP</code></strong> <strong><code class="language-plaintext highlighter-rouge">Raspberry Pi</code></strong></span></li>
+  <li>Deployed web applications to control network operation  | <span style="color: rgb(3, 74, 166)"><strong><code class="language-plaintext highlighter-rouge">Django + Bootstrap</code></strong> <strong><code class="language-plaintext highlighter-rouge">MongoDB</code></strong> <strong><code class="language-plaintext highlighter-rouge">RESTful</code></strong></span></li>
+</ul>
+
+<p><strong>Major Achievement</strong></p>
+<ul>
+  <li>Eliminated Android wearable devices’ connection and computing limitations</li>
+  <li>Demonstrated Fog/Edge network prototype in 5G workshop held by <a href="https://www.moea.gov.tw/MNS/english/home/English.aspx" target="_blank">Ministry of Economic Affairs (MOEA)</a></li>
+  <li><strong>Published two conference papers (IEEE and ACM) and one book chapter</strong></li>
+</ul>
+
+<p><br /></p>
+
+<p><strong><a href="http://edgelab.princeton.edu" target="_blank">Princeton University - EDGE Lab</a></strong>  |  Research Intern  |  <strong><code class="language-plaintext highlighter-rouge">Fog/Edge Computing</code></strong> <strong><code class="language-plaintext highlighter-rouge">LTE</code></strong> <strong><code class="language-plaintext highlighter-rouge">IoT</code></strong> <strong><code class="language-plaintext highlighter-rouge">Machine Learning</code></strong>  |  <em>2014.07 - 2015.03</em></p>
+<ul>
+  <li>Developed tools to analyze network packets and profile Android app performance  | <span style="color: rgb(3, 74, 166)"><strong><code class="language-plaintext highlighter-rouge">Python</code></strong> <strong><code class="language-plaintext highlighter-rouge">Java</code></strong></span></li>
+  <li>Built probabilistic Markov model with automated simulation and visualized numerical results  | <span style="color: rgb(3, 74, 166)"><strong><code class="language-plaintext highlighter-rouge">Python</code></strong> <strong><code class="language-plaintext highlighter-rouge">Prism</code></strong></span></li>
+</ul>
+
+<p><strong>Major Achievement</strong></p>
+<ul>
+  <li>Proposed LTE mechanism (RRC and DRX) enhancement to support IoT-type network sessions</li>
+  <li><strong>Published one journal paper (IEEE IoT Journal)</strong></li>
+</ul>
+
+<hr />
+
+<h2 id="-x1f4a1-nbsp-experience---teaching-"><font style="color: rgb(72, 103, 115)"> &#x1F4A1; &nbsp; Experience - Teaching </font></h2>
+<hr />
+<p><strong><a href="https://www.inm.ntu.edu.tw/main.php" target="_blank">National Taiwan University</a></strong>  |  TA  |  <strong><code class="language-plaintext highlighter-rouge">CSIE3510</code></strong> Computer Network  + <strong><code class="language-plaintext highlighter-rouge">CSIE5057</code></strong> Advanced Computer Network  |  <em>2016.02 - 2017.01</em></p>
+<ul>
+  <li>Designed IRC chatbot application as assignment for socket programming training  | <span style="color: rgb(3, 74, 166)"><strong><code class="language-plaintext highlighter-rouge">Python</code></strong> <strong><code class="language-plaintext highlighter-rouge">C</code></strong></span></li>
+  <li>Improved program’s robustness and stimulated creativity by peer testing mechanism</li>
+  <li>Lectured TCP/IP protocol and demonstrated network packets tracing in Wireshark</li>
+</ul>
+
+<p><strong>Major Achievement</strong></p>
+<ul>
+  <li>Received two-time Outstanding TA awards</li>
+</ul>
+
+<hr />
+
+<h2 id="-x1f680-nbsp-projects-"><font style="color: rgb(72, 103, 115)"> &#x1F680; &nbsp; Projects </font></h2>
+<hr />
+<p><strong>MOOC Platform Course Dropout Prediction</strong>  |  NTU <strong><code class="language-plaintext highlighter-rouge">CSIE5430</code></strong> Machine Learning  |  <em>2015.12 - 2016.01</em></p>
+<ul>
+  <li>Acted as team leader to train machine learning models and evaluate datasets  | <span style="color: rgb(3, 74, 166)"><strong><code class="language-plaintext highlighter-rouge">Python</code></strong></span></li>
+  <li>Achieved 96% of accuracy rate by applying ensemble machine learning with factor analysis  | <span style="color: rgb(3, 74, 166)"><strong><code class="language-plaintext highlighter-rouge">Gradient Boosted DT + AdaBoost</code></strong></span></li>
+  <li>Analyzed complexity and pros-cons of machine learning models for model blending</li>
+</ul>
+
+<p><br /></p>
+
+<p><strong><a href="https://appinventor.mit.edu" target="_blank">MIT App Inventor 2</a></strong> - LayerBox Feature  |  NCTU <strong><code class="language-plaintext highlighter-rouge">IOC5157</code></strong> Free and Open Source Software and Project  |  <em>2015.03 - 2015.06</em></p>
+<ul>
+  <li>Delivered <a href="https://groups.google.com/g/mitappinventortest/c/F6gED-J-JHM/m/b__eQud2L04J" target="_blank">new feature</a> to improve programmability of visual programming environment  | <span style="color: rgb(3, 74, 166)"><strong><code class="language-plaintext highlighter-rouge">Javascript</code></strong> <strong><code class="language-plaintext highlighter-rouge">GCP</code></strong> <strong><code class="language-plaintext highlighter-rouge">App Engine</code></strong></span></li>
+  <li>Attended <a href="http://appinventor.mit.edu/explore/summit-2013-archive" target="_blank">MIT App Inventor Summit</a> in Boston, MA, the US as developer in 2013</li>
+</ul>
+
+<p><br /></p>
+
+<p><strong>Accelerating HEVC by Adopting GPGPU/CUDA</strong>  |  NCTU <strong><code class="language-plaintext highlighter-rouge">DCP3103</code></strong> Computer Science and Engineering Projects  |  <em>2014.07 - 2015.02</em></p>
+<ul>
+  <li>Acted as team leader and planned project milestone with programming assignments  | <span style="color: rgb(3, 74, 166)"><strong><code class="language-plaintext highlighter-rouge">Matrix Multiplication Optimization</code></strong></span></li>
+  <li>Focused on reducing decoding/encoding time by decomposing HEVC and applying parallel programming  | <span style="color: rgb(3, 74, 166)"><strong><code class="language-plaintext highlighter-rouge">CUDA</code></strong></span></li>
+  <li>Presented project findings in English on weekly engineering project seminar</li>
+  <li><strong>Funded and awarded by delivering proposal to Ministry of Science and Technology (MOST)</strong></li>
+</ul>
+
+<hr />
+
+<h2 id="-128220-nbsp-certificates-"><font style="color: rgb(72, 103, 115)"> &#128220; &nbsp; Certificates </font></h2>
+<hr />
+<ul>
+  <li><strong><a href="https://www.iitk.ac.in/cce/comsoc-winter-school-20/" target="_blank">IEEE Winter School on Fog/Edge Computing</a></strong>  |  IEEE Standards Association (SA) &amp; IEEE Communications Society (ComSoc)  |  <em>2020</em></li>
+  <li><strong><a href="https://esl.rice.edu" target="_blank">English as a Second Language (ESL) program - Level 5</a></strong>  |  Rice University  |  <em>2013</em></li>
+</ul>
+
+<hr />
+
+:ET
