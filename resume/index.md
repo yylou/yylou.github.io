@@ -74,6 +74,24 @@ Actively seeking for **`Software Development Engineer`** and **`Backend Engineer
 
 
 
+## <font style="color: rgb(72, 103, 115)"> &#128188; &nbsp; Experience - Industry </font>
+---
+**[Silicon Motion - Algorithm and Technology R&D Center](https://www.siliconmotion.com/company/overview){:target="_blank"}** &nbsp;|&nbsp; Supvervisor Software Engineer &nbsp;|&nbsp; *2017.12 - 2021.03*  
+* Developed automated software system to boost development efficiency &nbsp;\|&nbsp;<span style="color: rgb(3, 74, 166)">**`Python`** **`JSON`** **`QT`**</span> 
+* Devised design tracking system by graph algorithms and visualized profile data &nbsp;\|&nbsp;<span style="color: rgb(3, 74, 166)">**`Python`** **`SQLite`**</span>
+* Enhanced design handoff quality by bridging EDA tools' APIs with data consistency checks &nbsp;\|&nbsp;<span style="color: rgb(3, 74, 166)">**`Python`** **`TCL`**</span>
+
+**Major Achievement**
+* Coordinated company's first [AI product](https://www.electronicsweekly.com/news/business/761235-2020-11/){:target="_blank"} and 7nm/12nm/16nm projects of mobile devices
+* Established Python programming disciplines and organized training sessions 
+* Served as on-campus technical recruiter at National Taiwan University in 2018 and 2019
+* **Promoted twice within 24 months to Supervisor**
+
+---
+
+
+
+
 
 ## <font style="color: rgb(72, 103, 115)"> &#128209; &nbsp; Experience - Research </font>
 ---
@@ -96,25 +114,6 @@ Actively seeking for **`Software Development Engineer`** and **`Backend Engineer
 **Major Achievement**
 * Proposed LTE mechanism (RRC and DRX) enhancement to support IoT-type network sessions 
 * **Published one journal paper (IEEE IoT Journal)**
-
----
-
-
-
-
-
-## <font style="color: rgb(72, 103, 115)"> &#128188; &nbsp; Experience - Industry </font>
----
-**[Silicon Motion - Algorithm and Technology R&D Center](https://www.siliconmotion.com/company/overview){:target="_blank"}** &nbsp;|&nbsp; Supvervisor Software Engineer &nbsp;|&nbsp; *2017.12 - 2021.03*  
-* Developed automated software system to boost development efficiency &nbsp;\|&nbsp;<span style="color: rgb(3, 74, 166)">**`Python`** **`JSON`** **`QT`**</span> 
-* Devised design tracking system by graph algorithms and visualized profile data &nbsp;\|&nbsp;<span style="color: rgb(3, 74, 166)">**`Python`** **`SQLite`**</span>
-* Enhanced design handoff quality by bridging EDA tools' APIs with data consistency checks &nbsp;\|&nbsp;<span style="color: rgb(3, 74, 166)">**`Python`** **`TCL`**</span>
-
-**Major Achievement**
-* Coordinated company's first [AI product](https://www.electronicsweekly.com/news/business/761235-2020-11/){:target="_blank"} and 7nm/12nm/16nm projects of mobile devices
-* Established Python programming disciplines and organized training sessions 
-* Served as on-campus technical recruiter at National Taiwan University in 2018 and 2019
-* **Promoted twice within 24 months to Supervisor**
 
 ---
 
