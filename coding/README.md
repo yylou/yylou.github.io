@@ -35,6 +35,11 @@ description: >
 **`Runtime`** 24 ms (*95.24%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 15.9 MB (*92.41%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0104-maximum-depth-of-binary-tree){:target="_blank"}
+
+* [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/){:.heading.flip-title  target="_blank"} ---
+**`Runtime`** 28 ms (*97.78%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 14.4 MB (*47.96%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0242-valid-anagram){:target="_blank"}
 {:.related-posts.faded}
 ---
 
@@ -60,6 +65,11 @@ description: >
 **`Mem Usage`** 13.3 MB (*72.36%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0019-remove-nth-node-from-end-of-list){:target="_blank"}
 
+* [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/){:.heading.flip-title  target="_blank"} ---
+**`Runtime`** 76 ms (*95.44%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 17.1 MB (*94.93%*) &nbsp;\|&nbsp;
+[**`Github`**](https://leetcode.com/problems/group-anagrams/){:target="_blank"}
+
 * [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/){:.heading.flip-title  target="_blank"} ---
 **`Runtime`** 28 ms (*99.63%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 13.3 MB (*97.40%*) &nbsp;\|&nbsp;
@@ -69,6 +79,11 @@ description: >
 **`Runtime`** 112 ms (*99.40%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 29.6 MB (*93.89%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0208-implement-trie-prefix-tree){:target="_blank"}
+
+* [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/){:.heading.flip-title target="_blank"} ---
+**`Runtime`** 72 ms (*98.73%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 14.1 MB (*96.90%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0438-find-all-anagrams-in-a-string){:target="_blank"}
 {:.related-posts.faded}
 ---
 
