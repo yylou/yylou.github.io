@@ -84,6 +84,11 @@ description: >
 **`Runtime`** 72 ms (*98.73%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 14.1 MB (*96.90%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0438-find-all-anagrams-in-a-string){:target="_blank"}
+
+* [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/){:.heading.flip-title target="_blank"} ---
+**`Runtime`** 36 ms (*99.82%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 13.7 MB (*85.19%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0567-permutation-in-string){:target="_blank"}
 {:.related-posts.faded}
 ---
 
