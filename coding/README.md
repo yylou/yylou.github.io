@@ -41,6 +41,11 @@ description: >
 **`Mem Usage`** 13.6 MB (*37.70%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0020-valid-parentheses){:target="_blank"}
 
+* [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/){:.heading.flip-title  target="_blank"} ---
+**`Runtime`** 12 ms (*97.47%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 13.5 MB (*99.75%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0028-implement-strStr){:target="_blank"}
+
 * [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 24 ms (*95.24%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 15.9 MB (*92.41%*) &nbsp;\|&nbsp;
