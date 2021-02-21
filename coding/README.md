@@ -90,6 +90,11 @@ description: >
 **`Mem Usage`** 13.3 MB (*72.36%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0019-remove-nth-node-from-end-of-list){:target="_blank"}
 
+* [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/){:.heading.flip-title  target="_blank"} ---
+**`Runtime`** 16 ms (*94.49%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 13.6 MB (*90.25%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0022-generate-parentheses){:target="_blank"}
+
 * [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/){:.heading.flip-title  target="_blank"} ---
 **`Runtime`** 76 ms (*95.44%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 17.1 MB (*94.93%*) &nbsp;\|&nbsp;
