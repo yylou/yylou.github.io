@@ -16,6 +16,16 @@ description: >
 
 <h3> Easy </h3>
 ---
+* [1. Two Sum](https://leetcode.com/problems/two-sum/){:.heading.flip-title target="_blank"} ---
+**`Runtime`** 28 ms (*93.73%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 13.4 MB (*79.11%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0001-2-sum){:target="_blank"}
+
+* [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/){:.heading.flip-title target="_blank"} ---
+**`Runtime`** 16 ms (*88.67%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 13.3 MB (*90.96%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0007-reverse-integer){:target="_blank"}
+
 * [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 40 ms (*93.69%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 13.2 MB (*90.79%*) &nbsp;\|&nbsp;
@@ -36,10 +46,20 @@ description: >
 **`Mem Usage`** 15.9 MB (*92.41%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0104-maximum-depth-of-binary-tree){:target="_blank"}
 
+* [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/){:.heading.flip-title  target="_blank"} ---
+**`Runtime`** 16 ms (*98.94%*) &nbsp;\|&nbsp;
+**`Mem Usage`**  15.4 MB (*80.06%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0206-reverse-linked-list){:target="_blank"}
+
 * [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/){:.heading.flip-title  target="_blank"} ---
 **`Runtime`** 28 ms (*97.78%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 14.4 MB (*47.96%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0242-valid-anagram){:target="_blank"}
+
+* [344. Reverse String](https://leetcode.com/problems/reverse-string/){:.heading.flip-title  target="_blank"} ---
+**`Runtime`** 152 ms (*98.00%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 21.2 MB (*57.89%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0344-reverse-string){:target="_blank"} 
 {:.related-posts.faded}
 ---
 
