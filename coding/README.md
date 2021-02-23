@@ -105,6 +105,11 @@ description: >
 **`Mem Usage`** 13.3 MB (*97.40%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0080-remove-duplicates-from-sorted-array-II){:target="_blank"}
 
+* [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/){:.heading.flip-title  target="_blank"} ---
+**`Runtime`** 4 ms (*99.93%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 13.3 MB (*95.41%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0144-binary-tree-preorder-traversal){:target="_blank"}
+
 * [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/){:.heading.flip-title target="_blank"} --- 
 **`Runtime`** 112 ms (*99.40%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 29.6 MB (*93.89%*) &nbsp;\|&nbsp;
