@@ -110,6 +110,11 @@ description: >
 **`Mem Usage`** 13.3 MB (*95.41%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0144-binary-tree-preorder-traversal){:target="_blank"}
 
+* [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/){:.heading.flip-title  target="_blank"} ---
+**`Runtime`** 4 ms (*99.91%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 13.3 MB (*96.64%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0145-binary-tree-postorder-traversal){:target="_blank"}
+
 * [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/){:.heading.flip-title target="_blank"} --- 
 **`Runtime`** 112 ms (*99.40%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 29.6 MB (*93.89%*) &nbsp;\|&nbsp;
