@@ -70,6 +70,11 @@ description: >
 **`Runtime`** 32 ms (*98.74%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 16.4 MB (*75.58%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0589-n-ary-tree-preorder-traversal){:target="_blank"}
+
+* [590. N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/){:.heading.flip-title  target="_blank"} ---
+**`Runtime`** 32 ms (*98.77%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 16.3 MB (*94.57%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0590-n-ary-tree-postorder-traversal){:target="_blank"}
 {:.related-posts.faded}
 ---
 
