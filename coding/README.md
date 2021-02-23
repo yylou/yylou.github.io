@@ -65,6 +65,11 @@ description: >
 **`Runtime`** 152 ms (*98.00%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 21.2 MB (*57.89%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0344-reverse-string){:target="_blank"} 
+
+* [589. N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/){:.heading.flip-title  target="_blank"} ---
+**`Runtime`** 32 ms (*98.74%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 16.4 MB (*75.58%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0589-n-ary-tree-preorder-traversal){:target="_blank"}
 {:.related-posts.faded}
 ---
 
