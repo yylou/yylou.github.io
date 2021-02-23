@@ -174,6 +174,9 @@ description: >
 
 * [Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem){:.heading.flip-title  target="_blank"} ---
 `Easy` &nbsp;\|&nbsp; [**`Github`**](https://github.com/yylou/hacker-rank-problem-solving/tree/main/ipk-repeated-string/solution.py){:target="_blank"}
+
+* [Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem){:.heading.flip-title  target="_blank"} ---
+`Medium` &nbsp;\|&nbsp; [**`Github`**](https://github.com/yylou/hacker-rank-problem-solving/blob/main/ipk-sherlock-and-anagrams/solution.py){:target="_blank"}
 {:.related-posts.faded}
 ---
 
