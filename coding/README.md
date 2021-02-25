@@ -41,6 +41,16 @@ description: >
 **`Mem Usage`** 13.6 MB (*37.70%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0020-valid-parentheses){:target="_blank"}
 
+* [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/){:.heading.flip-title  target="_blank"} ---
+**`Runtime`** 16 ms (*98.84%%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 13.4 MB (*87.61%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0021-merge-two-sorted-lists){:target="_blank"}
+
+* [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/){:.heading.flip-title  target="_blank"} ---
+**`Runtime`** 56 ms (*98.22%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 15.2 MB (*73.19%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0026-remove-duplicates-from-sorted-array){:target="_blank"}
+
 * [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/){:.heading.flip-title  target="_blank"} ---
 **`Runtime`** 12 ms (*97.47%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 13.5 MB (*99.75%*) &nbsp;\|&nbsp;
@@ -85,6 +95,11 @@ description: >
 **`Mem Usage`** 13.7 MB (*73.48%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0003-longest-substring-without-repeating-characters){:target="_blank"}
 
+* [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/){:.heading.flip-title  target="_blank"} ---
+**`Runtime`** 20 ms (*84.74%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 13.4 MB (*96.79*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0008-string-to-integer-atoi){:target="_blank"}
+
 * [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/){:.heading.flip-title  target="_blank"} ---
 **`Runtime`** 116 ms (*99.87%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 15.4 MB (*43.03%*) &nbsp;\|&nbsp;
@@ -94,6 +109,11 @@ description: >
 **`Runtime`** 528 ms (*96.39%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 16.9 MB (*38.27%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0015-3-sum){:target="_blank"}
+
+* [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/){:.heading.flip-title  target="_blank"} ---
+**`Runtime`** 12 ms (*95.75%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 13.3 MB (*92.81%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0017-letter-combinations-of-a-phone-number){:target="_blank"}
 
 * [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/){:.heading.flip-title  target="_blank"} ---
 **`Runtime`** 12 ms (*98.94%*) &nbsp;\|&nbsp;
@@ -115,6 +135,11 @@ description: >
 **`Mem Usage`** 13.3 MB (*97.40%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0080-remove-duplicates-from-sorted-array-II){:target="_blank"}
 
+* [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/){:.heading.flip-title  target="_blank"} ---
+**`Runtime`** 12 ms (*95.43%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 13.3 MB (*79.67%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0094-binary-tree-inorder-traversal){:target="_blank"}
+
 * [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/){:.heading.flip-title  target="_blank"} ---
 **`Runtime`** 4 ms (*99.93%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 13.3 MB (*95.41%*) &nbsp;\|&nbsp;
@@ -124,6 +149,11 @@ description: >
 **`Runtime`** 4 ms (*99.91%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 13.3 MB (*96.64%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0145-binary-tree-postorder-traversal){:target="_blank"}
+
+* [189. Rotate Array](https://leetcode.com/problems/rotate-array/){:.heading.flip-title  target="_blank"} ---
+**`Runtime`** 36 ms (*99.48%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 13.8 MB (*86.25%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0189-rotate-array){:target="_blank"}
 
 * [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/){:.heading.flip-title target="_blank"} --- 
 **`Runtime`** 112 ms (*99.40%*) &nbsp;\|&nbsp;
