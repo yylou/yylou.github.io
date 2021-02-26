@@ -128,7 +128,7 @@ description: >
 * [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/){:.heading.flip-title  target="_blank"} ---
 **`Runtime`** 76 ms (*95.44%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 17.1 MB (*94.93%*) &nbsp;\|&nbsp;
-[**`Github`**](https://leetcode.com/problems/group-anagrams/){:target="_blank"}
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0049-group-anagrams){:target="_blank"}
 
 * [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/){:.heading.flip-title  target="_blank"} ---
 **`Runtime`** 28 ms (*99.63%*) &nbsp;\|&nbsp;
