@@ -14,7 +14,7 @@ description: >
 ## <font style="color: rgb(72, 103, 115)"> LeetCode </font>
 ---
 
-<h3> Easy </h3>
+<h3> Easy (#14) </h3>
 ---
 * [1. Two Sum](https://leetcode.com/problems/two-sum/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 28 ms (*93.73%*) &nbsp;\|&nbsp;
@@ -88,7 +88,7 @@ description: >
 {:.related-posts.faded}
 ---
 
-<h3> Medium </h3>
+<h3> Medium (#21) </h3>
 ---
 * [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/){:.heading.flip-title  target="_blank"} ---
 **`Runtime`** 36 ms (*95.77%*) &nbsp;\|&nbsp;
@@ -197,7 +197,7 @@ description: >
 {:.related-posts.faded}
 ---
 
-<h3> Hard </h3>
+<h3> Hard (#2) </h3>
 ---
 * [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/){:.heading.flip-title  target="_blank"} ---
 **`Runtime`** 68 ms (*88.56%*) &nbsp;\|&nbsp;
