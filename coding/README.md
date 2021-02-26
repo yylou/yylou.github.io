@@ -216,7 +216,7 @@ description: >
 ## <font style="color: rgb(72, 103, 115)"> HackerRank </font>
 ---
 
-<h3> Interview Preparation Kit </h3>
+<h3> Interview Preparation Kit (#5) </h3>
 ---
 * [Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem){:.heading.flip-title  target="_blank"} ---
 `Easy` &nbsp;\|&nbsp; [**`Github`**](https://github.com/yylou/hacker-rank-problem-solving/tree/main/ipk-sales-by-match/solution.py){:target="_blank"}
@@ -235,7 +235,7 @@ description: >
 {:.related-posts.faded}
 ---
 
-<h3> Algorithm </h3>
+<h3> Algorithm (#3) </h3>
 ---
 * [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem){:.heading.flip-title  target="_blank"} ---
 `Easy` &nbsp;\|&nbsp; [**`Github`**](https://github.com/yylou/hacker-rank-problem-solving/tree/main/algo-birthday-cake-candles/solution.py){:target="_blank"}
@@ -248,7 +248,7 @@ description: >
 {:.related-posts.faded}
 ---
 
-<h3> Data Structure </h3>
+<h3> Data Structure (#2) </h3>
 ---
 * [Reverse Array](https://www.hackerrank.com/challenges/arrays-ds/problem){:.heading.flip-title  target="_blank"} ---
 `Easy` &nbsp;\|&nbsp; [**`Github`**](https://github.com/yylou/hacker-rank-problem-solving/tree/main/ds-reverse-array/solution.py){:target="_blank"}
