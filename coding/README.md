@@ -14,7 +14,7 @@ description: >
 ## <font style="color: rgb(72, 103, 115)"> LeetCode </font>
 ---
 
-<h3> Easy (#14) </h3>
+<h3> Easy (#15) </h3>
 ---
 * [1. Two Sum](https://leetcode.com/problems/two-sum/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 28 ms (*93.73%*) &nbsp;\|&nbsp;
@@ -30,6 +30,11 @@ description: >
 **`Runtime`** 40 ms (*93.69%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 13.2 MB (*90.79%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0009-palindrome-number){:target="_blank"}
+
+* [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/){:.heading.flip-title target="_blank"} ---
+**`Runtime`** 24 ms (*98.78%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 13.4 MB (*87.19%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0013-roman-to-integer){:target="_blank"}
 
 * [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 16 ms (*94.87%*) &nbsp;\|&nbsp;
@@ -88,7 +93,7 @@ description: >
 {:.related-posts.faded}
 ---
 
-<h3> Medium (#22) </h3>
+<h3> Medium (#24) </h3>
 ---
 * [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/){:.heading.flip-title  target="_blank"} ---
 **`Runtime`** 52 ms (*94.00%*) &nbsp;\|&nbsp;
