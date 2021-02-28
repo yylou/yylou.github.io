@@ -100,6 +100,11 @@ description: >
 **`Mem Usage`** 13.7 MB (*73.48%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0003-longest-substring-without-repeating-characters){:target="_blank"}
 
+* [6. ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/){:.heading.flip-title  target="_blank"} ---
+**`Runtime`** 36 ms (*97.43%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 13.5 MB (*96.37%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0006-zigzag-conversion){:target="_blank"}
+
 * [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/){:.heading.flip-title  target="_blank"} ---
 **`Runtime`** 20 ms (*84.74%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 13.4 MB (*96.79*) &nbsp;\|&nbsp;
