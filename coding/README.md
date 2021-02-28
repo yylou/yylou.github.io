@@ -88,8 +88,13 @@ description: >
 {:.related-posts.faded}
 ---
 
-<h3> Medium (#21) </h3>
+<h3> Medium (#22) </h3>
 ---
+* [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/){:.heading.flip-title  target="_blank"} ---
+**`Runtime`** 52 ms (*94.00%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 13.6 MB (*45.02%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0002-add-two-numbers){:target="_blank"}
+
 * [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/){:.heading.flip-title  target="_blank"} ---
 **`Runtime`** 36 ms (*95.77%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 13.7 MB (*73.48%*) &nbsp;\|&nbsp;
