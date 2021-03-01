@@ -14,7 +14,7 @@ description: >
 ## <font style="color: rgb(72, 103, 115)"> LeetCode </font>
 ---
 
-<h3> Easy (#15) </h3>
+<h3> Easy (#17) </h3>
 ---
 * [1. Two Sum](https://leetcode.com/problems/two-sum/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 28 ms (*93.73%*) &nbsp;\|&nbsp;
@@ -103,7 +103,7 @@ description: >
 {:.related-posts.faded}
 ---
 
-<h3> Medium (#24) </h3>
+<h3> Medium (#25) </h3>
 ---
 * [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/){:.heading.flip-title  target="_blank"} ---
 **`Runtime`** 52 ms (*94.00%*) &nbsp;\|&nbsp;
