@@ -56,10 +56,20 @@ description: >
 **`Mem Usage`** 15.2 MB (*73.19%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0026-remove-duplicates-from-sorted-array){:target="_blank"}
 
+* [27. Remove Element](https://leetcode.com/problems/remove-element/){:.heading.flip-title  target="_blank"} ---
+**`Runtime`** 16 ms (*91.94%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 13.3 MB (*91.21%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0027-remove-element){:target="_blank"}
+
 * [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/){:.heading.flip-title  target="_blank"} ---
 **`Runtime`** 12 ms (*97.47%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 13.5 MB (*99.75%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0028-implement-strStr){:target="_blank"}
+
+* [66. Plus One](https://leetcode.com/problems/plus-one/){:.heading.flip-title  target="_blank"} ---
+**`Runtime`** 16 ms (*91.51%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 13.3 MB (*93.81%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0066-plus-one){:target="_blank"}
 
 * [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 24 ms (*95.24%*) &nbsp;\|&nbsp;
@@ -144,6 +154,11 @@ description: >
 **`Runtime`** 16 ms (*94.49%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 13.6 MB (*90.25%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0022-generate-parentheses){:target="_blank"}
+
+* [29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers/){:.heading.flip-title  target="_blank"} ---
+**`Runtime`** 12 ms (*98.81%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 13.2 MB (*94.15%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0029-divide-two-integers){:target="_blank"}
 
 * [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/){:.heading.flip-title  target="_blank"} ---
 **`Runtime`** 76 ms (*95.44%*) &nbsp;\|&nbsp;
