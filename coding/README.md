@@ -14,7 +14,7 @@ description: >
 ## <font style="color: rgb(72, 103, 115)"> LeetCode </font>
 ---
 
-<h3> Easy (#17) </h3>
+<h3> Easy (#20) </h3>
 ---
 * [1. Two Sum](https://leetcode.com/problems/two-sum/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 28 ms (*93.73%*) &nbsp;\|&nbsp;
@@ -75,6 +75,21 @@ description: >
 **`Runtime`** 24 ms (*95.24%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 15.9 MB (*92.41%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0104-maximum-depth-of-binary-tree){:target="_blank"}
+
+* [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/){:.heading.flip-title target="_blank"} ---
+**`Runtime`** 12 ms (*95.69%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 13.2 MB (*89.87%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0118-pascals-triangle){:target="_blank"}
+
+* [119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/){:.heading.flip-title target="_blank"} ---
+**`Runtime`** 12 ms (*96.83%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 13.3 MB (*69.56%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0119-pascals-triangle-ii){:target="_blank"}
+
+* [136. Single Number](https://leetcode.com/problems/single-number/){:.heading.flip-title target="_blank"} ---
+**`Runtime`** 92 ms (*99.65%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 16 MB (*41.70%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0136-single-number){:target="_blank"}
 
 * [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/){:.heading.flip-title  target="_blank"} ---
 **`Runtime`** 16 ms (*98.94%*) &nbsp;\|&nbsp;
