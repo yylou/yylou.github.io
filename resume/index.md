@@ -2,27 +2,14 @@
 layout: page
 title: Resume 
 description: > 
-  Yuan-Yao Lou's Resume (updated on Feb. 2021)
+  Actively seeking for **`Software Development Engineer`** and **`Backend Engineer (Python)`** full-time job in 2021.  <br>
+  Resume is also available on [**104 HR Consultancy**](https://www.104.com.tw/profile/3zZp0XGyhnb){:target="_blank"} &nbsp;\|&nbsp; [**CakeResume**](https://www.cakeresume.com/yyloumike){:target="_blank"} &nbsp;\|&nbsp; [**CakeResume - Portfolio**](https://www.cakeresume.com/yyloumike/portfolio?ref=resume-header-portfolio){:target="_blank"}
 sitemap: true
-hide_description: true
 ---
 
-<!---
-<sup>Full resume in PDF format is availabe on my LinkedIn page. <sup>&nbsp;[*click*](https://www.linkedin.com/in/yylou/){:target="_blank"}</sup></sup>
-{:.note}
---->
-
-<!---
-**Incoming M.S. / Ph.D. student in EECS for Fall 2021 in the US** &nbsp;---&nbsp; `Software Engineering` / `Computer Networking` / `Machine Learning`  
-{:.note}
---->
-
-Actively seeking for **`Software Development Engineer`** and **`Backend Engineer (Python)`** full-time job in 2021.
-{:.note}
 
 0. this unordered seed list will be replaced by toc as unordered list
 {:toc}
-  
 
 
 
@@ -70,6 +57,7 @@ Actively seeking for **`Software Development Engineer`** and **`Backend Engineer
 * Hsin-Peng Lin, Yuan-Yao Shih, Ai-Chun Pang, **Yuan-Yao Lou**, “[A Virtual Local-hub Solution with Function Module Sharing for Wearable Devices,](https://dl.acm.org/doi/10.1145/2988287.2989150){:target="_blank"}” *ACM International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems (MSWiM)*, 2016
 
 ---
+
 
 
 
