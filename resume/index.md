@@ -3,7 +3,7 @@ layout: page
 title: Resume 
 description: > 
   Actively seeking for **`Software Development Engineer`** and **`Backend Engineer (Python)`** full-time job in 2021.  <br>
-  Resume is also available on [**104 HR Consultancy**](https://www.104.com.tw/profile/3zZp0XGyhnb){:target="_blank"} &nbsp;\|&nbsp; [**CakeResume**](https://www.cakeresume.com/yyloumike){:target="_blank"} &nbsp;\|&nbsp; [**CakeResume - Portfolio**](https://www.cakeresume.com/yyloumike/portfolio?ref=resume-header-portfolio){:target="_blank"}
+  Resume is also available on [**CakeResume**](https://www.cakeresume.com/yyloumike){:target="_blank"} &nbsp;\|&nbsp; [**CakeResume - Portfolio**](https://www.cakeresume.com/yyloumike/portfolio?ref=resume-header-portfolio){:target="_blank"} &nbsp;\|&nbsp; [**104 HR Consultancy**](https://www.104.com.tw/profile/3zZp0XGyhnb){:target="_blank"}
 sitemap: true
 ---
 
