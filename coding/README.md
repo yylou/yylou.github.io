@@ -123,7 +123,7 @@ description: >
 {:.related-posts.faded}
 ---
 
-<h3> Medium (#26) </h3>
+<h3> Medium (#27) </h3>
 ---
 * [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/){:.heading.flip-title  target="_blank"} ---
 **`Runtime`** 52 ms (*94.00%*) &nbsp;\|&nbsp;
@@ -184,6 +184,11 @@ description: >
 **`Runtime`** 76 ms (*95.44%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 17.1 MB (*94.93%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0049-group-anagrams){:target="_blank"}
+
+* [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/){:.heading.flip-title  target="_blank"} ---
+**`Runtime`** 60 ms (*94.48%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 15.6 MB (*97.58%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0056-merge-intervals){:target="_blank"}
 
 * [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/){:.heading.flip-title  target="_blank"} ---
 **`Runtime`** 28 ms (*99.63%*) &nbsp;\|&nbsp;
