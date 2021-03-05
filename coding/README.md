@@ -91,6 +91,11 @@ description: >
 **`Mem Usage`** 16 MB (*41.70%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0136-single-number){:target="_blank"}
 
+* [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/){:.heading.flip-title  target="_blank"} ---
+**`Runtime`** 16 ms (*100%*) &nbsp;\|&nbsp;
+**`Mem Usage`**  14.6 MB (*72.09%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0205-isomorphic-strings){:target="_blank"}
+
 * [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/){:.heading.flip-title  target="_blank"} ---
 **`Runtime`** 16 ms (*98.94%*) &nbsp;\|&nbsp;
 **`Mem Usage`**  15.4 MB (*80.06%*) &nbsp;\|&nbsp;
