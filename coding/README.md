@@ -14,7 +14,7 @@ description: >
 ## <font style="color: rgb(72, 103, 115)"> LeetCode </font>
 ---
 
-<h3> Easy (#20) </h3>
+<h3> Easy (#21) </h3>
 ---
 * [1. Two Sum](https://leetcode.com/problems/two-sum/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 28 ms (*93.73%*) &nbsp;\|&nbsp;
@@ -115,10 +115,15 @@ description: >
 **`Runtime`** 32 ms (*98.77%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 16.3 MB (*94.57%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0590-n-ary-tree-postorder-traversal){:target="_blank"}
+
+* [1408. String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/){:.heading.flip-title  target="_blank"} ---
+**`Runtime`** 16 ms (*99.24%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 13.5 MB (*79.01%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/1408-string-matching-in-an-array){:target="_blank"}
 {:.related-posts.faded}
 ---
 
-<h3> Medium (#25) </h3>
+<h3> Medium (#26) </h3>
 ---
 * [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/){:.heading.flip-title  target="_blank"} ---
 **`Runtime`** 52 ms (*94.00%*) &nbsp;\|&nbsp;
@@ -140,15 +145,15 @@ description: >
 **`Mem Usage`** 13.4 MB (*96.79*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0008-string-to-integer-atoi){:target="_blank"}
 
-* [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/){:.heading.flip-title  target="_blank"} ---
-**`Runtime`** 24 ms (*98.65%*) &nbsp;\|&nbsp;
-**`Mem Usage`** 13.4 MB (*71.88%*) &nbsp;\|&nbsp;
-[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0012-integer-to-roman){:target="_blank"}
-
 * [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/){:.heading.flip-title  target="_blank"} ---
 **`Runtime`** 116 ms (*99.87%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 15.4 MB (*43.03%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0011-container-with-most-water){:target="_blank"}
+
+* [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/){:.heading.flip-title  target="_blank"} ---
+**`Runtime`** 24 ms (*98.65%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 13.4 MB (*71.88%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0012-integer-to-roman){:target="_blank"}
 
 * [15. 3Sum](https://leetcode.com/problems/3sum/){:.heading.flip-title  target="_blank"} ---
 **`Runtime`** 528 ms (*96.39%*) &nbsp;\|&nbsp;
@@ -239,6 +244,11 @@ description: >
 **`Runtime`** 72 ms (*98.73%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 14.1 MB (*96.90%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0438-find-all-anagrams-in-a-string){:target="_blank"}
+
+* [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/){:.heading.flip-title target="_blank"} ---
+**`Runtime`** 188 ms (*99.93%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 15.8 MB (*98.31%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0560-subarray-sum-equals-k){:target="_blank"}
 
 * [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 36 ms (*99.82%*) &nbsp;\|&nbsp;
