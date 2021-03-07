@@ -128,7 +128,7 @@ description: >
 {:.related-posts.faded}
 ---
 
-<h3> Medium (#27) </h3>
+<h3> Medium (#28) </h3>
 ---
 * [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/){:.heading.flip-title  target="_blank"} ---
 **`Runtime`** 52 ms (*94.00%*) &nbsp;\|&nbsp;
@@ -183,6 +183,11 @@ description: >
 * [29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers/){:.heading.flip-title  target="_blank"} ---
 **`Runtime`** 12 ms (*98.81%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 13.2 MB (*94.15%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0033-search-in-rotated-sorted-array){:target="_blank"}
+
+* [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/){:.heading.flip-title  target="_blank"} ---
+**`Runtime`** 16 ms (*99.65%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 13.7 MB (*43.77%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0029-divide-two-integers){:target="_blank"}
 
 * [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/){:.heading.flip-title  target="_blank"} ---
