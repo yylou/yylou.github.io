@@ -101,6 +101,11 @@ description: >
 **`Mem Usage`**  15.4 MB (*80.06%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0206-reverse-linked-list){:target="_blank"}
 
+* [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/){:.heading.flip-title  target="_blank"} ---
+**`Runtime`** 24 ms (*93.31%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 13.6 MB (*97.21%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0237-delete-node-in-a-linked-list){:target="_blank"}
+
 * [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/){:.heading.flip-title  target="_blank"} ---
 **`Runtime`** 28 ms (*97.78%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 14.4 MB (*47.96%*) &nbsp;\|&nbsp;
