@@ -2,19 +2,19 @@
 layout: page
 title: Coding
 description: >
-  Sharing my solutions that I post on my [GitHub](https://github.com/yylou/leetcode-problem-solving){:target="_blank"} to the [LeetCode](https://leetcode.com/problemset/all/){:target="_blank"} and [HackerRank](https://www.hackerrank.com/){:target="_blank"} problems. *__If you find it helps, please do not hesitate to give me a STAR!__* <br>
-  They might not be the best answers, however, they should be explainable for your interview. <br><br>
-  **`2021.02.13`** ---&nbsp; Irregular but continuing update, please keep following. <br>
-  **`2021.02.18`** ---&nbsp; Add one more section for HackerRank problem-solving.
+  Sharing my solutions that I post on my [GitHub](https://github.com/yylou/leetcode-problem-solving){:target="_blank"} to the [LeetCode](https://leetcode.com/problemset/all/){:target="_blank"} problems. *__If you find it helps, please do not hesitate to give me a STAR!__* <br>
+  They might not be the best answers, however, they should be explainable for your interview.
 ---
 
+<!--
 0. this unordered seed list will be replaced by toc as unordered list
 {:toc}
+-->
 
 ## <font style="color: rgb(72, 103, 115)"> LeetCode </font>
 ---
 
-<h3> Easy (#24) </h3>
+<h3> Easy (#26) </h3>
 ---
 * [1. Two Sum](https://leetcode.com/problems/two-sum/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 28 ms (*93.73%*) &nbsp;\|&nbsp;
@@ -111,6 +111,11 @@ description: >
 **`Mem Usage`** 14.4 MB (*47.96%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0242-valid-anagram){:target="_blank"}
 
+* [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/){:.heading.flip-title  target="_blank"} ---
+**`Runtime`** 28 ms (*97.26%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 14.3 MB (*74.18%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0283-move-zeroes){:target="_blank"}
+
 * [344. Reverse String](https://leetcode.com/problems/reverse-string/){:.heading.flip-title  target="_blank"} ---
 **`Runtime`** 152 ms (*98.00%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 21.2 MB (*57.89%*) &nbsp;\|&nbsp;
@@ -135,10 +140,15 @@ description: >
 **`Runtime`** 16 ms (*99.24%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 13.5 MB (*79.01%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/1408-string-matching-in-an-array){:target="_blank"}
+
+* [1710. Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/){:.heading.flip-title  target="_blank"} ---
+**`Runtime`** 120 ms (*94.94%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 13.9 MB (*87.09%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/1710-maximum-units-on-a-truck){:target="_blank"}
 {:.related-posts.faded}
 ---
 
-<h3> Medium (#29) </h3>
+<h3> Medium (#31) </h3>
 ---
 * [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/){:.heading.flip-title  target="_blank"} ---
 **`Runtime`** 52 ms (*94.00%*) &nbsp;\|&nbsp;
@@ -199,6 +209,11 @@ description: >
 **`Runtime`** 16 ms (*99.65%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 13.7 MB (*43.77%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0029-divide-two-integers){:target="_blank"}
+
+* [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/){:.heading.flip-title  target="_blank"} ---
+**`Runtime`** 56 ms (*98.10%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 14.5 MB (*72.72%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array){:target="_blank"}
 
 * [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/){:.heading.flip-title  target="_blank"} ---
 **`Runtime`** 76 ms (*95.44%*) &nbsp;\|&nbsp;
@@ -284,10 +299,15 @@ description: >
 **`Runtime`** 36 ms (*99.82%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 13.7 MB (*85.19%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0567-permutation-in-string){:target="_blank"}
+
+* [[945. Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/){:.heading.flip-title target="_blank"} ---
+**`Runtime`** 244 ms (*96.43%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 18 MB (*71.43%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0945-minimum-increment-to-make-array-unique){:target="_blank"}
 {:.related-posts.faded}
 ---
 
-<h3> Hard (#2) </h3>
+<h3> Hard (#3) </h3>
 ---
 * [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/){:.heading.flip-title  target="_blank"} ---
 **`Runtime`** 68 ms (*88.56%*) &nbsp;\|&nbsp;
@@ -298,52 +318,10 @@ description: >
 **`Runtime`** 88 ms (*98.31%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 16.6 MB (*84.05%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0072-edit-distance){:target="_blank"}
-{:.related-posts.faded}
----
 
-<br>
-
-## <font style="color: rgb(72, 103, 115)"> HackerRank </font>
----
-
-<h3> Interview Preparation Kit (#5) </h3>
----
-* [Sales by Match](https://www.hackerrank.com/challenges/sock-merchant/problem){:.heading.flip-title  target="_blank"} ---
-`Easy` &nbsp;\|&nbsp; [**`Github`**](https://github.com/yylou/hacker-rank-problem-solving/tree/main/ipk-sales-by-match/solution.py){:target="_blank"}
-
-* [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem){:.heading.flip-title  target="_blank"} ---
-`Easy` &nbsp;\|&nbsp; [**`Github`**](https://github.com/yylou/hacker-rank-problem-solving/tree/main/ipk-counting-valleys/solution.py){:target="_blank"}
-
-* [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem){:.heading.flip-title  target="_blank"} ---
-`Easy` &nbsp;\|&nbsp; [**`Github`**](https://github.com/yylou/hacker-rank-problem-solving/tree/main/ipk-jumping-on-the-clouds/solution.py){:target="_blank"}
-
-* [Repeated String](https://www.hackerrank.com/challenges/repeated-string/problem){:.heading.flip-title  target="_blank"} ---
-`Easy` &nbsp;\|&nbsp; [**`Github`**](https://github.com/yylou/hacker-rank-problem-solving/tree/main/ipk-repeated-string/solution.py){:target="_blank"}
-
-* [Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem){:.heading.flip-title  target="_blank"} ---
-`Medium` &nbsp;\|&nbsp; [**`Github`**](https://github.com/yylou/hacker-rank-problem-solving/blob/main/ipk-sherlock-and-anagrams/solution.py){:target="_blank"}
-{:.related-posts.faded}
----
-
-<h3> Algorithm (#3) </h3>
----
-* [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem){:.heading.flip-title  target="_blank"} ---
-`Easy` &nbsp;\|&nbsp; [**`Github`**](https://github.com/yylou/hacker-rank-problem-solving/tree/main/algo-birthday-cake-candles/solution.py){:target="_blank"}
-
-* [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem){:.heading.flip-title  target="_blank"} ---
-`Easy` &nbsp;\|&nbsp; [**`Github`**](https://github.com/yylou/hacker-rank-problem-solving/tree/main/algo-time-conversion/solution.py){:target="_blank"}
-
-* [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem){:.heading.flip-title  target="_blank"} ---
-`Easy` &nbsp;\|&nbsp; [**`Github`**](https://github.com/yylou/hacker-rank-problem-solving/tree/main/algo-diagonal-difference/solution.py){:target="_blank"}
-{:.related-posts.faded}
----
-
-<h3> Data Structure (#2) </h3>
----
-* [Reverse Array](https://www.hackerrank.com/challenges/arrays-ds/problem){:.heading.flip-title  target="_blank"} ---
-`Easy` &nbsp;\|&nbsp; [**`Github`**](https://github.com/yylou/hacker-rank-problem-solving/tree/main/ds-reverse-array/solution.py){:target="_blank"}
-
-* [2D Array](https://www.hackerrank.com/challenges/2d-array/problem){:.heading.flip-title  target="_blank"} ---
-`Easy` &nbsp;\|&nbsp; [**`Github`**](https://github.com/yylou/hacker-rank-problem-solving/tree/main/ds-2d-array/solution.py){:target="_blank"}
+* [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/){:.heading.flip-title  target="_blank"} ---
+**`Runtime`** 92 ms (*81.02%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 13.9 MB (*97.52%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0076-minimum-window-substring){:target="_blank"}
 {:.related-posts.faded}
 ---
