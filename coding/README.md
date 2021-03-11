@@ -14,7 +14,7 @@ description: >
 ## <font style="color: rgb(72, 103, 115)"> LeetCode </font>
 ---
 
-<h3> Easy (#26) </h3>
+<h3> Easy (#27) </h3>
 ---
 * [1. Two Sum](https://leetcode.com/problems/two-sum/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 28 ms (*93.73%*) &nbsp;\|&nbsp;
@@ -135,6 +135,11 @@ description: >
 **`Runtime`** 12 ms (*100%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 13.4 MB (*93.76%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0657-robot-return-to-origin){:target="_blank"}
+
+* [796. Rotate String](https://leetcode.com/problems/rotate-string/){:.heading.flip-title  target="_blank"} ---
+**`Runtime`** 12 ms (*94.64%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 13.5 MB (*63.17%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0796-rotate-string){:target="_blank"}
 
 * [1408. String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/){:.heading.flip-title  target="_blank"} ---
 **`Runtime`** 16 ms (*99.24%*) &nbsp;\|&nbsp;
@@ -269,6 +274,11 @@ description: >
 **`Runtime`** 4 ms (*99.91%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 13.3 MB (*96.64%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0145-binary-tree-postorder-traversal){:target="_blank"}
+
+* [146. LRU Cache](https://leetcode.com/problems/lru-cache/){:.heading.flip-title  target="_blank"} ---
+**`Runtime`** 172 ms (*99.94%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 23.8 MB (*55.08%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0146-lru-cache){:target="_blank"}
 
 * [189. Rotate Array](https://leetcode.com/problems/rotate-array/){:.heading.flip-title  target="_blank"} ---
 **`Runtime`** 36 ms (*99.48%*) &nbsp;\|&nbsp;
