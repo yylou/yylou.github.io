@@ -307,12 +307,17 @@ description: >
 {:.related-posts.faded}
 ---
 
-<h3> Hard (#3) </h3>
+<h3> Hard (#4) </h3>
 ---
 * [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/){:.heading.flip-title  target="_blank"} ---
 **`Runtime`** 68 ms (*88.56%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 13.6 MB (*79.10%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0004-median-of-two-sorted-arrays){:target="_blank"}
+
+* [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/){:.heading.flip-title  target="_blank"} ---
+**`Runtime`** 76 ms (*98.81%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 22.3 MB (*39.22%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0023-merge-k-sorted-lists){:target="_blank"}
 
 * [72. Edit Distance](https://leetcode.com/problems/edit-distance/){:.heading.flip-title  target="_blank"} ---
 **`Runtime`** 88 ms (*98.31%*) &nbsp;\|&nbsp;
