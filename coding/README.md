@@ -300,7 +300,7 @@ description: >
 **`Mem Usage`** 13.7 MB (*85.19%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0567-permutation-in-string){:target="_blank"}
 
-* [[945. Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/){:.heading.flip-title target="_blank"} ---
+* [945. Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 244 ms (*96.43%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 18 MB (*71.43%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0945-minimum-increment-to-make-array-unique){:target="_blank"}
