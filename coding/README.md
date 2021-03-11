@@ -153,7 +153,7 @@ description: >
 {:.related-posts.faded}
 ---
 
-<h3> Medium (#31) </h3>
+<h3> Medium (#32) </h3>
 ---
 * [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/){:.heading.flip-title  target="_blank"} ---
 **`Runtime`** 52 ms (*94.00%*) &nbsp;\|&nbsp;
