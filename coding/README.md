@@ -14,7 +14,7 @@ description: >
 ## <font style="color: rgb(72, 103, 115)"> LeetCode </font>
 ---
 
-<h3> Easy (#27) </h3>
+<h3> Easy (#29) </h3>
 ---
 * [1. Two Sum](https://leetcode.com/problems/two-sum/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 28 ms (*93.73%*) &nbsp;\|&nbsp;
@@ -121,6 +121,11 @@ description: >
 **`Mem Usage`** 21.2 MB (*57.89%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0344-reverse-string){:target="_blank"} 
 
+* [461. Hamming Distance](https://leetcode.com/problems/hamming-distance/){:.heading.flip-title  target="_blank"} ---
+**`Runtime`** 12 ms (*94.82%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 13.3 MB (*89.86%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0461-hamming-distance){:target="_blank"}
+
 * [589. N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/){:.heading.flip-title  target="_blank"} ---
 **`Runtime`** 32 ms (*98.74%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 16.4 MB (*75.58%*) &nbsp;\|&nbsp;
@@ -135,6 +140,11 @@ description: >
 **`Runtime`** 12 ms (*100%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 13.4 MB (*93.76%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0657-robot-return-to-origin){:target="_blank"}
+
+* [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/){:.heading.flip-title  target="_blank"} ---
+**`Runtime`** 8 ms (*99.65%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 13.3 MB (*89.81%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0771-jewels-and-stones){:target="_blank"}
 
 * [796. Rotate String](https://leetcode.com/problems/rotate-string/){:.heading.flip-title  target="_blank"} ---
 **`Runtime`** 12 ms (*94.64%*) &nbsp;\|&nbsp;
@@ -153,7 +163,7 @@ description: >
 {:.related-posts.faded}
 ---
 
-<h3> Medium (#32) </h3>
+<h3> Medium (#33) </h3>
 ---
 * [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/){:.heading.flip-title  target="_blank"} ---
 **`Runtime`** 52 ms (*94.00%*) &nbsp;\|&nbsp;
@@ -289,6 +299,11 @@ description: >
 **`Runtime`** 112 ms (*99.40%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 29.6 MB (*93.89%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0208-implement-trie-prefix-tree){:target="_blank"}
+
+* [322. Coin Change](https://leetcode.com/problems/coin-change/){:.heading.flip-title target="_blank"} ---
+**`Runtime`** 32 ms (*98.53%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 16.3 MB (*96.69%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0429-n-ary-tree-level-order-traversal){:target="_blank"}
 
 * [429. N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 32 ms (*98.53%*) &nbsp;\|&nbsp;
