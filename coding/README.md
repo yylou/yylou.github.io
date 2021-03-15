@@ -14,7 +14,7 @@ description: >
 ## <font style="color: rgb(72, 103, 115)"> LeetCode </font>
 ---
 
-<h3> Easy (#30) </h3>
+<h3> Easy (#31) </h3>
 ---
 * [1. Two Sum](https://leetcode.com/problems/two-sum/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 28 ms (*93.73%*) &nbsp;\|&nbsp;
@@ -70,6 +70,11 @@ description: >
 **`Runtime`** 16 ms (*91.51%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 13.3 MB (*93.81%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0066-plus-one){:target="_blank"}
+
+* [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/){:.heading.flip-title  target="_blank"} ---
+**`Runtime`** 16 ms (*92.93%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 13.3 MB (*89.82%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0069-sqrtx){:target="_blank"}
 
 * [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 24 ms (*95.24%*) &nbsp;\|&nbsp;
@@ -163,7 +168,7 @@ description: >
 {:.related-posts.faded}
 ---
 
-<h3> Medium (#33) </h3>
+<h3> Medium (#35) </h3>
 ---
 * [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/){:.heading.flip-title  target="_blank"} ---
 **`Runtime`** 52 ms (*94.00%*) &nbsp;\|&nbsp;
@@ -174,6 +179,11 @@ description: >
 **`Runtime`** 36 ms (*95.77%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 13.7 MB (*73.48%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0003-longest-substring-without-repeating-characters){:target="_blank"}
+
+* [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/){:.heading.flip-title  target="_blank"} ---
+**`Runtime`** 80 ms (*99.34%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 13.5 MB (*92.93%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0005-longest-palindromic-substring){:target="_blank"}
 
 * [6. ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/){:.heading.flip-title  target="_blank"} ---
 **`Runtime`** 36 ms (*97.43%*) &nbsp;\|&nbsp;
@@ -229,6 +239,11 @@ description: >
 **`Runtime`** 56 ms (*98.10%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 14.5 MB (*72.72%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array){:target="_blank"}
+
+* [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/){:.heading.flip-title  target="_blank"} ---
+**`Runtime`** 52 ms (*100%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 13.4 MB (*74.16%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0036-valid-sudoku){:target="_blank"}
 
 * [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/){:.heading.flip-title  target="_blank"} ---
 **`Runtime`** 76 ms (*95.44%*) &nbsp;\|&nbsp;
