@@ -14,7 +14,7 @@ description: >
 ## <font style="color: rgb(72, 103, 115)"> LeetCode </font>
 ---
 
-<h3> Easy (#31) </h3>
+<h3> Easy (#32) </h3>
 ---
 * [1. Two Sum](https://leetcode.com/problems/two-sum/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 28 ms (*93.73%*) &nbsp;\|&nbsp;
@@ -41,37 +41,37 @@ description: >
 **`Mem Usage`** 13.7 MB (*39.95%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0014-longest-common-prefix){:target="_blank"}
 
-* [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/){:.heading.flip-title  target="_blank"} ---
+* [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 8 ms (*99.73%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 13.6 MB (*37.70%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0020-valid-parentheses){:target="_blank"}
 
-* [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/){:.heading.flip-title  target="_blank"} ---
+* [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 16 ms (*98.84%%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 13.4 MB (*87.61%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0021-merge-two-sorted-lists){:target="_blank"}
 
-* [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/){:.heading.flip-title  target="_blank"} ---
+* [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 56 ms (*98.22%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 15.2 MB (*73.19%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0026-remove-duplicates-from-sorted-array){:target="_blank"}
 
-* [27. Remove Element](https://leetcode.com/problems/remove-element/){:.heading.flip-title  target="_blank"} ---
+* [27. Remove Element](https://leetcode.com/problems/remove-element/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 16 ms (*91.94%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 13.3 MB (*91.21%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0027-remove-element){:target="_blank"}
 
-* [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/){:.heading.flip-title  target="_blank"} ---
+* [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 12 ms (*97.47%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 13.5 MB (*99.75%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0028-implement-strStr){:target="_blank"}
 
-* [66. Plus One](https://leetcode.com/problems/plus-one/){:.heading.flip-title  target="_blank"} ---
+* [66. Plus One](https://leetcode.com/problems/plus-one/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 16 ms (*91.51%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 13.3 MB (*93.81%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0066-plus-one){:target="_blank"}
 
-* [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/){:.heading.flip-title  target="_blank"} ---
+* [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 16 ms (*92.93%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 13.3 MB (*89.82%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0069-sqrtx){:target="_blank"}
@@ -96,216 +96,226 @@ description: >
 **`Mem Usage`** 16 MB (*41.70%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0136-single-number){:target="_blank"}
 
-* [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/){:.heading.flip-title  target="_blank"} ---
+* [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 16 ms (*100%*) &nbsp;\|&nbsp;
-**`Mem Usage`**  14.6 MB (*72.09%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 14.6 MB (*72.09%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0205-isomorphic-strings){:target="_blank"}
 
-* [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/){:.heading.flip-title  target="_blank"} ---
+* [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 16 ms (*98.94%*) &nbsp;\|&nbsp;
-**`Mem Usage`**  15.4 MB (*80.06%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 15.4 MB (*80.06%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0206-reverse-linked-list){:target="_blank"}
 
-* [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/){:.heading.flip-title  target="_blank"} ---
+* [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 24 ms (*93.31%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 13.6 MB (*97.21%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0237-delete-node-in-a-linked-list){:target="_blank"}
 
-* [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/){:.heading.flip-title  target="_blank"} ---
+* [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 28 ms (*97.78%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 14.4 MB (*47.96%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0242-valid-anagram){:target="_blank"}
 
-* [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/){:.heading.flip-title  target="_blank"} ---
+* [268. Missing Number](https://leetcode.com/problems/missing-number/){:.heading.flip-title target="_blank"} ---
+**`Runtime`** 100 ms (*93.21%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 14.6 MB (*91.22%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0268-missing-number){:target="_blank"}
+
+* [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 28 ms (*97.26%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 14.3 MB (*74.18%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0283-move-zeroes){:target="_blank"}
 
-* [344. Reverse String](https://leetcode.com/problems/reverse-string/){:.heading.flip-title  target="_blank"} ---
+* [344. Reverse String](https://leetcode.com/problems/reverse-string/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 152 ms (*98.00%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 21.2 MB (*57.89%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0344-reverse-string){:target="_blank"} 
 
-* [461. Hamming Distance](https://leetcode.com/problems/hamming-distance/){:.heading.flip-title  target="_blank"} ---
+* [461. Hamming Distance](https://leetcode.com/problems/hamming-distance/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 12 ms (*94.82%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 13.3 MB (*89.86%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0461-hamming-distance){:target="_blank"}
 
-* [589. N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/){:.heading.flip-title  target="_blank"} ---
+* [589. N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 32 ms (*98.74%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 16.4 MB (*75.58%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0589-n-ary-tree-preorder-traversal){:target="_blank"}
 
-* [590. N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/){:.heading.flip-title  target="_blank"} ---
+* [590. N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 32 ms (*98.77%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 16.3 MB (*94.57%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0590-n-ary-tree-postorder-traversal){:target="_blank"}
 
-* [657. Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/){:.heading.flip-title  target="_blank"} ---
+* [657. Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 12 ms (*100%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 13.4 MB (*93.76%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0657-robot-return-to-origin){:target="_blank"}
 
-* [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/){:.heading.flip-title  target="_blank"} ---
+* [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 8 ms (*99.65%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 13.3 MB (*89.81%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0771-jewels-and-stones){:target="_blank"}
 
-* [796. Rotate String](https://leetcode.com/problems/rotate-string/){:.heading.flip-title  target="_blank"} ---
+* [796. Rotate String](https://leetcode.com/problems/rotate-string/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 12 ms (*94.64%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 13.5 MB (*63.17%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0796-rotate-string){:target="_blank"}
 
-* [1408. String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/){:.heading.flip-title  target="_blank"} ---
+* [1408. String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 16 ms (*99.24%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 13.5 MB (*79.01%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/1408-string-matching-in-an-array){:target="_blank"}
 
-* [1710. Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/){:.heading.flip-title  target="_blank"} ---
+* [1710. Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 120 ms (*94.94%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 13.9 MB (*87.09%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/1710-maximum-units-on-a-truck){:target="_blank"}
 {:.related-posts.faded}
 ---
 
-<h3> Medium (#35) </h3>
+<h3> Medium (#36) </h3>
 ---
-* [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/){:.heading.flip-title  target="_blank"} ---
+* [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 52 ms (*94.00%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 13.6 MB (*45.02%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0002-add-two-numbers){:target="_blank"}
 
-* [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/){:.heading.flip-title  target="_blank"} ---
+* [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 36 ms (*95.77%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 13.7 MB (*73.48%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0003-longest-substring-without-repeating-characters){:target="_blank"}
 
-* [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/){:.heading.flip-title  target="_blank"} ---
+* [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 80 ms (*99.34%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 13.5 MB (*92.93%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0005-longest-palindromic-substring){:target="_blank"}
 
-* [6. ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/){:.heading.flip-title  target="_blank"} ---
+* [6. ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 36 ms (*97.43%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 13.5 MB (*96.37%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0006-zigzag-conversion){:target="_blank"}
 
-* [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/){:.heading.flip-title  target="_blank"} ---
+* [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 20 ms (*84.74%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 13.4 MB (*96.79*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0008-string-to-integer-atoi){:target="_blank"}
 
-* [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/){:.heading.flip-title  target="_blank"} ---
+* [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 116 ms (*99.87%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 15.4 MB (*43.03%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0011-container-with-most-water){:target="_blank"}
 
-* [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/){:.heading.flip-title  target="_blank"} ---
+* [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 24 ms (*98.65%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 13.4 MB (*71.88%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0012-integer-to-roman){:target="_blank"}
 
-* [15. 3Sum](https://leetcode.com/problems/3sum/){:.heading.flip-title  target="_blank"} ---
+* [15. 3Sum](https://leetcode.com/problems/3sum/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 528 ms (*96.39%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 16.9 MB (*38.27%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0015-3-sum){:target="_blank"}
 
-* [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/){:.heading.flip-title  target="_blank"} ---
+* [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 12 ms (*95.75%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 13.3 MB (*92.81%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0017-letter-combinations-of-a-phone-number){:target="_blank"}
 
-* [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/){:.heading.flip-title  target="_blank"} ---
+* [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 12 ms (*98.94%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 13.3 MB (*72.36%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0019-remove-nth-node-from-end-of-list){:target="_blank"}
 
-* [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/){:.heading.flip-title  target="_blank"} ---
+* [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 16 ms (*94.49%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 13.6 MB (*90.25%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0022-generate-parentheses){:target="_blank"}
 
-* [29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers/){:.heading.flip-title  target="_blank"} ---
+* [29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 12 ms (*98.81%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 13.2 MB (*94.15%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0033-search-in-rotated-sorted-array){:target="_blank"}
 
-* [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/){:.heading.flip-title  target="_blank"} ---
+* [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 16 ms (*99.65%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 13.7 MB (*43.77%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0029-divide-two-integers){:target="_blank"}
 
-* [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/){:.heading.flip-title  target="_blank"} ---
+* [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 56 ms (*98.10%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 14.5 MB (*72.72%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array){:target="_blank"}
 
-* [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/){:.heading.flip-title  target="_blank"} ---
+* [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 52 ms (*100%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 13.4 MB (*74.16%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0036-valid-sudoku){:target="_blank"}
 
-* [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/){:.heading.flip-title  target="_blank"} ---
+* [46. Permutations](https://leetcode.com/problems/permutations/){:.heading.flip-title target="_blank"} ---
+**`Runtime`** 16 ms (*99.92%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 13.6 MB (*42.30%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0046-permutations){:target="_blank"}
+
+* [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 76 ms (*95.44%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 17.1 MB (*94.93%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0049-group-anagrams){:target="_blank"}
 
-* [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/){:.heading.flip-title  target="_blank"} ---
+* [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 60 ms (*94.48%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 15.6 MB (*97.58%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0056-merge-intervals){:target="_blank"}
 
-* [57. Insert Interval](https://leetcode.com/problems/insert-interval/){:.heading.flip-title  target="_blank"} ---
+* [57. Insert Interval](https://leetcode.com/problems/insert-interval/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 48 ms (*99.79%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 16.9 MB (*52.15%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0057-insert-interval){:target="_blank"}
 
-* [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/){:.heading.flip-title  target="_blank"} ---
+* [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 28 ms (*99.63%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 13.3 MB (*97.40%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0080-remove-duplicates-from-sorted-array-II){:target="_blank"}
 
-* [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/){:.heading.flip-title  target="_blank"} ---
+* [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 12 ms (*95.43%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 13.3 MB (*79.67%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0094-binary-tree-inorder-traversal){:target="_blank"}
 
-* [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/){:.heading.flip-title  target="_blank"} ---
+* [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 8 ms (*99.81%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 13.8 MB (*70.08%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0102-binary-tree-level-order-traversal/){:target="_blank"}
 
-* [105. Construct Binary Tree from Preorder and Inorder](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/){:.heading.flip-title  target="_blank"} ---
+* [105. Construct Binary Tree from Preorder and Inorder](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 36 ms (*99.21%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 18.8 MB (*69.33%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/){:target="_blank"}
 
-* [106. Construct Binary Tree from Inorder and Postorder](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/){:.heading.flip-title  target="_blank"} ---
+* [106. Construct Binary Tree from Inorder and Postorder](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 32 ms (*99.67%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 19 MB (*60.46%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/){:target="_blank"}
 
-* [107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/){:.heading.flip-title  target="_blank"} ---
+* [107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 12 ms (*99.30%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 13.7 MB (*72.64%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0107-binary-tree-level-order-traversal-ii/){:target="_blank"}
 
-* [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/){:.heading.flip-title  target="_blank"} ---
+* [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 4 ms (*99.93%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 13.3 MB (*95.41%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0144-binary-tree-preorder-traversal){:target="_blank"}
 
-* [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/){:.heading.flip-title  target="_blank"} ---
+* [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 4 ms (*99.91%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 13.3 MB (*96.64%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0145-binary-tree-postorder-traversal){:target="_blank"}
 
-* [146. LRU Cache](https://leetcode.com/problems/lru-cache/){:.heading.flip-title  target="_blank"} ---
+* [146. LRU Cache](https://leetcode.com/problems/lru-cache/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 172 ms (*99.94%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 23.8 MB (*55.08%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0146-lru-cache){:target="_blank"}
 
-* [189. Rotate Array](https://leetcode.com/problems/rotate-array/){:.heading.flip-title  target="_blank"} ---
+* [189. Rotate Array](https://leetcode.com/problems/rotate-array/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 36 ms (*99.48%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 13.8 MB (*86.25%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0189-rotate-array){:target="_blank"}
@@ -347,24 +357,29 @@ description: >
 {:.related-posts.faded}
 ---
 
-<h3> Hard (#4) </h3>
+<h3> Hard (#5) </h3>
 ---
-* [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/){:.heading.flip-title  target="_blank"} ---
+* [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 68 ms (*88.56%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 13.6 MB (*79.10%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0004-median-of-two-sorted-arrays){:target="_blank"}
 
-* [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/){:.heading.flip-title  target="_blank"} ---
+* [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 76 ms (*98.81%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 22.3 MB (*39.22%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0023-merge-k-sorted-lists){:target="_blank"}
 
-* [72. Edit Distance](https://leetcode.com/problems/edit-distance/){:.heading.flip-title  target="_blank"} ---
+* [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/){:.heading.flip-title target="_blank"} ---
+**`Runtime`** 16 ms (*95.77%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 13.4 MB (*88.19%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0041-first-missing-positive){:target="_blank"}
+
+* [72. Edit Distance](https://leetcode.com/problems/edit-distance/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 88 ms (*98.31%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 16.6 MB (*84.05%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0072-edit-distance){:target="_blank"}
 
-* [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/){:.heading.flip-title  target="_blank"} ---
+* [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 92 ms (*81.02%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 13.9 MB (*97.52%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0076-minimum-window-substring){:target="_blank"}
