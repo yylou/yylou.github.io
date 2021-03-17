@@ -14,7 +14,7 @@ description: >
 ## <font style="color: rgb(72, 103, 115)"> LeetCode </font>
 ---
 
-<h3> Easy (#32) </h3>
+<h3> Easy (#33) </h3>
 ---
 * [1. Two Sum](https://leetcode.com/problems/two-sum/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 28 ms (*93.73%*) &nbsp;\|&nbsp;
@@ -166,6 +166,11 @@ description: >
 **`Mem Usage`** 13.5 MB (*63.17%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0796-rotate-string){:target="_blank"}
 
+* [1346. Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/){:.heading.flip-title target="_blank"} ---
+**`Runtime`** 32 ms (*95.34%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 13.3 MB (*89.97%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/1346-check-if-n-and-its-double-exist){:target="_blank"}
+
 * [1408. String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 16 ms (*99.24%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 13.5 MB (*79.01%*) &nbsp;\|&nbsp;
@@ -178,7 +183,7 @@ description: >
 {:.related-posts.faded}
 ---
 
-<h3> Medium (#36) </h3>
+<h3> Medium (#37) </h3>
 ---
 * [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 52 ms (*94.00%*) &nbsp;\|&nbsp;
@@ -304,6 +309,11 @@ description: >
 **`Runtime`** 12 ms (*99.30%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 13.7 MB (*72.64%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0107-binary-tree-level-order-traversal-ii/){:target="_blank"}
+
+* [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/){:.heading.flip-title target="_blank"} ---
+**`Runtime`** 32 ms (*97.35%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 19.5 MB (*95.99%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0142-linked-list-cycle-ii){:target="_blank"}
 
 * [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 4 ms (*99.93%*) &nbsp;\|&nbsp;
