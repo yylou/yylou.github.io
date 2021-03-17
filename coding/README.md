@@ -14,7 +14,7 @@ description: >
 ## <font style="color: rgb(72, 103, 115)"> LeetCode </font>
 ---
 
-<h3> Easy (#33) </h3>
+<h3> Easy (#34) </h3>
 ---
 * [1. Two Sum](https://leetcode.com/problems/two-sum/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 28 ms (*93.73%*) &nbsp;\|&nbsp;
@@ -95,6 +95,11 @@ description: >
 **`Runtime`** 92 ms (*99.65%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 16 MB (*41.70%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0136-single-number){:target="_blank"}
+
+* [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/){:.heading.flip-title target="_blank"} ---
+**`Runtime`** 32 ms (*97.19%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 16.9 MB (*99.58%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0141-linked-list-cycle){:target="_blank"}
 
 * [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 16 ms (*100%*) &nbsp;\|&nbsp;
