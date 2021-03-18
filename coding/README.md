@@ -188,7 +188,7 @@ description: >
 {:.related-posts.faded}
 ---
 
-<h3> Medium (#38) </h3>
+<h3> Medium (#39) </h3>
 ---
 * [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 52 ms (*94.00%*) &nbsp;\|&nbsp;
@@ -269,6 +269,11 @@ description: >
 **`Runtime`** 16 ms (*99.92%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 13.6 MB (*42.30%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0046-permutations){:target="_blank"}
+
+* [48. Rotate Image](https://leetcode.com/problems/rotate-image/){:.heading.flip-title target="_blank"} ---
+**`Runtime`** 12 ms (*99.56%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 13.2 MB (*95.21%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0048-rotate-image){:target="_blank"}
 
 * [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 76 ms (*95.44%*) &nbsp;\|&nbsp;
