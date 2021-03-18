@@ -188,7 +188,7 @@ description: >
 {:.related-posts.faded}
 ---
 
-<h3> Medium (#37) </h3>
+<h3> Medium (#38) </h3>
 ---
 * [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 52 ms (*94.00%*) &nbsp;\|&nbsp;
@@ -344,6 +344,11 @@ description: >
 **`Runtime`** 112 ms (*99.40%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 29.6 MB (*93.89%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0208-implement-trie-prefix-tree){:target="_blank"}
+
+* [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/){:.heading.flip-title target="_blank"} --- 
+**`Runtime`** 44 ms (*92.54%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 15 MB (*97.74%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0287-find-the-duplicate-number){:target="_blank"}
 
 * [322. Coin Change](https://leetcode.com/problems/coin-change/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 32 ms (*98.53%*) &nbsp;\|&nbsp;
