@@ -14,7 +14,7 @@ description: >
 ## <font style="color: rgb(72, 103, 115)"> LeetCode </font>
 ---
 
-<h3> Easy (#34) </h3>
+<h3> Easy (#35) </h3>
 ---
 * [1. Two Sum](https://leetcode.com/problems/two-sum/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 28 ms (*93.73%*) &nbsp;\|&nbsp;
@@ -65,6 +65,11 @@ description: >
 **`Runtime`** 12 ms (*97.47%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 13.5 MB (*99.75%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0028-implement-strStr){:target="_blank"}
+
+* [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/){:.heading.flip-title target="_blank"} ---
+**`Runtime`** 40 ms (*97.39%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 14.1 MB (*71.67%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0053-maximum-subarray){:target="_blank"}
 
 * [66. Plus One](https://leetcode.com/problems/plus-one/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 16 ms (*91.51%*) &nbsp;\|&nbsp;
