@@ -260,7 +260,7 @@ description: >
 **`Mem Usage`** 13.7 MB (*43.77%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0029-divide-two-integers){:target="_blank"}
 
-* [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/){:.heading.flip-title target="_blank"} ---
+* [34. Find First & Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 56 ms (*98.10%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 14.5 MB (*72.72%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array){:target="_blank"}
