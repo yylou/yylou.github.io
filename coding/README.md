@@ -193,7 +193,7 @@ description: >
 {:.related-posts.faded}
 ---
 
-<h3> Medium (#39) </h3>
+<h3> Medium (#40) </h3>
 ---
 * [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 52 ms (*94.00%*) &nbsp;\|&nbsp;
@@ -284,6 +284,11 @@ description: >
 **`Runtime`** 76 ms (*95.44%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 17.1 MB (*94.93%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0049-group-anagrams){:target="_blank"}
+
+* [50. Pow(x, n)](https://leetcode.com/problems/powx-n/){:.heading.flip-title target="_blank"} ---
+**`Runtime`** 8 ms (*99.17%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 13.4 MB (*45.01%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0050-powx-n){:target="_blank"}
 
 * [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 60 ms (*94.48%*) &nbsp;\|&nbsp;
@@ -392,7 +397,7 @@ description: >
 {:.related-posts.faded}
 ---
 
-<h3> Hard (#6) </h3>
+<h3> Hard (#7) </h3>
 ---
 * [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 68 ms (*88.56%*) &nbsp;\|&nbsp;
