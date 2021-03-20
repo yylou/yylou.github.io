@@ -409,6 +409,11 @@ description: >
 **`Mem Usage`** 13.4 MB (*88.19%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0041-first-missing-positive){:target="_blank"}
 
+* [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/){:.heading.flip-title target="_blank"} ---
+**`Runtime`** 32 ms (*95.67%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 14 MB (*90.79%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0042-trapping-rain-water){:target="_blank"}
+
 * [72. Edit Distance](https://leetcode.com/problems/edit-distance/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 88 ms (*98.31%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 16.6 MB (*84.05%*) &nbsp;\|&nbsp;
