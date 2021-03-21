@@ -171,6 +171,11 @@ description: >
 **`Mem Usage`** 13.4 MB (*93.76%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0657-robot-return-to-origin){:target="_blank"}
 
+* [716. Max Stack](https://leetcode.com/problems/max-stack/){:.heading.flip-title target="_blank"} ---
+**`Runtime`** 132 ms (*97.31%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 15.8 MB (*49.33%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0716-max-stack){:target="_blank"}
+
 * [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 8 ms (*99.65%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 13.3 MB (*89.81%*) &nbsp;\|&nbsp;
