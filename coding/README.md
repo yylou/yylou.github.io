@@ -14,7 +14,7 @@ description: >
 ## <font style="color: rgb(72, 103, 115)"> LeetCode </font>
 ---
 
-<h3> Easy (#36) </h3>
+<h3> Easy (#38) </h3>
 ---
 * [1. Two Sum](https://leetcode.com/problems/two-sum/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 28 ms (*93.73%*) &nbsp;\|&nbsp;
@@ -145,6 +145,11 @@ description: >
 **`Runtime`** 152 ms (*98.00%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 21.2 MB (*57.89%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0344-reverse-string){:target="_blank"} 
+
+* [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/){:.heading.flip-title target="_blank"} ---
+**`Runtime`** 272 ms (*99.93%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 24.7 MB (*8.55%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0448-find-all-numbers-disappeared-in-an-array){:target="_blank"}
 
 * [461. Hamming Distance](https://leetcode.com/problems/hamming-distance/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 12 ms (*94.82%*) &nbsp;\|&nbsp;
