@@ -101,6 +101,11 @@ description: >
 **`Mem Usage`** 13.3 MB (*69.56%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0119-pascals-triangle-ii){:target="_blank"}
 
+* [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/){:.heading.flip-title target="_blank"} ---
+**`Runtime`** 32 ms (*91.46%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 14.1 MB (*75.36%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0125-valid-palindrome){:target="_blank"}
+
 * [136. Single Number](https://leetcode.com/problems/single-number/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 92 ms (*99.65%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 16 MB (*41.70%*) &nbsp;\|&nbsp;
