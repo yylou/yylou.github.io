@@ -14,7 +14,7 @@ description: >
 ## <font style="color: rgb(72, 103, 115)"> LeetCode </font>
 ---
 
-<h3> Easy (#38) </h3>
+<h3> Easy (#41) </h3>
 ---
 * [1. Two Sum](https://leetcode.com/problems/two-sum/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 28 ms (*93.73%*) &nbsp;\|&nbsp;
@@ -80,6 +80,11 @@ description: >
 **`Runtime`** 16 ms (*92.93%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 13.3 MB (*89.82%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0069-sqrtx){:target="_blank"}
+
+* [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/){:.heading.flip-title target="_blank"} ---
+**`Runtime`** 12 ms (*95.06%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 13.3 MB (*90.62%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0070-climbing-stairs){:target="_blank"}
 
 * [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 24 ms (*95.24%*) &nbsp;\|&nbsp;
