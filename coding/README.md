@@ -228,7 +228,7 @@ description: >
 {:.related-posts.faded}
 ---
 
-<h3> Medium (#40) </h3>
+<h3> Medium (#42) </h3>
 ---
 * [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 52 ms (*94.00%*) &nbsp;\|&nbsp;
@@ -304,6 +304,11 @@ description: >
 **`Runtime`** 52 ms (*100%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 13.4 MB (*74.16%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0036-valid-sudoku){:target="_blank"}
+
+* [39. Combination Sum](https://leetcode.com/problems/combination-sum/){:.heading.flip-title target="_blank"} ---
+**`Runtime`** 32 ms (*99.36%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 13.5 MB (*67.08%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0039-combination-sum){:target="_blank"}
 
 * [46. Permutations](https://leetcode.com/problems/permutations/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 16 ms (*99.92%*) &nbsp;\|&nbsp;
