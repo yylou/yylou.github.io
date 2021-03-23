@@ -14,7 +14,7 @@ description: >
 ## <font style="color: rgb(72, 103, 115)"> LeetCode </font>
 ---
 
-<h3> Easy (#41) </h3>
+<h3> Easy (#42) </h3>
 ---
 * [1. Two Sum](https://leetcode.com/problems/two-sum/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 28 ms (*93.73%*) &nbsp;\|&nbsp;
@@ -190,6 +190,11 @@ description: >
 **`Runtime`** 12 ms (*100%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 13.4 MB (*93.76%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0657-robot-return-to-origin){:target="_blank"}
+
+* [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/){:.heading.flip-title target="_blank"} ---
+**`Runtime`** 84 ms (*92.25%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 14.5 MB (*40.47%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0680-valid-palindrome-ii){:target="_blank"}
 
 * [716. Max Stack](https://leetcode.com/problems/max-stack/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 132 ms (*97.31%*) &nbsp;\|&nbsp;
