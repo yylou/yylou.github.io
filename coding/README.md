@@ -106,6 +106,11 @@ description: >
 **`Mem Usage`** 13.3 MB (*69.56%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0119-pascals-triangle-ii){:target="_blank"}
 
+* [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/){:.heading.flip-title target="_blank"} ---
+**`Runtime`** 796 ms (*96.38%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 22.7 MB (*60.86%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0121-best-time-to-buy-and-sell-stock){:target="_blank"}
+
 * [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 32 ms (*91.46%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 14.1 MB (*75.36%*) &nbsp;\|&nbsp;
