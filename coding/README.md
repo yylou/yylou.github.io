@@ -14,7 +14,7 @@ description: >
 ## <font style="color: rgb(72, 103, 115)"> LeetCode </font>
 ---
 
-<h3> Easy (#44) </h3>
+<h3> Easy (#47) </h3>
 ---
 * [1. Two Sum](https://leetcode.com/problems/two-sum/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 28 ms (*93.73%*) &nbsp;\|&nbsp;
@@ -90,6 +90,11 @@ description: >
 **`Runtime`** 16 ms (*98.22%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 13.3 MB (*94.73%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0088-merge-sorted-array){:target="_blank"}
+
+* [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/){:.heading.flip-title target="_blank"} ---
+**`Runtime`** 16 ms (*95.40%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 13.6 MB (*82.93%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0101-symmetric-tree){:target="_blank"}
 
 * [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 24 ms (*95.24%*) &nbsp;\|&nbsp;
