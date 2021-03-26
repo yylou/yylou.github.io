@@ -136,6 +136,11 @@ description: >
 **`Mem Usage`** 17.6 MB (*41.78%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0155-min-stack){:target="_blank"}
 
+* [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/){:.heading.flip-title target="_blank"} ---
+**`Runtime`** 200 ms (*49.81%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 43.2 MB (*94.05%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0160-intersection-of-two-linked-lists){:target="_blank"}
+
 * [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 16 ms (*100%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 14.6 MB (*72.09%*) &nbsp;\|&nbsp;
