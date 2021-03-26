@@ -181,6 +181,11 @@ description: >
 **`Mem Usage`** 21.2 MB (*57.89%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0344-reverse-string){:target="_blank"} 
 
+* [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/){:.heading.flip-title target="_blank"} ---
+**`Runtime`** 24 ms (*94.12%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 14.3 MB (*41.27%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0412-fizz-buzz){:target="_blank"} 
+
 * [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 272 ms (*99.93%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 24.7 MB (*8.55%*) &nbsp;\|&nbsp;
