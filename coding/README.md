@@ -14,7 +14,7 @@ description: >
 ## <font style="color: rgb(72, 103, 115)"> LeetCode </font>
 ---
 
-<h3> Easy (#49) </h3>
+<h3> Easy (#50) </h3>
 ---
 * [1. Two Sum](https://leetcode.com/problems/two-sum/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 28 ms (*93.73%*) &nbsp;\|&nbsp;
@@ -145,6 +145,11 @@ description: >
 **`Runtime`** 12 ms (*97.33%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 13.3 MB (*88.48%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0190-reverse-bits){:target="_blank"}
+
+* [204. Count Primes](https://leetcode.com/problems/count-primes/){:.heading.flip-title target="_blank"} ---
+**`Runtime`** 104 ms (*99.89%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 36.7 MB (*76.06%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0204-count-primes){:target="_blank"}
 
 * [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 16 ms (*100%*) &nbsp;\|&nbsp;
