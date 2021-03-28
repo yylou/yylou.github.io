@@ -14,7 +14,7 @@ description: >
 ## <font style="color: rgb(72, 103, 115)"> LeetCode </font>
 ---
 
-<h3> Easy (#50) </h3>
+<h3> Easy (#51) </h3>
 ---
 * [1. Two Sum](https://leetcode.com/problems/two-sum/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 28 ms (*93.73%*) &nbsp;\|&nbsp;
@@ -160,6 +160,11 @@ description: >
 **`Runtime`** 16 ms (*98.94%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 15.4 MB (*80.06%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0206-reverse-linked-list){:target="_blank"}
+
+* [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/){:.heading.flip-title target="_blank"} ---
+**`Runtime`** 84 ms (*99.49%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 19.9 MB (*24.49%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0217-contains-duplicate){:target="_blank"}
 
 * [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 976 ms (*5.05%*) &nbsp;\|&nbsp;
