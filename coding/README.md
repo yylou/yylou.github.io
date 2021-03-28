@@ -14,7 +14,7 @@ description: >
 ## <font style="color: rgb(72, 103, 115)"> LeetCode </font>
 ---
 
-<h3> Easy (#47) </h3>
+<h3> Easy (#49) </h3>
 ---
 * [1. Two Sum](https://leetcode.com/problems/two-sum/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 28 ms (*93.73%*) &nbsp;\|&nbsp;
@@ -141,6 +141,11 @@ description: >
 **`Mem Usage`** 43.2 MB (*94.05%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0160-intersection-of-two-linked-lists){:target="_blank"}
 
+* [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/){:.heading.flip-title target="_blank"} ---
+**`Runtime`** 12 ms (*97.33%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 13.3 MB (*88.48%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0190-reverse-bits){:target="_blank"}
+
 * [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 16 ms (*100%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 14.6 MB (*72.09%*) &nbsp;\|&nbsp;
@@ -235,6 +240,11 @@ description: >
 **`Runtime`** 12 ms (*94.64%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 13.5 MB (*63.17%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0796-rotate-string){:target="_blank"}
+
+* [1191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/){:.heading.flip-title target="_blank"} ---
+**`Runtime`** 12 ms (*97.32%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 13.2 MB (*99.22%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/1191-number-of-1-bits){:target="_blank"}
 
 * [1346. Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 32 ms (*95.34%*) &nbsp;\|&nbsp;
