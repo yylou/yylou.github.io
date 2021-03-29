@@ -273,7 +273,7 @@ description: >
 {:.related-posts.faded}
 ---
 
-<h3> Medium (#42) </h3>
+<h3> Medium (#45) </h3>
 ---
 * [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 52 ms (*94.00%*) &nbsp;\|&nbsp;
@@ -390,6 +390,11 @@ description: >
 **`Mem Usage`** 13.6 MB (*77.68%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0078-subsets){:target="_blank"}
 
+* [79. Word Search](https://leetcode.com/problems/word-search/){:.heading.flip-title target="_blank"} ---
+**`Runtime`** 132 ms (*100%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 17.1 MB (*63.90%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0079-word-search){:target="_blank"}
+
 * [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 28 ms (*99.63%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 13.3 MB (*97.40%*) &nbsp;\|&nbsp;
@@ -440,6 +445,11 @@ description: >
 **`Mem Usage`** 23.8 MB (*55.08%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0146-lru-cache){:target="_blank"}
 
+* [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/){:.heading.flip-title target="_blank"} ---
+**`Runtime`** 8 ms (*99.84%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 13.9 MB (*43.36%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0151-reverse-words-in-a-string){:target="_blank"}
+
 * [189. Rotate Array](https://leetcode.com/problems/rotate-array/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 36 ms (*99.48%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 13.8 MB (*86.25%*) &nbsp;\|&nbsp;
@@ -449,6 +459,11 @@ description: >
 **`Runtime`** 112 ms (*99.40%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 29.6 MB (*93.89%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0208-implement-trie-prefix-tree){:target="_blank"}
+
+* [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/){:.heading.flip-title target="_blank"} --- 
+**`Runtime`** 40 ms (*98.02%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 14.1 MB (*94.93%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0215-kth-largest-element-in-an-array){:target="_blank"}
 
 * [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/){:.heading.flip-title target="_blank"} --- 
 **`Runtime`** 44 ms (*92.54%*) &nbsp;\|&nbsp;
