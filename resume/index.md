@@ -2,7 +2,6 @@
 layout: page
 title: Resume 
 description: > 
-  Actively seeking for **`Software Development Engineer`** and **`Backend Engineer (Python)`** full-time job in 2021.  <br>
   Resume is also available on [**CakeResume**](https://www.cakeresume.com/yyloumike){:target="_blank"} &nbsp;\|&nbsp; [**CakeResume - Portfolio**](https://www.cakeresume.com/yyloumike/portfolio?ref=resume-header-portfolio){:target="_blank"} &nbsp;\|&nbsp; [**104 HR Consultancy**](https://www.104.com.tw/profile/3zZp0XGyhnb){:target="_blank"}
 sitemap: true
 ---
@@ -16,8 +15,8 @@ sitemap: true
 
 ## <font style="color: rgb(72, 103, 115)"> &#x1F9BE; &nbsp; Skills</font>
 ---
-* **Programming** &nbsp;&nbsp; `Python` &nbsp; `Java` &nbsp; `C/C++` &nbsp; `Scripting` &nbsp; `HTML` &nbsp; `CSS` &nbsp; `Javascript` &nbsp; `CUDA` 
-* **System & Tools** &nbsp;&nbsp; `Linux` &nbsp; `LAMP` &nbsp; `Android` &nbsp; `Django` &nbsp; `Bootstrap` &nbsp; `MongoDB` &nbsp; `MySQL` &nbsp; `Git` &nbsp; `GCP`  
+* **Programming** &nbsp;&nbsp; `Python` &nbsp; `Java` &nbsp; `C/C++` &nbsp; `Shell Script` &nbsp; `HTML` &nbsp; `CSS` &nbsp; `Javascript` &nbsp; `CUDA` 
+* **System & Tools** &nbsp;&nbsp; `Linux` &nbsp; `Android` &nbsp; `GCP` &nbsp; `Django` &nbsp; `Bootstrap` &nbsp; `MongoDB` &nbsp; `MySQL` &nbsp; `Git`
 * **Research** &nbsp;&nbsp; `Cloud/Edge/Fog Computing` &nbsp; `Internet of Things (IoT)` &nbsp; `Machine Learning`
 
 ---
