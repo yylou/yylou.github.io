@@ -273,7 +273,7 @@ description: >
 {:.related-posts.faded}
 ---
 
-<h3> Medium (#46) </h3>
+<h3> Medium (#48) </h3>
 ---
 * [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 52 ms (*94.00%*) &nbsp;\|&nbsp;
@@ -459,6 +459,11 @@ description: >
 **`Runtime`** 36 ms (*99.48%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 13.8 MB (*86.25%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0189-rotate-array){:target="_blank"}
+
+* [200. Number of Islands](https://leetcode.com/problems/number-of-islands/){:.heading.flip-title target="_blank"} ---
+**`Runtime`** 96 ms (*99.60%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 21.5 MB (*42.70%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0200-number-of-islands){:target="_blank"}
 
 * [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/){:.heading.flip-title target="_blank"} --- 
 **`Runtime`** 112 ms (*99.40%*) &nbsp;\|&nbsp;
