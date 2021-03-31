@@ -485,6 +485,11 @@ description: >
 **`Mem Usage`** 16.3 MB (*96.69%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0429-n-ary-tree-level-order-traversal){:target="_blank"}
 
+* [338. Counting Bits](https://leetcode.com/problems/counting-bits/){:.heading.flip-title target="_blank"} ---
+**`Runtime`** 56 ms (*99.11%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 15.5 MB (*95.57%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0338-counting-bits){:target="_blank"}
+
 * [429. N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 32 ms (*98.53%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 16.3 MB (*96.69%*) &nbsp;\|&nbsp;
