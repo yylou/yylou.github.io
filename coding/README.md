@@ -505,6 +505,11 @@ description: >
 **`Mem Usage`** 14.1 MB (*96.90%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0438-find-all-anagrams-in-a-string){:target="_blank"}
 
+* [547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/){:.heading.flip-title target="_blank"} ---
+**`Runtime`** 140 ms (*99.78%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 13.7 MB (*90.22%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0547-number-of-provinces){:target="_blank"}
+
 * [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 188 ms (*99.93%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 15.8 MB (*98.31%*) &nbsp;\|&nbsp;
