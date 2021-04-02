@@ -273,7 +273,7 @@ description: >
 {:.related-posts.faded}
 ---
 
-<h3> Medium (#48) </h3>
+<h3> Medium (#50) </h3>
 ---
 * [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 52 ms (*94.00%*) &nbsp;\|&nbsp;
@@ -379,6 +379,11 @@ description: >
 **`Runtime`** 4 ms (*100%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 13.4 MB (*46.85%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0054-spiral-matrix){:target="_blank"}
+
+* [55. Jump Game](https://leetcode.com/problems/jump-game/){:.heading.flip-title target="_blank"} ---
+**`Runtime`** 56 ms (*99.01%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 15.3 MB (*77.94%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0055-jump-game){:target="_blank"}
 
 * [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 60 ms (*94.48%*) &nbsp;\|&nbsp;
