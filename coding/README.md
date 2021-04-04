@@ -485,6 +485,11 @@ description: >
 **`Mem Usage`** 14.1 MB (*94.93%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0215-kth-largest-element-in-an-array){:target="_blank"}
 
+* [229. Majority Element II](https://leetcode.com/problems/majority-element-ii/){:.heading.flip-title target="_blank"} --- 
+**`Runtime`** 92 ms (*78.50%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 14.5 MB (*43.50%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0229-majority-element-ii){:target="_blank"}
+
 * [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/){:.heading.flip-title target="_blank"} --- 
 **`Runtime`** 44 ms (*92.54%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 15 MB (*97.74%*) &nbsp;\|&nbsp;
