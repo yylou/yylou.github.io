@@ -14,7 +14,7 @@ description: >
 ## <font style="color: rgb(72, 103, 115)"> LeetCode </font>
 ---
 
-<h3> Easy (#51) </h3>
+<h3> Easy (#52) </h3>
 ---
 * [1. Two Sum](https://leetcode.com/problems/two-sum/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 28 ms (*93.73%*) &nbsp;\|&nbsp;
@@ -140,6 +140,11 @@ description: >
 **`Runtime`** 200 ms (*49.81%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 43.2 MB (*94.05%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0160-intersection-of-two-linked-lists){:target="_blank"}
+
+* [169. Majority Element](https://leetcode.com/problems/majority-element/){:.heading.flip-title target="_blank"} ---
+**`Runtime`** 124 ms (*98.64%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 14.7 MB (*70.88%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0169-majority-element){:target="_blank"}
 
 * [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 12 ms (*97.33%*) &nbsp;\|&nbsp;
@@ -273,7 +278,7 @@ description: >
 {:.related-posts.faded}
 ---
 
-<h3> Medium (#50) </h3>
+<h3> Medium (#51) </h3>
 ---
 * [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 52 ms (*94.00%*) &nbsp;\|&nbsp;
