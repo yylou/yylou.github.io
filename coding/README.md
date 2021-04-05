@@ -278,7 +278,7 @@ description: >
 {:.related-posts.faded}
 ---
 
-<h3> Medium (#51) </h3>
+<h3> Medium (#53) </h3>
 ---
 * [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 52 ms (*94.00%*) &nbsp;\|&nbsp;
@@ -399,6 +399,11 @@ description: >
 **`Runtime`** 48 ms (*99.79%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 16.9 MB (*52.15%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0057-insert-interval){:target="_blank"}
+
+* [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/){:.heading.flip-title target="_blank"} ---
+**`Runtime`** 104 ms (*91.49%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 14 MB (*94.78%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0073-set-matrix-zeroes){:target="_blank"}
 
 * [78. Subsets](https://leetcode.com/problems/subsets/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 12 ms (*99.22%*) &nbsp;\|&nbsp;
