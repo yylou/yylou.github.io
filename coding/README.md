@@ -278,7 +278,7 @@ description: >
 {:.related-posts.faded}
 ---
 
-<h3> Medium (#53) </h3>
+<h3> Medium (#55) </h3>
 ---
 * [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 52 ms (*94.00%*) &nbsp;\|&nbsp;
@@ -399,6 +399,16 @@ description: >
 **`Runtime`** 48 ms (*99.79%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 16.9 MB (*52.15%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0057-insert-interval){:target="_blank"}
+
+* [62. Unique Paths](https://leetcode.com/problems/unique-paths/){:.heading.flip-title target="_blank"} ---
+**`Runtime`** 12 ms (*95.96%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 13.3 MB (*92.76%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0062-unique-paths){:target="_blank"}
+
+* [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/){:.heading.flip-title target="_blank"} ---
+**`Runtime`** 64 ms (*99.74%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 15 MB (*31.04%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0064-minimum-path-sum){:target="_blank"}
 
 * [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 104 ms (*91.49%*) &nbsp;\|&nbsp;
