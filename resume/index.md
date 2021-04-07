@@ -27,13 +27,12 @@ sitemap: true
 
 ## <font style="color: rgb(72, 103, 115)"> &#127891; &nbsp; Education </font>
 ---
-**[Purdue University](https://engineering.purdue.edu/ECE){:target="_blank"}** &nbsp;|&nbsp; Ph.D. in Electrical and Computer Engineering (ECE) &nbsp;|&nbsp; *2021.08 - Present*  
-* **`Advisor`** [Prof. Mung Chiang](https://engineering.purdue.edu/ECE/People/ptPeopleListing?group_id=2571&resource_id=171238){:target="_blank"}
+**[Purdue University](https://engineering.purdue.edu/ECE){:target="_blank"}** &nbsp;|&nbsp; Ph.D. in Electrical and Computer Engineering (ECE) &nbsp;|&nbsp; **`Advisor`** [Prof. Mung Chiang](https://engineering.purdue.edu/ECE/People/ptPeopleListing?group_id=2571&resource_id=171238){:target="_blank"} &nbsp;|&nbsp; *2021.08 - Present*  
 
 <br>
 
-**[National Taiwan University](https://www.inm.ntu.edu.tw/main.php){:target="_blank"}** &nbsp;|&nbsp; M.S. in Computer Science &nbsp;|&nbsp; **GPA 3.9 / 4.3** &nbsp;|&nbsp; *2015.09 - 2017.06*  
-* **`Thesis`** &nbsp; Fog-based Virtualization for Low-Latency Wearable Services &nbsp;---&nbsp; **`Advisor`** [Prof. Ai-Chun Pang](https://www.csie.ntu.edu.tw/~acpang/index.html){:target="_blank"}
+**[National Taiwan University](https://www.inm.ntu.edu.tw/main.php){:target="_blank"}** &nbsp;|&nbsp; M.S. in Computer Science &nbsp;|&nbsp; **`GPA` 3.9 / 4.3** &nbsp;|&nbsp; **`Advisor`** [Prof. Ai-Chun Pang](https://www.csie.ntu.edu.tw/~acpang/index.html){:target="_blank"} &nbsp;|&nbsp; *2015.09 - 2017.06*  
+* **`Thesis`** &nbsp; Fog-based Virtualization for Low-Latency Wearable Services &nbsp;---&nbsp;  
 * **`Awards`** &nbsp; Two-time Outstanding TA Awards, Valedictorian of Graduation Ceremony  
 
 <br>
