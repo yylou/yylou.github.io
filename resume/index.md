@@ -31,13 +31,13 @@ sitemap: true
 
 <br>
 
-**[National Taiwan University](https://www.inm.ntu.edu.tw/main.php){:target="_blank"}** &nbsp;|&nbsp; M.S. in Computer Science &nbsp;|&nbsp; **GPA&nbsp; 3.9 / 4.3** &nbsp;|&nbsp; **Advisor**&nbsp; [Prof. Ai-Chun Pang](https://www.csie.ntu.edu.tw/~acpang/index.html){:target="_blank"} &nbsp;|&nbsp; *2015.09 - 2017.06*  
+**[National Taiwan University](https://www.inm.ntu.edu.tw/main.php){:target="_blank"}** &nbsp;|&nbsp; M.S. in Computer Science (CS) &nbsp;|&nbsp; **GPA&nbsp; 3.9 / 4.3** &nbsp;|&nbsp; **Advisor**&nbsp; [Prof. Ai-Chun Pang](https://www.csie.ntu.edu.tw/~acpang/index.html){:target="_blank"} &nbsp;|&nbsp; *2015.09 - 2017.06*  
 * **`Thesis`** &nbsp; Fog-based Virtualization for Low-Latency Wearable Services  
 * **`Awards`** &nbsp; Two-time Outstanding TA Awards, Valedictorian of Graduation Ceremony  
 
 <br>
 
-**[National Chiao Tung University](https://www.cs.nycu.edu.tw/?locale=en){:target="_blank"}** &nbsp;\|&nbsp; B.S. in Computer Science &nbsp;\|&nbsp; **GPA&nbsp; 3.9 / 4.3** &nbsp;|&nbsp; *2011.09 - 2015.06*  
+**[National Chiao Tung University](https://www.cs.nycu.edu.tw/?locale=en){:target="_blank"}** &nbsp;\|&nbsp; B.S. in Computer Science (CS) &nbsp;\|&nbsp; **GPA&nbsp; 3.9 / 4.3** &nbsp;|&nbsp; *2011.09 - 2015.06*  
 * **`Project`** &nbsp; Accelerating HEVC by Adopting GPGPU/CUDA <sup>&nbsp;[*click*](#-x1f680-nbsp-projects-)</sup> 
 * **`Awards`** &nbsp; Two-time Presidential Awards, MOST Research Project Funding and Awards 
 
