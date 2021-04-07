@@ -63,7 +63,7 @@ sitemap: true
 
 ## <font style="color: rgb(72, 103, 115)"> &#128188; &nbsp; Experience - Industry </font>
 ---
-**[Silicon Motion - Algorithm and Technology R&D Center](https://www.siliconmotion.com/company/overview){:target="_blank"}** &nbsp;|&nbsp; Supvervisor Software Engineer &nbsp;|&nbsp; *2017.12 - 2021.03*  
+**[Silicon Motion - Algorithm and Technology R&D Center](https://www.siliconmotion.com/company/overview){:target="_blank"}** &nbsp;|&nbsp; Supvervisor Software Engineer &nbsp;|&nbsp; *2017.12 - 2021.04*  
 * Developed automated software system to boost development efficiency &nbsp;\|&nbsp;<span style="color: rgb(3, 74, 166)">**`Python`** **`JSON`** **`QT`**</span> 
 * Devised design tracking system by graph algorithms and visualized profile data &nbsp;\|&nbsp;<span style="color: rgb(3, 74, 166)">**`Python`** **`SQLite`**</span>
 * Enhanced design handoff quality by bridging EDA tools' APIs with data consistency checks &nbsp;\|&nbsp;<span style="color: rgb(3, 74, 166)">**`Python`** **`TCL`**</span>
