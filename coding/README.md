@@ -14,7 +14,7 @@ description: >
 ## <font style="color: rgb(72, 103, 115)"> LeetCode </font>
 ---
 
-<h3> Easy (#52) </h3>
+<h3> Easy (#54) </h3>
 ---
 * [1. Two Sum](https://leetcode.com/problems/two-sum/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 28 ms (*93.73%*) &nbsp;\|&nbsp;
@@ -151,6 +151,11 @@ description: >
 **`Mem Usage`** 13.3 MB (*88.48%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0190-reverse-bits){:target="_blank"}
 
+* [202. Happy Number](https://leetcode.com/problems/happy-number/){:.heading.flip-title target="_blank"} ---
+**`Runtime`** 12 ms (*99.38%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 13.4 MB (*66.15%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0202-happy-number){:target="_blank"}
+
 * [204. Count Primes](https://leetcode.com/problems/count-primes/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 104 ms (*99.89%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 36.7 MB (*76.06%*) &nbsp;\|&nbsp;
@@ -185,6 +190,11 @@ description: >
 **`Runtime`** 28 ms (*97.78%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 14.4 MB (*47.96%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0242-valid-anagram){:target="_blank"}
+
+* [258. Add Digits](https://leetcode.com/problems/valid-anagram/){:.heading.flip-title target="_blank"} ---
+**`Runtime`** 12 ms (*98.15%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 13.4 MB (*64.20%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0258-add-digits){:target="_blank"}
 
 * [268. Missing Number](https://leetcode.com/problems/missing-number/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 100 ms (*93.21%*) &nbsp;\|&nbsp;
