@@ -455,6 +455,11 @@ description: >
 **`Mem Usage`** 13.3 MB (*79.67%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0094-binary-tree-inorder-traversal){:target="_blank"}
 
+* [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/){:.heading.flip-title target="_blank"} ---
+**`Runtime`** 28 ms (*94.97%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 17.7 MB (*95.43%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0098-validate-binary-search-tree){:target="_blank"}
+
 * [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 8 ms (*99.81%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 13.8 MB (*70.08%*) &nbsp;\|&nbsp;
