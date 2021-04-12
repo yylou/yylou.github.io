@@ -2,7 +2,7 @@
 layout: page
 title: Resume 
 description: > 
-  Resume is also available on [**CakeResume**](https://www.cakeresume.com/yyloumike){:target="_blank"} &nbsp;\|&nbsp; [**CakeResume - Portfolio**](https://www.cakeresume.com/yyloumike/portfolio?ref=resume-header-portfolio){:target="_blank"} &nbsp;\|&nbsp; [**104 HR Consultancy**](https://www.104.com.tw/profile/3zZp0XGyhnb){:target="_blank"}
+   [**Google Scholar**](https://scholar.google.com/citations?user=GxDK4WQAAAAJ&hl=en){:target="_blank"} &nbsp;\|&nbsp; [CakeResume](https://www.cakeresume.com/yyloumike){:target="_blank"} &nbsp;\|&nbsp; [CakeResume - Portfolio](https://www.cakeresume.com/yyloumike/portfolio?ref=resume-header-portfolio){:target="_blank"} &nbsp;\|&nbsp; [104 HR Consultancy](https://www.104.com.tw/profile/3zZp0XGyhnb){:target="_blank"} 
 sitemap: true
 ---
 
