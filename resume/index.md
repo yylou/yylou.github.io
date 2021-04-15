@@ -15,11 +15,11 @@ sitemap: true
 
 ## <font style="color: rgb(72, 103, 115)"> &#x1F9BE; &nbsp; Skills</font>
 ---
-* **Programming** &nbsp;&nbsp; `Python` &nbsp; `Java` &nbsp; `C/C++` &nbsp; `Shell Script` &nbsp; `HTML` &nbsp; `CSS` &nbsp; `Javascript` &nbsp; `CUDA` 
-* **System & Tools** &nbsp;&nbsp; `Linux` &nbsp; `Android` &nbsp; `GCP` &nbsp; `Django` &nbsp; `Bootstrap` &nbsp; `MongoDB` &nbsp; `MySQL` &nbsp; `Git`
-* **Research** &nbsp;&nbsp; `Cloud/Edge/Fog Computing` &nbsp; `5G/6G` &nbsp; `Internet of Things (IoT)` &nbsp; `Machine Learning`
+**Programming**&nbsp;&nbsp; &nbsp;&nbsp; `Python` &nbsp; `Java` &nbsp; `C/C++` &nbsp; `Shell Script` &nbsp; `HTML` &nbsp; `CSS` &nbsp; `Javascript` &nbsp; `CUDA` 
 
----
+**System & Tools** &nbsp;&nbsp; `Linux` &nbsp; `Android` &nbsp; `GCP` &nbsp; `Django` &nbsp; `Bootstrap` &nbsp; `MongoDB` &nbsp; `MySQL` &nbsp; `Git`
+
+**Research**&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; `Cloud/Edge/Fog Computing` &nbsp; `5G/6G` &nbsp; `Internet of Things (IoT)` &nbsp; `Machine Learning`
 
 
 
@@ -27,21 +27,11 @@ sitemap: true
 
 ## <font style="color: rgb(72, 103, 115)"> &#127891; &nbsp; Education </font>
 ---
-**[Purdue University](https://engineering.purdue.edu/ECE){:target="_blank"}** &nbsp;|&nbsp; Ph.D. in Electrical and Computer Engineering (ECE) &nbsp;|&nbsp; **Advisor**&nbsp; [Prof. Mung Chiang](https://engineering.purdue.edu/ECE/People/ptPeopleListing?group_id=2571&resource_id=171238){:target="_blank"} &nbsp;|&nbsp; *2021.08 - Present*  
+**[Purdue University](https://engineering.purdue.edu/ECE){:target="_blank"}** &nbsp;\|&nbsp; Ph.D. in Electrical and Computer Engineering (ECE) &nbsp;\|&nbsp; **Advisor**&nbsp; [Prof. Mung Chiang](https://engineering.purdue.edu/ECE/People/ptPeopleListing?group_id=2571&resource_id=171238){:target="_blank"} &nbsp;\|&nbsp; *2021.08 - Present*  
 
-<br>
+**[National Taiwan University](https://www.inm.ntu.edu.tw/main.php){:target="_blank"}** &nbsp;\|&nbsp; M.S. in Computer Science (CS) &nbsp;\|&nbsp; **GPA&nbsp; 3.9 / 4.3** &nbsp;\|&nbsp; **Advisor**&nbsp; [Prof. Ai-Chun Pang](https://www.csie.ntu.edu.tw/~acpang/index.html){:target="_blank"} &nbsp;\|&nbsp; *2015.09 - 2017.06*  
 
-**[National Taiwan University](https://www.inm.ntu.edu.tw/main.php){:target="_blank"}** &nbsp;|&nbsp; M.S. in Computer Science (CS) &nbsp;|&nbsp; **GPA&nbsp; 3.9 / 4.3** &nbsp;|&nbsp; **Advisor**&nbsp; [Prof. Ai-Chun Pang](https://www.csie.ntu.edu.tw/~acpang/index.html){:target="_blank"} &nbsp;|&nbsp; *2015.09 - 2017.06*  
-* **`Thesis`** &nbsp; Fog-based Virtualization for Low-Latency Wearable Services  
-* **`Awards`** &nbsp; Two-time Outstanding TA Awards &nbsp;+&nbsp; Valedictorian of Graduation Ceremony  
-
-<br>
-
-**[National Chiao Tung University](https://www.cs.nycu.edu.tw/?locale=en){:target="_blank"}** &nbsp;\|&nbsp; B.S. in CS &nbsp;\|&nbsp; **GPA&nbsp; 3.9 / 4.3** &nbsp;|&nbsp; *2011.09 - 2015.06*  
-* **`Project`** &nbsp; Accelerating HEVC by Adopting GPGPU/CUDA <sup>&nbsp;[*click*](#-x1f680-nbsp-projects-)</sup> 
-* **`Awards`** &nbsp; Two-time Presidential Awards &nbsp;+&nbsp; MOST Research Project Funding and Awards 
-
----
+**[National Chiao Tung University](https://www.cs.nycu.edu.tw/?locale=en){:target="_blank"}** &nbsp;\|&nbsp; B.S. in Computer Science (CS) &nbsp;\|&nbsp; **GPA&nbsp; 3.9 / 4.3** &nbsp;\|&nbsp; *2011.09 - 2015.06*  
 
 
 
@@ -50,16 +40,17 @@ sitemap: true
 ## <font style="color: rgb(72, 103, 115)"> &#x1F9FB; &nbsp; Publications </font>
 ---
 **Book Chapter**  
-* Yuan-Yao Shih, Ai-Chun Pang, **Yuan-Yao Lou**, “[Chapter 13 - Development of Wearable Services with Edge Devices,](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119501121.ch13){:target="_blank"}” *Fog and Fogonomics: Challenges and Practices of Fog Computing, Communication, Networking, Strategy, and Economics*, 2020
+* Yuan-Yao Shih, Ai-Chun Pang, **Yuan-Yao Lou**, “[Chapter 13 - Development of Wearable Services with Edge Devices,](https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119501121.ch13){:target="_blank"}” *Fog and Fogonomics: Challenges and Practices of Fog Computing, Communication, Networking, Strategy, and Economics*, 2020  
+<br>
 
 **Journal Paper**
-* Xiaoli Wang, Ming-Jye Sheng, **Yuan-Yao Lou**, Mung Chiang, “[Internet of Things Session Management Over LTE — Balancing Signal Load, Power, and Delay,](https://ieeexplore.ieee.org/document/7314871){:target="_blank"}” *IEEE Internet of Things Journal (IoT-J)*, 2015
+* Xiaoli Wang, Ming-Jye Sheng, **Yuan-Yao Lou**, Mung Chiang, “[Internet of Things Session Management Over LTE — Balancing Signal Load, Power, and Delay,](https://ieeexplore.ieee.org/document/7314871){:target="_blank"}” *IEEE Internet of Things Journal (IoT-J)*, 2015  
+<br>
 
 **Conference Paper**
 * Yuan-Yao Shih, Ai-Chun Pang, **Yuan-Yao Lou**, Ching-Chih Chuang, Liqiang Zhao, Zhiyuan Ren, “[Modularized Service Provisioning at Fog Networks,](/assets/2018-modularized-service-provisioning-at-fog-networks.pdf){:target="_blank"}” *IEEE Vehicular Technology Society (VTS) Asia Pacific Wireless Communications Symposium (APWCS)*, 2018
-* Hsin-Peng Lin, Yuan-Yao Shih, Ai-Chun Pang, **Yuan-Yao Lou**, “[A Virtual Local-hub Solution with Function Module Sharing for Wearable Devices,](https://dl.acm.org/doi/10.1145/2988287.2989150){:target="_blank"}” *ACM International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems (MSWiM)*, 2016
+* Hsin-Peng Lin, Yuan-Yao Shih, Ai-Chun Pang, **Yuan-Yao Lou**, “[A Virtual Local-hub Solution with Function Module Sharing for Wearable Devices,](https://dl.acm.org/doi/10.1145/2988287.2989150){:target="_blank"}” *ACM International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems (MSWiM)*, 2016  
 
----
 
 
 
@@ -77,8 +68,6 @@ sitemap: true
 * Established Python programming disciplines and organized training sessions 
 * Served as on-campus technical recruiter at National Taiwan University in 2018 and 2019
 * **Promoted twice within 24 months to Supervisor**
-
----
 
 
 
@@ -106,8 +95,6 @@ sitemap: true
 * Proposed LTE mechanism (RRC and DRX) enhancement to support IoT-type network sessions 
 * **Published one journal paper (IEEE IoT Journal)**
 
----
-
 
 
 
@@ -121,8 +108,6 @@ sitemap: true
 
 **Major Achievement**
 * Received two-time Outstanding TA awards
-
----
 
 
 
@@ -149,16 +134,22 @@ sitemap: true
 * Presented project findings in English on weekly engineering project seminar
 * **Funded and awarded by delivering proposal to Ministry of Science and Technology (MOST)**
 
+
+
+
+
+## <font style="color: rgb(72, 103, 115)"> &#128220; &nbsp; Certificates & Awards </font>
 ---
+**[IEEE Winter School on Fog/Edge Computing](https://www.iitk.ac.in/cce/comsoc-winter-school-20/){:target="_blank"}** &nbsp;\|&nbsp; IEEE Standards Association (SA) &nbsp;&&nbsp; Communications Society (ComSoc) &nbsp;\|&nbsp; *2020*  
 
+**Valedictorian of CS Department Graduation Ceremony** &nbsp;\|&nbsp; National Taiwan University (NTU) &nbsp;\|&nbsp; *2017*  
 
+**Outstanding Teachine Assistant Awards** &nbsp;\|&nbsp; National Taiwan University (NTU) &nbsp;\|&nbsp; *2016 & 2017*  
 
+**Presidential Awards** &nbsp;\|&nbsp; National Chiao Tung University (NCTU) &nbsp;\|&nbsp; *2014 & 2015*  
 
+**Research Project Funding and Awards** &nbsp;\|&nbsp; National Chiao Tung University (NCTU) &nbsp;\|&nbsp; *2014*  
 
-## <font style="color: rgb(72, 103, 115)"> &#128220; &nbsp; Certificates </font>
----
-* **[IEEE Winter School on Fog/Edge Computing](https://www.iitk.ac.in/cce/comsoc-winter-school-20/){:target="_blank"}** &nbsp;\|&nbsp; IEEE Standards Association (SA) &nbsp;&&nbsp; IEEE Communications Society (ComSoc) &nbsp;\|&nbsp; *2020*  
-* **[English as a Second Language (ESL) program - Level 5](https://esl.rice.edu){:target="_blank"}** &nbsp;\|&nbsp; Rice University &nbsp;\|&nbsp; *2013*
+**[English as a Second Language (ESL) program - Level 5](https://esl.rice.edu){:target="_blank"}** &nbsp;\|&nbsp; Rice University &nbsp;\|&nbsp; *2013*
 
----
 
