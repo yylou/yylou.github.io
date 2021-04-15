@@ -17,7 +17,7 @@ sitemap: true
 ---
 * **Programming** &nbsp;&nbsp; `Python` &nbsp; `Java` &nbsp; `C/C++` &nbsp; `Shell Script` &nbsp; `HTML` &nbsp; `CSS` &nbsp; `Javascript` &nbsp; `CUDA` 
 * **System & Tools** &nbsp;&nbsp; `Linux` &nbsp; `Android` &nbsp; `GCP` &nbsp; `Django` &nbsp; `Bootstrap` &nbsp; `MongoDB` &nbsp; `MySQL` &nbsp; `Git`
-* **Research** &nbsp;&nbsp; `Cloud/Edge/Fog Computing` &nbsp; `Internet of Things (IoT)` &nbsp; `Machine Learning`
+* **Research** &nbsp;&nbsp; `Cloud/Edge/Fog Computing` &nbsp; `5G/6G` &nbsp; `Internet of Things (IoT)` &nbsp; `Machine Learning`
 
 ---
 
@@ -33,13 +33,13 @@ sitemap: true
 
 **[National Taiwan University](https://www.inm.ntu.edu.tw/main.php){:target="_blank"}** &nbsp;|&nbsp; M.S. in Computer Science (CS) &nbsp;|&nbsp; **GPA&nbsp; 3.9 / 4.3** &nbsp;|&nbsp; **Advisor**&nbsp; [Prof. Ai-Chun Pang](https://www.csie.ntu.edu.tw/~acpang/index.html){:target="_blank"} &nbsp;|&nbsp; *2015.09 - 2017.06*  
 * **`Thesis`** &nbsp; Fog-based Virtualization for Low-Latency Wearable Services  
-* **`Awards`** &nbsp; Two-time Outstanding TA Awards, Valedictorian of Graduation Ceremony  
+* **`Awards`** &nbsp; Two-time Outstanding TA Awards &nbsp;+&nbsp; Valedictorian of Graduation Ceremony  
 
 <br>
 
-**[National Chiao Tung University](https://www.cs.nycu.edu.tw/?locale=en){:target="_blank"}** &nbsp;\|&nbsp; B.S. in Computer Science (CS) &nbsp;\|&nbsp; **GPA&nbsp; 3.9 / 4.3** &nbsp;|&nbsp; *2011.09 - 2015.06*  
+**[National Chiao Tung University](https://www.cs.nycu.edu.tw/?locale=en){:target="_blank"}** &nbsp;\|&nbsp; B.S. in CS &nbsp;\|&nbsp; **GPA&nbsp; 3.9 / 4.3** &nbsp;|&nbsp; *2011.09 - 2015.06*  
 * **`Project`** &nbsp; Accelerating HEVC by Adopting GPGPU/CUDA <sup>&nbsp;[*click*](#-x1f680-nbsp-projects-)</sup> 
-* **`Awards`** &nbsp; Two-time Presidential Awards, MOST Research Project Funding and Awards 
+* **`Awards`** &nbsp; Two-time Presidential Awards &nbsp;+&nbsp; MOST Research Project Funding and Awards 
 
 ---
 
@@ -86,7 +86,7 @@ sitemap: true
 
 ## <font style="color: rgb(72, 103, 115)"> &#128209; &nbsp; Experience - Research </font>
 ---
-**[Ministry of Science and Technology (MOST)](https://www.most.gov.tw/?l=en){:target="_blank"}** &nbsp;|&nbsp; Graduate Researcher and Network Engineer &nbsp;|&nbsp; *2015.09 - 2017.09*  
+**[Ministry of Science and Technology (MOST)](https://www.most.gov.tw/?l=en){:target="_blank"}** &nbsp;|&nbsp; Graduate Researcher and Full-Stack Developer &nbsp;|&nbsp; *2015.09 - 2017.09*  
 * Modified Android Wear OS to enable computation offloading through IoT devices &nbsp;\|&nbsp;<span style="color: rgb(3, 74, 166)">**`Android`** **`Java`**</span> 
 * Built edge network on developmental boards and developed low-latency applications &nbsp;\|&nbsp;<span style="color: rgb(3, 74, 166)">**`Python`** **`Java`** **`LAMP`** **`Raspberry Pi`**</span>
 * Deployed web applications to control network operation &nbsp;\|&nbsp;<span style="color: rgb(3, 74, 166)">**`Django + Bootstrap`** **`MongoDB`** **`RESTful`**</span>
@@ -98,7 +98,7 @@ sitemap: true
 
 <br>
 
-**[Princeton University - EDGE Lab](http://edgelab.princeton.edu){:target="_blank"}** &nbsp;|&nbsp; Research Intern &nbsp;|&nbsp; **`Fog/Edge Computing`** **`LTE`** **`IoT`** **`Machine Learning`** &nbsp;|&nbsp; *2014.07 - 2015.03*  
+**[Princeton University - EDGE Lab](http://edgelab.princeton.edu){:target="_blank"}** &nbsp;|&nbsp; Research Intern &nbsp;|&nbsp; **`Fog/Edge Computing`** **`LTE`** **`IoT`** &nbsp;|&nbsp; *2014.07 - 2015.03*  
 * Developed tools to analyze network packets and profile Android app performance &nbsp;\|&nbsp;<span style="color: rgb(3, 74, 166)">**`Python`** **`Java`**</span>
 * Built probabilistic Markov model with automated simulation and visualized numerical results &nbsp;\|&nbsp;<span style="color: rgb(3, 74, 166)">**`Python`** **`Prism`**</span>
 
@@ -114,7 +114,7 @@ sitemap: true
 
 ## <font style="color: rgb(72, 103, 115)"> &#x1F4A1; &nbsp; Experience - Teaching </font>
 ---
-**[National Taiwan University](https://www.inm.ntu.edu.tw/main.php){:target="_blank"}** &nbsp;|&nbsp; TA &nbsp;|&nbsp; **`CSIE3510`** Computer Network &nbsp;+ **`CSIE5057`** Advanced Computer Network &nbsp;|&nbsp; *2016.02 - 2017.01*  
+**[National Taiwan University](https://www.inm.ntu.edu.tw/main.php){:target="_blank"}** &nbsp;|&nbsp; **`CSIE 3510`** Computer Network &nbsp;+ **`CSIE 5057`** Advanced Computer Network &nbsp;|&nbsp; *2016.02 - 2017.01*  
 * Designed IRC chatbot application as assignment for socket programming training &nbsp;\|&nbsp;<span style="color: rgb(3, 74, 166)">**`Python`** **`C`**</span>
 * Improved program's robustness and stimulated creativity by peer testing mechanism
 * Lectured TCP/IP protocol and demonstrated network packets tracing in Wireshark
@@ -130,20 +130,20 @@ sitemap: true
 
 ## <font style="color: rgb(72, 103, 115)"> &#x1F680; &nbsp; Projects </font>
 ---
-**MOOC Platform Course Dropout Prediction** &nbsp;|&nbsp; NTU **`CSIE5430`** Machine Learning &nbsp;|&nbsp; *2015.12 - 2016.01*
+**MOOC Platform Course Dropout Prediction** &nbsp;|&nbsp; NTU **`CSIE 5430`** Machine Learning &nbsp;|&nbsp; *2015.12 - 2016.01*
 * Acted as team leader to train machine learning models and evaluate datasets &nbsp;\|&nbsp;<span style="color: rgb(3, 74, 166)">**`Python`**</span>
 * Achieved 96% of accuracy rate by applying ensemble machine learning with factor analysis &nbsp;\|&nbsp;<span style="color: rgb(3, 74, 166)">**`Gradient Boosted DT + AdaBoost`**
 * Analyzed complexity and pros-cons of machine learning models for model blending  
 
 <br>
 
-**[MIT App Inventor 2](https://appinventor.mit.edu){:target="_blank"}** - LayerBox Feature &nbsp;|&nbsp; NCTU **`IOC5157`** Free and Open Source Software and Project &nbsp;|&nbsp; *2015.03 - 2015.06*
+**[MIT App Inventor 2](https://appinventor.mit.edu){:target="_blank"}** - LayerBox Feature &nbsp;|&nbsp; NCTU **`IOC 5157`** Free and Open Source Software and Project &nbsp;|&nbsp; *2015.03 - 2015.06*
 * Delivered [new feature](https://groups.google.com/g/mitappinventortest/c/F6gED-J-JHM/m/b__eQud2L04J){:target="_blank"} to improve programmability of visual programming environment &nbsp;\|&nbsp;<span style="color: rgb(3, 74, 166)">**`Javascript`** **`GCP`** **`App Engine`**</span>
 * Attended [MIT App Inventor Summit](http://appinventor.mit.edu/explore/summit-2013-archive){:target="_blank"} in Boston, MA, the US as developer in 2013
 
 <br>
 
-**Accelerating HEVC by Adopting GPGPU/CUDA** &nbsp;|&nbsp; NCTU **`DCP3103`** Computer Science and Engineering Projects &nbsp;|&nbsp; *2014.07 - 2015.02*
+**Accelerating HEVC by Adopting GPGPU/CUDA** &nbsp;|&nbsp; NCTU **`DCP 3103`** Computer Science and Engineering Projects &nbsp;|&nbsp; *2014.07 - 2015.02*
 * Acted as team leader and planned project milestone with programming assignments &nbsp;\|&nbsp;<span style="color: rgb(3, 74, 166)">**`Matrix Multiplication Optimization`**</span>
 * Focused on reducing decoding/encoding time by decomposing HEVC and applying parallel programming &nbsp;\|&nbsp;<span style="color: rgb(3, 74, 166)">**`CUDA`**</span>
 * Presented project findings in English on weekly engineering project seminar
@@ -157,7 +157,7 @@ sitemap: true
 
 ## <font style="color: rgb(72, 103, 115)"> &#128220; &nbsp; Certificates </font>
 ---
-* **[IEEE Winter School on Fog/Edge Computing](https://www.iitk.ac.in/cce/comsoc-winter-school-20/){:target="_blank"}** &nbsp;\|&nbsp; IEEE Standards Association (SA) & IEEE Communications Society (ComSoc) &nbsp;\|&nbsp; *2020*  
+* **[IEEE Winter School on Fog/Edge Computing](https://www.iitk.ac.in/cce/comsoc-winter-school-20/){:target="_blank"}** &nbsp;\|&nbsp; IEEE Standards Association (SA) &nbsp;&&nbsp; IEEE Communications Society (ComSoc) &nbsp;\|&nbsp; *2020*  
 * **[English as a Second Language (ESL) program - Level 5](https://esl.rice.edu){:target="_blank"}** &nbsp;\|&nbsp; Rice University &nbsp;\|&nbsp; *2013*
 
 ---
