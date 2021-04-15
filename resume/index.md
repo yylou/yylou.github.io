@@ -138,7 +138,7 @@ sitemap: true
 
 
 
-## <font style="color: rgb(72, 103, 115)"> &#128220; &nbsp; Certificates & Awards </font>
+## <font style="color: rgb(72, 103, 115)"> &#127942; &nbsp; Certificates & Awards </font>
 ---
 **[IEEE Winter School on Fog/Edge Computing](https://www.iitk.ac.in/cce/comsoc-winter-school-20/){:target="_blank"}** &nbsp;\|&nbsp; IEEE Standards Association (SA) &nbsp;&&nbsp; Communications Society (ComSoc) &nbsp;\|&nbsp; *2020*  
 
