@@ -142,13 +142,13 @@ sitemap: true
 ---
 **[IEEE Winter School on Fog/Edge Computing](https://www.iitk.ac.in/cce/comsoc-winter-school-20/){:target="_blank"}** &nbsp;\|&nbsp; IEEE Standards Association (SA) &nbsp;&&nbsp; Communications Society (ComSoc) &nbsp;\|&nbsp; *2020*  
 
-**Valedictorian of CS Department Graduation Ceremony** &nbsp;\|&nbsp; National Taiwan University (NTU) &nbsp;\|&nbsp; *2017*  
+**Valedictorian of CS Department Graduation Ceremony** &nbsp;\|&nbsp; National Taiwan University &nbsp;\|&nbsp; *2017*  
 
-**Outstanding Teachine Assistant Awards** &nbsp;\|&nbsp; National Taiwan University (NTU) &nbsp;\|&nbsp; *2016 & 2017*  
+**Outstanding Teaching Assistant Awards** &nbsp;\|&nbsp; National Taiwan University &nbsp;\|&nbsp; *2016 & 2017*  
 
-**Presidential Awards** &nbsp;\|&nbsp; National Chiao Tung University (NCTU) &nbsp;\|&nbsp; *2014 & 2015*  
+**Presidential Awards** &nbsp;\|&nbsp; National Chiao Tung University &nbsp;\|&nbsp; *2014 & 2015*  
 
-**Research Project Funding and Awards** &nbsp;\|&nbsp; National Chiao Tung University (NCTU) &nbsp;\|&nbsp; *2014*  
+**Research Project Funding and Awards** &nbsp;\|&nbsp; Ministry of Science and Technology, Taiwan &nbsp;\|&nbsp; *2014*  
 
 **[English as a Second Language (ESL) program - Level 5](https://esl.rice.edu){:target="_blank"}** &nbsp;\|&nbsp; Rice University &nbsp;\|&nbsp; *2013*
 
