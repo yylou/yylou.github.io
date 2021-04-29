@@ -293,7 +293,7 @@ description: >
 {:.related-posts.faded}
 ---
 
-<h3> Medium (#58) </h3>
+<h3> Medium (#59) </h3>
 ---
 * [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 52 ms (*94.00%*) &nbsp;\|&nbsp;
@@ -509,6 +509,11 @@ description: >
 **`Runtime`** 172 ms (*99.94%*) &nbsp;\|&nbsp;
 **`Mem Usage`** 23.8 MB (*55.08%*) &nbsp;\|&nbsp;
 [**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0146-lru-cache){:target="_blank"}
+
+* [148. Sort List](https://leetcode.com/problems/sort-list/){:.heading.flip-title target="_blank"} ---
+**`Runtime`** 172 ms (*98.38%*) &nbsp;\|&nbsp;
+**`Mem Usage`** 45.6 MB (*95.85%*) &nbsp;\|&nbsp;
+[**`Github`**](https://github.com/yylou/leetcode-problem-solving/tree/main/0148-sort-list){:target="_blank"}
 
 * [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/){:.heading.flip-title target="_blank"} ---
 **`Runtime`** 8 ms (*99.84%*) &nbsp;\|&nbsp;
