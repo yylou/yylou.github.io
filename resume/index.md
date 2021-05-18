@@ -19,7 +19,7 @@ sitemap: true
 
 **System & Tools** &nbsp;&nbsp; `Linux` &nbsp; `Android` &nbsp; `GCP` &nbsp; `Django` &nbsp; `Bootstrap` &nbsp; `MongoDB` &nbsp; `MySQL` &nbsp; `Git`
 
-**Research**&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; `Cloud/Edge/Fog Computing` &nbsp; `5G/6G` &nbsp; `Internet of Things (IoT)` &nbsp; `Machine Learning`
+**Research**&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; `Cloud/Edge/Fog Computing` &nbsp; `Machine Learning` &nbsp; `Internet of Things (IoT)` &nbsp; `5G/6G`
 
 
 
