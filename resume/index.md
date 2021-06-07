@@ -27,11 +27,11 @@ sitemap: true
 
 ## <font style="color: rgb(72, 103, 115)"> &#127891; &nbsp; Education </font>
 ---
-**[Purdue University](https://engineering.purdue.edu/ECE){:target="_blank"}** &nbsp;\|&nbsp; Ph.D. in Electrical and Computer Engineering (ECE) &nbsp;\|&nbsp; **Advisor**&nbsp; [Prof. Mung Chiang](https://engineering.purdue.edu/ECE/People/ptPeopleListing?group_id=2571&resource_id=171238){:target="_blank"} &nbsp;\|&nbsp; *2021.08 - Present*  
+**[Purdue University](https://engineering.purdue.edu/ECE){:target="_blank"}** &nbsp;\|&nbsp; Ph.D. in Electrical and Computer Engineering &nbsp;\|&nbsp; **Advisor**&nbsp; [Prof. Mung Chiang](https://engineering.purdue.edu/ECE/People/ptPeopleListing?group_id=2571&resource_id=171238){:target="_blank"} &nbsp;\|&nbsp; *2021.08 - Present*  
 
-**[National Taiwan University](https://www.inm.ntu.edu.tw/main.php){:target="_blank"}** &nbsp;\|&nbsp; M.S. in Computer Science (CS) &nbsp;\|&nbsp; **GPA&nbsp; 3.9 / 4.3** &nbsp;\|&nbsp; **Advisor**&nbsp; [Prof. Ai-Chun Pang](https://www.csie.ntu.edu.tw/~acpang/index.html){:target="_blank"} &nbsp;\|&nbsp; *2015.09 - 2017.06*  
+**[National Taiwan University](https://www.inm.ntu.edu.tw/main.php){:target="_blank"}** &nbsp;\|&nbsp; M.S. in Computer Science &nbsp;\|&nbsp; **GPA&nbsp; 3.9 / 4.3** &nbsp;\|&nbsp; **Advisor**&nbsp; [Prof. Ai-Chun Pang](https://www.csie.ntu.edu.tw/~acpang/index.html){:target="_blank"} &nbsp;\|&nbsp; *2015.09 - 2017.06*  
 
-**[National Chiao Tung University](https://www.cs.nycu.edu.tw/?locale=en){:target="_blank"}** &nbsp;\|&nbsp; B.S. in Computer Science (CS) &nbsp;\|&nbsp; **GPA&nbsp; 3.9 / 4.3** &nbsp;\|&nbsp; *2011.09 - 2015.06*  
+**[National Chiao Tung University](https://www.cs.nycu.edu.tw/?locale=en){:target="_blank"}** &nbsp;\|&nbsp; B.S. in Computer Science &nbsp;\|&nbsp; **GPA&nbsp; 3.9 / 4.3** &nbsp;\|&nbsp; *2011.09 - 2015.06*  
 
 
 
