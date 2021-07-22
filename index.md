@@ -15,7 +15,7 @@ cover: true
 
 > "To see the beauty, step on your journey, and take challenges." @ Yosemite, 2017.
 
-Besides engineering, he also loves **traveling and photography**. He had visited US lots of time, including:
+Besides engineering, I also love **traveling and photography**. I had visited US lots of time, including:
 - Taking ESL (English as Second Langage) program at Rice University, 2013
 - Attending MIT App Intenvor Summit at MIT, 2013
 - Researching in EDGE Lab at Princeton University under the supervision of [Prof. Mung Chiang](https://en.wikipedia.org/wiki/Mung_Chiang){:target="_blank"}, 2014
