@@ -28,12 +28,11 @@ Before joining Purdue, I received the B.S. and M.S. degrees in Computer Science 
 {: .notice}
 
 <h2 style="margin-bottom: -10px">Experience</h2>
-* <div style="margin-bottom: 10px;"><b>Full-stack Cloud Developer</b> <br /><sub><sup>IoT Eye Inc.&nbsp; / &nbsp;Apr. 2021 - Aug. 2021</sup></sub></div>
-* <div style="margin-bottom: 10px;"><b>Independent Researcher</b> <br /><sub><sup>IEEE WF-IoT & IEEE COMCAS'21&nbsp; / &nbsp;Dec. 2020 - Jul. 2021</sup></sub></div>
-* <div style="margin-bottom: 10px;"><b>Software Engineer (Supervisor)</b> <br /><sub><sup>Silicon Motion Technology Corp.&nbsp; / &nbsp;Dec. 2017 - Apr. 2021</sup></sub></div>
-* <div style="margin-bottom: 10px;"><b>Graduate Researcher</b> <br /><sub><sup>Ministry of Science and Technology&nbsp; / &nbsp;Sep. 2015 - Sep. 2017</sup></sub></div>
-* <div style="margin-bottom: 10px;"><b>Research Intern</b> <br /><sub><sup>EDGE Lab, Princeton University&nbsp; / &nbsp;Jul. 2014 - Sep. 2014</sup></sub></div>
-
+* <div style="margin-bottom: 5px;"><b>Full-stack Cloud Developer</b> <br /><sup>IoT Eye Inc.&nbsp; / &nbsp;Apr. 2021 - Aug. 2021</sup></div>
+* <div style="margin-bottom: 5px;"><b>Independent Researcher</b> <br /><sup>IEEE WF-IoT & IEEE COMCAS'21&nbsp; / &nbsp;Dec. 2020 - Jul. 2021</sup></div>
+* <div style="margin-bottom: 5px;"><b>Software Engineer (Supervisor)</b> <br /><sup>Silicon Motion Technology Corp.&nbsp; / &nbsp;Dec. 2017 - Apr. 2021</sup></div>
+* <div style="margin-bottom: 5px;"><b>Graduate Researcher</b> <br /><sup>Ministry of Science and Technology&nbsp; / &nbsp;Sep. 2015 - Sep. 2017</sup></div>
+* <div style="margin-bottom: 5px;"><b>Research Intern</b> <br /><sup>EDGE Lab, Princeton University&nbsp; / &nbsp;Jul. 2014 - Sep. 2014</sup></div>
 
 <h2 style="margin-bottom: -10px">Publications</h2>
 * <div style="text-align: left; margin-bottom: 10px;">S. B. Weinstein, <b>Y.-Y. Lou</b>, T. R. Hsing. <a href="#" style="text-decoration: none;">Intelligent Network Edge with Distributed SDN for the Future 6G Network.</a> <i>IEEE International Conference on Microwaves, Communications, Antennas, Biomedical Engineering and Electronic Systems (IEEE COMCAS)</i>, 2021 <b><i>(submitted)</i></b></div>
