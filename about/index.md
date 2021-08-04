@@ -45,7 +45,7 @@ Before joining Purdue, I received the B.S. and M.S. degrees in Computer Science 
 <script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
 <script type="text/javascript">
     document.getElementById('resume').addEventListener("click", function(){ 
-        var adobeDCView = new AdobeDC.View({clientId: "e7cef7052c724d9fb06acee4f9de6698"});
+        var adobeDCView = new AdobeDC.View({clientId: "3708d35338d2481eaf75ed2e706a3507"});
         adobeDCView.previewFile({
             content:{location: {url: "/assets/resume.pdf"}},
             metaData:{fileName: "Resume-Yuan-Yao-Lou.pdf"}
