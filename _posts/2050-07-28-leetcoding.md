@@ -67,5 +67,6 @@ comments: true
 | [**0912. Sort an Array**](https://yyloumike.gitbook.io/leetcode/sorting/0912.-sort-an-array){:target="_blank"}                                                            | Medium | Sort | 76 / 99 |
 | [0953. Verifying an Alien Dictionary](https://yyloumike.gitbook.io/leetcode/string/0953.-verifying-an-alien-dictionary){:target="_blank"}                                 | Easy | String | 96 / 91 |
 | [0993. Cousins in Binary Tree](https://yyloumike.gitbook.io/leetcode/tree/binary-tree-traversal-3-qs/0993.-cousins-in-binary-tree){:target="_blank"}                      | Easy | Tree Traversal | 98 / 97 |
+| [**1011. Capacity To Ship Packages Within D Days**](https://yyloumike.gitbook.io/leetcode/binary-search/1011.-capacity-to-ship-packages-within-d-days){:target="_blank"}  | Medium | Binary Search | 80 / 94 |
 | [1302. Deepest Leaves Sum](https://yyloumike.gitbook.io/leetcode/tree/binary-tree-traversal-3-qs/1302.-deepest-leaves-sum){:target="_blank"}                              | Medium | Tree Traversal | 98 / 90 |
 {: rules="groups"}
