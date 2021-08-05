@@ -65,6 +65,7 @@ comments: true
 | [0704. Binary Search](https://yyloumike.gitbook.io/leetcode/binary-search/0704.-binary-search){:target="_blank"}                                                          | Easy | Binary Search | 92 / 68 |
 | [0714. Best Time to Buy/Sell Stock with Transaction Fee](https://yyloumike.gitbook.io/leetcode/dp/buy-and-sell-stock/0714.-best-time-to-buy-and-sell-stock-with-transaction-fee){:target="_blank"} | Medium | DP | 91 / 92 |
 | [**0912. Sort an Array**](https://yyloumike.gitbook.io/leetcode/sorting/0912.-sort-an-array){:target="_blank"}                                                            | Medium | Sort | 76 / 99 |
+| [0953. Verifying an Alien Dictionary](https://yyloumike.gitbook.io/leetcode/string/0953.-verifying-an-alien-dictionary){:target="_blank"}                                 | Easy | String | 96 / 91 |
 | [0993. Cousins in Binary Tree](https://yyloumike.gitbook.io/leetcode/tree/binary-tree-traversal-3-qs/0993.-cousins-in-binary-tree){:target="_blank"}                      | Easy | Tree Traversal | 98 / 97 |
 | [1302. Deepest Leaves Sum](https://yyloumike.gitbook.io/leetcode/tree/binary-tree-traversal-3-qs/1302.-deepest-leaves-sum){:target="_blank"}                              | Medium | Tree Traversal | 98 / 90 |
 {: rules="groups"}
