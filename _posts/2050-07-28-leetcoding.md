@@ -60,6 +60,7 @@ comments: true
 | [0589. N-ary Tree Preorder Traversal](https://yyloumike.gitbook.io/leetcode/tree/n-ary-tree-traversal-3-qs/0589.-n-ary-tree-preorder-traversal){:target="_blank"}         | Easy | Tree Traversal / Stack | 99 / 76 |
 | [0590. N-ary Tree Postorder Traversal](https://yyloumike.gitbook.io/leetcode/tree/n-ary-tree-traversal-3-qs/0590.-n-ary-tree-postorder-traversal){:target="_blank"}       | Easy | Tree Traversal / Stack | 99 / 95 |
 | [**0653. Two Sum IV - Input is a BST**](https://yyloumike.gitbook.io/leetcode/mixed/two-sum-4-qs/0653.-two-sum-iv-input-is-a-bst){:target="_blank"}                       | Easy | Binary Search Tree | 93 / 77 |
+| [**0654. Maximum Binary Tree**](https://yyloumike.gitbook.io/leetcode/tree/0654.-maximum-binary-tree){:target="_blank"}                                                   | Medium | Binary Tree / Stack | 100 / 65 |
 | [0704. Binary Search](https://yyloumike.gitbook.io/leetcode/binary-search/0704.-binary-search){:target="_blank"}                                                          | Easy | Binary Search | 92 / 68 |
 | [0714. Best Time to Buy/Sell Stock with Transaction Fee](https://yyloumike.gitbook.io/leetcode/dp/buy-and-sell-stock/0714.-best-time-to-buy-and-sell-stock-with-transaction-fee){:target="_blank"} | Medium | DP | 91 / 92 |
 | [**0912. Sort an Array**](https://yyloumike.gitbook.io/leetcode/sorting/0912.-sort-an-array){:target="_blank"}                                                            | Medium | Sort | 76 / 99 |
