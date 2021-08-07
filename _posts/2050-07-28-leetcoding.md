@@ -20,6 +20,7 @@ comments: true
 | [0002. Add Two Numbers](https://yyloumike.gitbook.io/leetcode/linked-list/0002.-add-two-numbers){:target="_blank"}                                                        | Medium | Linked List | 94 / 45 |
 | [**0003. Longest Substring Without Repeating Characters**](https://yyloumike.gitbook.io/leetcode/sliding-window/0003.-longest-substring-without-repeating-characters){:target="_blank"} | Medium | Sliding Window | 100 / 73 |
 | [**0004. Median of Two Sorted Arrays**](https://yyloumike.gitbook.io/leetcode/binary-search/0004.-median-of-two-sorted-arrays){:target="_blank"}                          | Hard | Binary Search | 98 / 81 |
+| [**0005. Longest Palindromic Substring**](https://yyloumike.gitbook.io/leetcode/dp/0005.-longest-palindromic-substring){:target="_blank"}                                 | Medium | DP | 99 / 93 |
 | [0021. Merge Two Sorted Lists](https://yyloumike.gitbook.io/leetcode/linked-list/0021.-merge-two-sorted-lists){:target="_blank"}                                          | Easy | Linked List | 99 / 88 |
 | [**0023. Merge k Sorted Lists**](https://yyloumike.gitbook.io/leetcode/linked-list/0023.-merge-k-sorted-lists){:target="_blank"}                                          | Hard | Divide and Conquer | 99 / 39 |
 | [0035. Search Insert Position](https://yyloumike.gitbook.io/leetcode/binary-search/0035.-search-insert-position){:target="_blank"}                                        | Easy | Binary Search | 92 / 23 |
