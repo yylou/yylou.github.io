@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Leetcoding"
-date: 2021-07-28
+date: 2021-08-09
 excerpt: "My solutions to Leetcode problems"
 tags: [python, java, coding, leetcode, algorithm, data structure, interview]
 comments: true
@@ -23,10 +23,12 @@ comments: true
 | [**0005. Longest Palindromic Substring**](https://yyloumike.gitbook.io/leetcode/dp/0005.-longest-palindromic-substring){:target="_blank"}                                 | Medium | DP | 99 / 93 |
 | [0021. Merge Two Sorted Lists](https://yyloumike.gitbook.io/leetcode/linked-list/0021.-merge-two-sorted-lists){:target="_blank"}                                          | Easy | Linked List | 99 / 88 |
 | [**0023. Merge k Sorted Lists**](https://yyloumike.gitbook.io/leetcode/linked-list/0023.-merge-k-sorted-lists){:target="_blank"}                                          | Hard | Divide and Conquer | 99 / 39 |
+| [**0028. Implement strStr()**](https://yyloumike.gitbook.io/leetcode/string/0028.-implement-strstr){:target="_blank"}                                                     | Easy | KMP | 97 / 100 |
 | [0035. Search Insert Position](https://yyloumike.gitbook.io/leetcode/binary-search/0035.-search-insert-position){:target="_blank"}                                        | Easy | Binary Search | 92 / 23 |
 | [**0038. Count and Say**](https://yyloumike.gitbook.io/leetcode/string/0038.-count-and-say){:target="_blank"}                                                             | Medium | String | 96 / 75 |
 | [**0053. Maximum Subarray**](https://yyloumike.gitbook.io/leetcode/dp/0053.-maximum-subarray){:target="_blank"}                                                           | Easy | DP | 97 / 72 |
 | [0069. Sqrt(x)](https://yyloumike.gitbook.io/leetcode/binary-search/0069.-sqrt-x){:target="_blank"}                                                                       | Easy | Binary Search | 96 / 98 |
+| [**0072. Edit Distance**](https://yyloumike.gitbook.io/leetcode/dp/0072.-edit-distance){:target="_blank"}                                                                 | Hard | DP | 98 / 84 |
 | [0075. Sort Colors](https://yyloumike.gitbook.io/leetcode/two-pointer/0075.-sort-colors){:target="_blank"}                                                                | Medium | Two Pointers | 93 / 99 |
 | [**0088. Merge Sorted Array**](https://yyloumike.gitbook.io/leetcode/two-pointer/0088.-merge-sorted-array){:target="_blank"}                                              | Easy | Two Pointers | 98 / 95 |
 | [**0094. Binary Tree Inorder Traversal**](https://yyloumike.gitbook.io/leetcode/tree/binary-tree-traversal-3-qs/0094.-binary-tree-inorder-traversal){:target="_blank"}    | Easy | Tree Traversal | 99 / 99 |
