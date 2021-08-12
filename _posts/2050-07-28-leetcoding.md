@@ -27,6 +27,7 @@ comments: true
 | [0035. Search Insert Position](https://yyloumike.gitbook.io/leetcode/binary-search/0035.-search-insert-position){:target="_blank"}                                        | Easy | Binary Search | 92 / 23 |
 | [**0038. Count and Say**](https://yyloumike.gitbook.io/leetcode/string/0038.-count-and-say){:target="_blank"}                                                             | Medium | String | 96 / 75 |
 | [**0053. Maximum Subarray**](https://yyloumike.gitbook.io/leetcode/dp/0053.-maximum-subarray){:target="_blank"}                                                           | Easy | DP | 97 / 72 |
+| [0067. Add Binary](https://yyloumike.gitbook.io/leetcode/string/0067.-add-binary){:target="_blank"}                                                                       | Easy | String | 91 / 53 |
 | [0069. Sqrt(x)](https://yyloumike.gitbook.io/leetcode/binary-search/0069.-sqrt-x){:target="_blank"}                                                                       | Easy | Binary Search | 96 / 98 |
 | [**0072. Edit Distance**](https://yyloumike.gitbook.io/leetcode/dp/0072.-edit-distance){:target="_blank"}                                                                 | Hard | DP | 98 / 84 |
 | [0075. Sort Colors](https://yyloumike.gitbook.io/leetcode/two-pointer/0075.-sort-colors){:target="_blank"}                                                                | Medium | Two Pointers | 93 / 99 |
