@@ -72,7 +72,7 @@ comments: true
 | [**0653. Two Sum IV - Input is a BST**](https://yyloumike.gitbook.io/leetcode/mixed/two-sum-4-qs/0653.-two-sum-iv-input-is-a-bst){:target="_blank"}                       | Easy | Binary Search Tree | 93 / 77 |
 | [**0654. Maximum Binary Tree**](https://yyloumike.gitbook.io/leetcode/tree/0654.-maximum-binary-tree){:target="_blank"}                                                   | Medium | Binary Tree / Stack | 100 / 65 |
 | [0704. Binary Search](https://yyloumike.gitbook.io/leetcode/binary-search/0704.-binary-search){:target="_blank"}                                                          | Easy | Binary Search | 92 / 68 |
-| [0714. Best Time to Buy/Sell Stock with Transaction Fee](https://yyloumike.gitbook.io/leetcode/dp/buy-and-sell-stock/0714.-best-time-to-buy-and-sell-stock-with-transaction-fee){:target="_blank"} | Medium | DP | 91 / 92 |
+| [0714. Best Time to Buy/Sell Stock with Transaction Fee](https://yyloumike.gitbook.io/leetcode/dp/buy-and-sell-stock/0714.-best-time-to-buy-and-sell-stock-with-transaction-fee){:target="_blank"} | Medium | DP | 75 / 99 |
 | [0875. Koko Eating Bananas](https://yyloumike.gitbook.io/leetcode/binary-search/0875.-koko-eating-bananas){:target="_blank"}                                              | Medium | Binary Search | 98 / 87 |
 | [**0912. Sort an Array**](https://yyloumike.gitbook.io/leetcode/sorting/0912.-sort-an-array){:target="_blank"}                                                            | Medium | Sort | 91 / 51 |
 | [0953. Verifying an Alien Dictionary](https://yyloumike.gitbook.io/leetcode/string/0953.-verifying-an-alien-dictionary){:target="_blank"}                                 | Easy | String | 96 / 91 |
