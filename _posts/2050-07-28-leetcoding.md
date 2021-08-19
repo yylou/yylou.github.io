@@ -61,6 +61,7 @@ comments: true
 | [0309. Best Time to Buy/Sell Stock with Cooldown](https://yyloumike.gitbook.io/leetcode/dp/buy-and-sell-stock/0309.-best-time-to-buy-and-sell-stock-with-cooldown){:target="_blank"} | Medium | DP | 96 / 39 |
 | [0344. Reverse String](https://yyloumike.gitbook.io/leetcode/string/0344.-reverse-string){:target="_blank"}                                                               | Easy | String | 98 / 58 |
 | [0367. Valid Perfect Square](https://yyloumike.gitbook.io/leetcode/binary-search/0367.-valid-perfect-square){:target="_blank"}                                            | Easy | Binary Search | 96 / 68 |
+| [0394. Decode String](https://yyloumike.gitbook.io/leetcode/string/0394.-decode-string){:target="_blank"}                                                                 | Medium | String / Stack | 99 / 81 |
 | [**0410. Split Array Largest Sum**](https://yyloumike.gitbook.io/leetcode/binary-search/0410.-split-array-largest-sum){:target="_blank"}                                  | Hard | Binary Search | 92 / 65 |
 | [0415. Add Strings](https://yyloumike.gitbook.io/leetcode/string/0415.-add-strings){:target="_blank"}                                                                     | Easy | String | 97 / 83 |
 | [0429. N-ary Tree Level Order Traversal](https://yyloumike.gitbook.io/leetcode/tree/n-ary-tree-traversal-3-qs/0429.-n-ary-tree-level-order-traversal){:target="_blank"}   | Medium | Tree Traversal / Stack | 99 / 97 |
