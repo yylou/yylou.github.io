@@ -37,6 +37,7 @@ comments: true
 | [**0094. Binary Tree Inorder Traversal**](https://yyloumike.gitbook.io/leetcode/tree/binary-tree-traversal-3-qs/0094.-binary-tree-inorder-traversal){:target="_blank"}    | Easy | Tree Traversal | 99 / 99 |
 | [**0098. Validate BST**](https://yyloumike.gitbook.io/leetcode/tree/0098.-validate-binary-search-tree){:target="_blank"}                                                  | Medium | Binary Search Tree | 95 / 95 |
 | [0100. Same Tree](https://yyloumike.gitbook.io/leetcode/tree/0100.-same-tree){:target="_blank"}                                                                           | Easy | Tree Traversal | 99 / 60 |
+| [0101. Symmetric Tree](https://yyloumike.gitbook.io/leetcode/tree/0101.-symmetric-tree){:target="_blank"}                                                                 | Easy | Binary Tree | 99 / 94 |
 | [**0102. Binary Tree Level Order Traversal**](https://yyloumike.gitbook.io/leetcode/tree/binary-tree-traversal-3-qs/0102.-binary-tree-level-order-traversal){:target="_blank"} | Medium | Tree Traversal | 100 / 69 |
 | [0104. Maximum Depth of Binary Tree](https://yyloumike.gitbook.io/leetcode/tree/binary-tree-traversal-3-qs/0104.-maximum-depth-of-binary-tree){:target="_blank"}          | Easy | Tree Traversal | 95 / 92 |
 | [**0108. Convert Sorted Array to Binary Search Tree**](https://yyloumike.gitbook.io/leetcode/tree/convert-to-bst-2-qs/0108.-convert-sorted-array-to-binary-search-tree){:target="_blank"} | Easy | Binary Search Tree | 98 / 78 |
