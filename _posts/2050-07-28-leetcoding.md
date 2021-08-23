@@ -46,7 +46,7 @@ comments: true
 | [0121. Best Time to Buy/Sell Stock](https://yyloumike.gitbook.io/leetcode/dp/buy-and-sell-stock/0121.-best-time-to-buy-and-sell-stock){:target="_blank"}                  | Easy | DP | 96 / 61 |
 | [0122. Best Time to Buy/Sell Stock II](https://yyloumike.gitbook.io/leetcode/dp/buy-and-sell-stock/0122.-best-time-to-buy-and-sell-stock-ii){:target="_blank"}            | Easy | DP / Greedy | 75 / 22 |
 | [**0123. Best Time to Buy/Sell Stock III**](https://yyloumike.gitbook.io/leetcode/dp/buy-and-sell-stock/0123.-best-time-to-buy-and-sell-stock-iii){:target="_blank"}      | Hard | DP | 50 / 46 |
-| [0125. Valid Palindrome](https://yyloumike.gitbook.io/leetcode/two-pointer/0125.-valid-palindrome){:target="_blank"}                                                      | Easy | Two Pointers / 96 / 61 |
+| [0125. Valid Palindrome](https://yyloumike.gitbook.io/leetcode/two-pointer/0125.-valid-palindrome){:target="_blank"}                                                      | Easy | Two Pointers | 96 / 61 |
 | [0144. Binary Tree Preorder Traversal](https://yyloumike.gitbook.io/leetcode/tree/binary-tree-traversal-3-qs/0144.-binary-tree-preorder-traversal){:target="_blank"}      | Easy | Tree Traversal | 100 / 95 |
 | [**0145. Binary Tree Postorder Traversal**](https://yyloumike.gitbook.io/leetcode/tree/binary-tree-traversal-3-qs/0145.-binary-tree-postorder-traversal){:target="_blank"}| Easy | Tree Traversal | 99 / 92 |
 | [**0148. Sort List**](https://yyloumike.gitbook.io/leetcode/sorting/0148.-sort-list){:target="_blank"}                                                                    | Medium | Sort | 98 / 96 |
