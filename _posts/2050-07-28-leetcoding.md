@@ -24,6 +24,7 @@ comments: true
 | [0007. Reverse Integer](https://yyloumike.gitbook.io/leetcode/math/0007.-reverse-integer){:target="_blank"}                                                               | Easy | Math | 89 / 91 |
 | [0009. Palindrome Number](https://yyloumike.gitbook.io/leetcode/math/0009.-palindrome-number){:target="_blank"}                                                           | Easy | Math | 94 / 91 |
 | [**0011. Container With Most Water**](https://yyloumike.gitbook.io/leetcode/two-pointer/0011.-container-with-most-water){:target="_blank"}                                | Medium | Two Pointer | 95 / 88 |
+| [**0014. Longest Common Prefix**](https://yyloumike.gitbook.io/leetcode/string/0014.-longest-common-prefix){:target="_blank"}                                             | Easy | String / Trie | 95 / 40 |
 | [0021. Merge Two Sorted Lists](https://yyloumike.gitbook.io/leetcode/linked-list/0021.-merge-two-sorted-lists){:target="_blank"}                                          | Easy | Linked List | 99 / 88 |
 | [**0023. Merge k Sorted Lists**](https://yyloumike.gitbook.io/leetcode/linked-list/0023.-merge-k-sorted-lists){:target="_blank"}                                          | Hard | Divide and Conquer | 99 / 39 |
 | [**0028. Implement strStr()**](https://yyloumike.gitbook.io/leetcode/string/0028.-implement-strstr){:target="_blank"}                                                     | Easy | KMP | 97 / 100 |
