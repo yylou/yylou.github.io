@@ -60,6 +60,7 @@ comments: true
 | [**0188. Best Time to Buy/Sell Stock IV**](https://yyloumike.gitbook.io/leetcode/dp/buy-and-sell-stock/0188.-best-time-to-buy-and-sell-stock-iv){:target="_blank"}        | Hard | DP | 96 / 98 |
 | [**0200. Number of Islands**](https://yyloumike.gitbook.io/leetcode/dfs-bfs/0200.-number-of-islands){:target="_blank"}                                                    | Medium | BFS / DFS | 94 / 95 |
 | [0206. Reverse Linked List](https://yyloumike.gitbook.io/leetcode/linked-list/0206.-reverse-linked-list){:target="_blank"}                                                | Easy | Two Pointers | 99 / 80 |
+| [**0208. Implement Trie (Prefix Tree)**](https://yyloumike.gitbook.io/leetcode/mixed-design/0208.-implement-trie-prefix-tree){:target="_blank"}                           | Medium | Design / String | 99 / 94 |
 | [**0215. Kth Largest in Array**](https://yyloumike.gitbook.io/leetcode/sorting/0215.-kth-largest-in-array){:target="_blank"}                                              | Medium | Sort / QuickSelect | 98 / 95 |
 | [0226. Invert Binary Tree](https://yyloumike.gitbook.io/leetcode/tree/0226.-invert-binary-tree){:target="_blank"}                                                         | Easy | Binary Search Tree | 100 / 90 |
 | [**0250. Count Univalue Subtrees**](https://yyloumike.gitbook.io/leetcode/tree/0250.-count-univalue-subtrees){:target="_blank"}                                           | Medium | DFS | 99 / 72 |
