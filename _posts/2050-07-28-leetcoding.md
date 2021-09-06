@@ -29,6 +29,7 @@ comments: true
 | [**0019. Remove Nth Node From End of List**](https://yyloumike.gitbook.io/leetcode/linked-list/0019.-remove-nth-node-from-end-of-list){:target="_blank"}                  | Medium | Two Pointer | 99 / 72 |
 | [0020. Valid Parentheses](https://yyloumike.gitbook.io/leetcode/string/0020.-valid-parentheses){:target="_blank"}                                                         | Easy | String / Stack | 96 / 64 |
 | [0021. Merge Two Sorted Lists](https://yyloumike.gitbook.io/leetcode/linked-list/0021.-merge-two-sorted-lists){:target="_blank"}                                          | Easy | Linked List | 99 / 88 |
+| [**0022. Generate Parentheses**](https://yyloumike.gitbook.io/leetcode/dp/0022.-generate-parentheses){:target="_blank"}                                                   | Medium | DP | 96 / 88 |
 | [**0023. Merge k Sorted Lists**](https://yyloumike.gitbook.io/leetcode/linked-list/0023.-merge-k-sorted-lists){:target="_blank"}                                          | Hard | Divide and Conquer | 99 / 39 |
 | [**0028. Implement strStr()**](https://yyloumike.gitbook.io/leetcode/string/0028.-implement-strstr){:target="_blank"}                                                     | Easy | KMP | 97 / 100 |
 | [0035. Search Insert Position](https://yyloumike.gitbook.io/leetcode/binary-search/0035.-search-insert-position){:target="_blank"}                                        | Easy | Binary Search | 92 / 23 |
