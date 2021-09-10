@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Leetcoding"
-date: 2021-08-31
+date: 2021-09-09
 excerpt: "My solutions to Leetcode problems"
 tags: [python, java, coding, leetcode, algorithm, data structure, interview]
 comments: true
@@ -31,6 +31,7 @@ comments: true
 | [0021. Merge Two Sorted Lists](https://yyloumike.gitbook.io/leetcode/linked-list/0021.-merge-two-sorted-lists){:target="_blank"}                                          | Easy | Linked List | 99 / 88 |
 | [**0022. Generate Parentheses**](https://yyloumike.gitbook.io/leetcode/dp/0022.-generate-parentheses){:target="_blank"}                                                   | Medium | DP | 96 / 88 |
 | [**0023. Merge k Sorted Lists**](https://yyloumike.gitbook.io/leetcode/linked-list/0023.-merge-k-sorted-lists){:target="_blank"}                                          | Hard | Divide and Conquer | 99 / 39 |
+| [**0026. Remove Duplicates from Sorted Array**](https://yyloumike.gitbook.io/leetcode/two-pointer/0026.-remove-duplicates-from-sorted-array){:target="_blank"}            | Easy | Two Pointer | 98 / 96 |
 | [**0028. Implement strStr()**](https://yyloumike.gitbook.io/leetcode/string/0028.-implement-strstr){:target="_blank"}                                                     | Easy | KMP | 97 / 100 |
 | [0035. Search Insert Position](https://yyloumike.gitbook.io/leetcode/binary-search/0035.-search-insert-position){:target="_blank"}                                        | Easy | Binary Search | 92 / 23 |
 | [**0038. Count and Say**](https://yyloumike.gitbook.io/leetcode/string/0038.-count-and-say){:target="_blank"}                                                             | Medium | String | 96 / 75 |
