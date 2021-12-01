@@ -70,7 +70,7 @@ comments: true
 | [0226. Invert Binary Tree](https://yyloumike.gitbook.io/leetcode/tree/0226.-invert-binary-tree){:target="_blank"}                                                         | Easy | Binary Search Tree | 100 / 90 |
 | [**0250. Count Univalue Subtrees**](https://yyloumike.gitbook.io/leetcode/tree/0250.-count-univalue-subtrees){:target="_blank"}                                           | Medium | DFS | 99 / 72 |
 | [0278. First Bad Version](https://yyloumike.gitbook.io/leetcode/binary-search/0278.-first-bad-version){:target="_blank"}                                                  | Easy | Binary Search | 95 / 74 |
-| [0283. Move Zeroes](https://yyloumike.gitbook.io/leetcode/two-pointer/0283.-move-zeroes){:target="_blank"}                                                                | Easy | Two Pointers | 97 / 74 |
+| [0283. Move Zeroes](https://yyloumike.gitbook.io/leetcode/two-pointer/0283.-move-zeroes){:target="_blank"}                                                                | Easy | Two Pointers | 94 / 91 |
 | [0309. Best Time to Buy/Sell Stock with Cooldown](https://yyloumike.gitbook.io/leetcode/dp/buy-and-sell-stock/0309.-best-time-to-buy-and-sell-stock-with-cooldown){:target="_blank"} | Medium | DP | 96 / 39 |
 | [0344. Reverse String](https://yyloumike.gitbook.io/leetcode/string/0344.-reverse-string){:target="_blank"}                                                               | Easy | String | 98 / 58 |
 | [0367. Valid Perfect Square](https://yyloumike.gitbook.io/leetcode/binary-search/0367.-valid-perfect-square){:target="_blank"}                                            | Easy | Binary Search | 96 / 68 |
