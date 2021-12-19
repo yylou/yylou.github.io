@@ -28,6 +28,7 @@ Before joining Purdue, I received the B.S. and M.S. degrees in Computer Science 
 {: .notice}
 
 <h2 style="margin-bottom: -10px">Experience</h2>
+* <div style="margin-bottom: 5px;"><b>Graduate Research Assistant</b> <br /><sup>Purdue University&nbsp; / &nbsp;Aug. 2021 - Present</sup></div>
 * <div style="margin-bottom: 5px;"><b>Full-stack Cloud Developer</b> <br /><sup>IoT Eye Inc.&nbsp; / &nbsp;Apr. 2021 - Aug. 2021</sup></div>
 * <div style="margin-bottom: 5px;"><b>Independent Researcher</b> <br /><sup>IEEE WF-IoT & IEEE COMCAS'21&nbsp; / &nbsp;Dec. 2020 - Jul. 2021</sup></div>
 * <div style="margin-bottom: 5px;"><b>Software Engineer (Supervisor)</b> <br /><sup>Silicon Motion Technology Corp.&nbsp; / &nbsp;Dec. 2017 - Apr. 2021</sup></div>
