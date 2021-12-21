@@ -30,12 +30,12 @@ Before joining Purdue, I received the B.S. and M.S. degrees in Computer Science 
 {: .notice}
 
 <h2 style="margin-bottom: -10px">Experience</h2>
-* <div style="margin-bottom: 1px;"><b>Graduate Research Assistant</b> <br />Purdue University&nbsp; / &nbsp;Aug. 2021 - Present</div>
-* <div style="margin-bottom: 1px;"><b>Full-stack Cloud Developer</b> <br />IoT Eye Inc.&nbsp; / &nbsp;Apr. 2021 - Aug. 2021</div>
-* <div style="margin-bottom: 1px;"><b>Independent Researcher</b> <br />IEEE WF-IoT & IEEE COMCAS'21&nbsp; / &nbsp;Dec. 2020 - Jul. 2021</div>
-* <div style="margin-bottom: 1px;"><b>Software Engineer (Supervisor)</b> <br />Silicon Motion Technology Corp.&nbsp; / &nbsp;Dec. 2017 - Apr. 2021</div>
-* <div style="margin-bottom: 1px;"><b>Graduate Researcher</b> <br />Ministry of Science and Technology&nbsp; / &nbsp;Sep. 2015 - Sep. 2017</div>
-* <div style="margin-bottom: 1px;"><b>Research Intern</b> <br />EDGE Lab, Princeton University&nbsp; / &nbsp;Jul. 2014 - Sep. 2014</div>
+* <div style="margin-bottom: 0px;"><b>Graduate Research Assistant</b> <br />Purdue University&nbsp; / &nbsp;Aug. 2021 - Present</div>
+* <div style="margin-bottom: 0px;"><b>Full-stack Cloud Developer</b> <br />IoT Eye Inc.&nbsp; / &nbsp;Apr. 2021 - Aug. 2021</div>
+* <div style="margin-bottom: 0px;"><b>Independent Researcher</b> <br />IEEE WF-IoT & IEEE COMCAS'21&nbsp; / &nbsp;Dec. 2020 - Jul. 2021</div>
+* <div style="margin-bottom: 0px;"><b>Software Engineer (Supervisor)</b> <br />Silicon Motion Technology Corp.&nbsp; / &nbsp;Dec. 2017 - Apr. 2021</div>
+* <div style="margin-bottom: 0px;"><b>Graduate Researcher</b> <br />Ministry of Science and Technology&nbsp; / &nbsp;Sep. 2015 - Sep. 2017</div>
+* <div style="margin-bottom: 0px;"><b>Research Intern</b> <br />EDGE Lab, Princeton University&nbsp; / &nbsp;Jul. 2014 - Sep. 2014</div>
 
 <h2 style="margin-bottom: -10px">Publications</h2>
 * <div style="text-align: left; margin-bottom: 10px;">S. B. Weinstein, <b>Y.-Y. Lou</b>, T. R. Hsing. <a href="https://ieeexplore.ieee.org/document/9629105" target="_blank" style="text-decoration: none;">Intelligent Network Edge with Distributed SDN for the Future 6G Network.</a> <i>IEEE International Conference on Microwaves, Communications, Antennas, Biomedical Engineering and Electronic Systems (IEEE COMCAS)</i>, 2021</div>
