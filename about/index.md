@@ -17,7 +17,7 @@ comments: false
         <a href="mailto:yylou@purdue.edu">yylou [at] purdue [dot] edu</a>&nbsp; / &nbsp;<a href="https://scholar.google.com/citations?user=GxDK4WQAAAAJ&hl=en" target="_blank">Google Scholar</a>&nbsp; / &nbsp;<a href="https://www.linkedin.com/in/yylou/" target="_blank">LinkedIn</a>&nbsp; / &nbsp;<a href="https://github.com/yylou" target="_blank">GitHub</a>&nbsp; / &nbsp;<a href="https://yyloumike.gitbook.io/leetcode/" target="_blank">GitBook</a>
 
 
-        <a class="btn" id="resume">Resume</a>
+        <a class="btn" id="resume">CV / Resume</a>
     </pre>
 </figure>
 </center>
