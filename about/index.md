@@ -22,20 +22,20 @@ comments: false
 </figure>
 </center>
 
-I am a Ph.D. student in the Elmore Family School of Electrical and Computer Engineering (ECE) at Purdue University, working with [Prof. Mung Chiang](https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=171238){:target="_blank"} and [Prof. Kwang Taik Kim](https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=243261){:target="_blank"}.  
+I am a Ph.D. student in the Elmore Family School of Electrical and Computer Engineering (ECE) at Purdue University, working with [Prof. Mung Chiang](https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=171238){:target="_blank"} and [Prof. Kwang Taik Kim](https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=243261){:target="_blank"}.
 <br />  
-My research interests span Edge Computing, Wireless Networks and Systems (5G/6G), Internet of Things (IoT), Software-Defined Network (SDN), Network Function Virtualization (NFV), Deep Learning (DL), and Reinforcement Learning (RL). Concretely, I focus on the **containerized (Kubernetes-based) architecture design of the open edge platform in 5G/6G networks, Service Function Chaining (SFC) to improve network programmability, and Machine Learning (ML) to enable automatic orchestration.**  
+My research interests span Edge Computing, Wireless Networks and Systems (5G/6G), Internet of Things (IoT), Software-Defined Network (SDN), Network Function Virtualization (NFV), Deep Learning (DL), and Reinforcement Learning (RL). Concretely, I focus on the **containerized (Kubernetes-based) architecture design of the open edge platform in 5G/6G networks, Service Function Chaining (SFC) to improve network programmability, and Machine Learning (ML) to enable automatic orchestration.**
 <br />  
 Before joining Purdue, I received the B.S. and M.S. degrees in Computer Science (CS) from National Chiao Tung University (NCTU) and National Taiwan University (NTU) in 2015 and 2017, respectively. Regarding my industrial background, I am a **senior software engineer with 4 years of experience in DevOps (Linux), software system automation (Python), and cloud/web application development (AWS).**  
 {: .notice}
 
 <h2 style="margin-bottom: -10px">Experience</h2>
-* <div style="margin-bottom: 5px;"><b>Graduate Research Assistant</b> <br /><sup>Purdue University&nbsp; / &nbsp;Aug. 2021 - Present</sup></div>
-* <div style="margin-bottom: 5px;"><b>Full-stack Cloud Developer</b> <br /><sup>IoT Eye Inc.&nbsp; / &nbsp;Apr. 2021 - Aug. 2021</sup></div>
-* <div style="margin-bottom: 5px;"><b>Independent Researcher</b> <br /><sup>IEEE WF-IoT & IEEE COMCAS'21&nbsp; / &nbsp;Dec. 2020 - Jul. 2021</sup></div>
-* <div style="margin-bottom: 5px;"><b>Software Engineer (Supervisor)</b> <br /><sup>Silicon Motion Technology Corp.&nbsp; / &nbsp;Dec. 2017 - Apr. 2021</sup></div>
-* <div style="margin-bottom: 5px;"><b>Graduate Researcher</b> <br /><sup>Ministry of Science and Technology&nbsp; / &nbsp;Sep. 2015 - Sep. 2017</sup></div>
-* <div style="margin-bottom: 5px;"><b>Research Intern</b> <br /><sup>EDGE Lab, Princeton University&nbsp; / &nbsp;Jul. 2014 - Sep. 2014</sup></div>
+* <div style="margin-bottom: 5px;"><b>Graduate Research Assistant</b> <br />Purdue University&nbsp; / &nbsp;Aug. 2021 - Present</div>
+* <div style="margin-bottom: 5px;"><b>Full-stack Cloud Developer</b> <br />IoT Eye Inc.&nbsp; / &nbsp;Apr. 2021 - Aug. 2021</div>
+* <div style="margin-bottom: 5px;"><b>Independent Researcher</b> <br />IEEE WF-IoT & IEEE COMCAS'21&nbsp; / &nbsp;Dec. 2020 - Jul. 2021</div>
+* <div style="margin-bottom: 5px;"><b>Software Engineer (Supervisor)</b> <br />Silicon Motion Technology Corp.&nbsp; / &nbsp;Dec. 2017 - Apr. 2021</div>
+* <div style="margin-bottom: 5px;"><b>Graduate Researcher</b> <br />Ministry of Science and Technology&nbsp; / &nbsp;Sep. 2015 - Sep. 2017</div>
+* <div style="margin-bottom: 5px;"><b>Research Intern</b> <br />EDGE Lab, Princeton University&nbsp; / &nbsp;Jul. 2014 - Sep. 2014</div>
 
 <h2 style="margin-bottom: -10px">Publications</h2>
 * <div style="text-align: left; margin-bottom: 10px;">S. B. Weinstein, <b>Y.-Y. Lou</b>, T. R. Hsing. <a href="https://ieeexplore.ieee.org/document/9629105" target="_blank" style="text-decoration: none;">Intelligent Network Edge with Distributed SDN for the Future 6G Network.</a> <i>IEEE International Conference on Microwaves, Communications, Antennas, Biomedical Engineering and Electronic Systems (IEEE COMCAS)</i>, 2021</div>
