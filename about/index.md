@@ -22,9 +22,11 @@ comments: false
 </figure>
 </center>
 
-I am a Ph.D. student in the School of Electrical and Computer Engineering (ECE) at Purdue University, working with [Prof. Mung Chiang](https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=171238){:target="_blank"} and [Prof. Kwang Taik Kim](https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=243261){:target="_blank"}. My research interest is at the **intersection of machine learning and wireless communication networks and systems**. Specifically, I focus on **machine learning in the realms of wireless system design for 5G and future 6G networks**.  
+I am a Ph.D. student in the Elmore Family School of Electrical and Computer Engineering (ECE) at Purdue University, working with [Prof. Mung Chiang](https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=171238){:target="_blank"} and [Prof. Kwang Taik Kim](https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=243261){:target="_blank"}.
 <br />
-Before joining Purdue, I received the B.S. and M.S. degrees in Computer Science (CS) from National Chiao Tung University (NCTU) and National Taiwan University (NTU) in 2015 and 2017, respectively. Regarding my industrial background, I am a **senior software engineer with 4 years of experience in DevOps (Linux), software system automation (Python), and cloud/web application development (AWS)**.
+My research interests span Edge Computing, Wireless Networks and Systems (5G/6G), Internet of Things (IoT), Software-Defined Network (SDN), Network Function Virtualization (NFV), Deep Learning (DL), and Reinforcement Learning (RL). Concretely, I focus on the **containerized (Kubernetes-based) architecture design of the open edge platform in 5G/6G networks**, **Service Function Chaining (SFC)** to improve network programmability, and **Machine Learning (ML)** to enable automatic orchestration.
+<br />
+Before joining Purdue, I received the B.S. and M.S. degrees in Computer Science (CS) from National Chiao Tung University (NCTU) and National Taiwan University (NTU) in 2015 and 2017, respectively. Regarding my industrial background, I am a **senior software engineer with 4 years of experience in DevOps (Linux), software system automation (Python), and cloud/web application development (AWS).**
 {: .notice}
 
 <h2 style="margin-bottom: -10px">Experience</h2>
