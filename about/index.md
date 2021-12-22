@@ -22,7 +22,7 @@ comments: false
 </figure>
 </center>
 
-I am a Ph.D. student in the Elmore Family School of Electrical and Computer Engineering (ECE) at Purdue University, working with [Prof. Mung Chiang](https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=171238){:target="_blank"} and [Prof. Kwang Taik Kim](https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=243261){:target="_blank"}.
+I am a Ph.D. student in the School of Electrical and Computer Engineering (ECE) at Purdue University, working with [Prof. Mung Chiang](https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=171238){:target="_blank"} and [Prof. Kwang Taik Kim](https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=243261){:target="_blank"}.
 <br />  
 My research interests span Edge Computing, Wireless Networks and Systems (5G/6G), Internet of Things (IoT), Software-Defined Network (SDN), Network Function Virtualization (NFV), Deep Learning (DL), and Reinforcement Learning (RL). Concretely, I focus on the **containerized (Kubernetes-based) architecture design of the open edge platform in 5G/6G networks, Service Function Chaining (SFC) to improve network programmability, and Machine Learning (ML) to enable automatic orchestration.**
 <br />  
