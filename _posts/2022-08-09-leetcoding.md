@@ -23,4 +23,4 @@ feature: /assets/img/bg.jpeg
 ## Tree
 
 1. Traversal
-2. 
+2. Monotonic Stack
