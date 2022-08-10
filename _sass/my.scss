@@ -94,7 +94,7 @@ body { background-color: #222121; }
     width: 75%;
     max-width: 1000px;
     height: 90%;
-    overflow-y: scroll;
+    overflow-y: auto;
     margin-top: auto;
     margin-bottom: auto;
     @include center-block();
@@ -116,7 +116,6 @@ body { background-color: #222121; }
 .mycontent {
     @include font-size(14);
     padding: 0 3rem;
-    overflow-y: scroll;
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased !important;
     -moz-font-smoothing: antialiased !important;
