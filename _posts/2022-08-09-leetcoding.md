@@ -7,7 +7,9 @@ tags: [coding, python, leetcode, algorithm, data structures, interview]
 feature: /assets/img/bg.jpeg
 ---
 
-> under construction - <small>Aug 09, 2022</small>
+> Under construction - <small>Aug 09, 2022</small> <br/>
+  Refer to GibHub repository: [Python coding](https://github.com/yylou/python-coding){:target="_blank"},
+  [LeetCode](https://github.com/yylou/leetcode){:target="_blank"}
 
 ## Array
 
@@ -24,3 +26,8 @@ feature: /assets/img/bg.jpeg
 
 1. Traversal
 2. Monotonic Stack
+
+## Binary Search
+
+1. Lower bound
+2. Upper bound
