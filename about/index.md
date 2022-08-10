@@ -136,7 +136,7 @@ comments: false
         <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11"><strong>Dynamic Task Orchestration for Multi-Tier Edge Computing in Heterogeneous Networks</strong></div>
         <!-- Authors -->
         <div class="col-md-1 col-lg-1"></div>
-        <!-- <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">X. Li, M. Abdallah, Y.-Y. Lou, M. Chiang, K. T. Kim, S. Bagchi</div> -->
+        <!-- <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">X. Li, M. Abdallah, <strong>Y.-Y. Lou,</strong> M. Chiang, K. T. Kim, S. Bagchi</div> -->
         <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11"></div>
         <!-- Conference / Journal -->
         <div class="col-md-1 col-lg-1"></div>
@@ -166,7 +166,7 @@ comments: false
         </div>
         <!-- Authors -->
         <div class="col-md-1 col-lg-1"></div>
-        <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">S. B. Weinstein, Y.-Y. Lou, T. R. Hsing</div>
+        <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">S. B. Weinstein, <strong>Y.-Y. Lou,</strong> T. R. Hsing</div>
         <!-- Conference / Journal -->
         <div class="col-md-1 col-lg-1"></div>
         <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">IEEE International Conference on Microwaves, Communications, Antennas, Biomedical Engineering and Electronic Systems, 2021</div>
@@ -190,7 +190,7 @@ comments: false
         </div>
         <!-- Authors -->
         <div class="col-md-1 col-lg-1"></div>
-        <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">Y.-Y. Shih, A.-C. Pang, Y.-Y. Lou</div>
+        <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">Y.-Y. Shih, A.-C. Pang, <strong>Y.-Y. Lou</strong></div>
         <!-- Conference / Journal -->
         <div class="col-md-1 col-lg-1"></div>
         <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">Fog and Fogonomics: Challenges and Practices of Fog Computing, Communication, Networking, Strategy, and Economics, 2020</div>
@@ -213,7 +213,7 @@ comments: false
         </div>
         <!-- Authors -->
         <div class="col-md-1 col-lg-1"></div>
-        <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">Y.-Y. Shih, A.-C. Pang, Y.-Y. Lou, C.-C. Chuang, L. Zhao, Z. Ren</div>
+        <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">Y.-Y. Shih, A.-C. Pang, <strong>Y.-Y. Lou,</strong> C.-C. Chuang, L. Zhao, Z. Ren</div>
         <!-- Conference / Journal -->
         <div class="col-md-1 col-lg-1"></div>
         <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">IEEE Vehicular Technology Society Asia Pacific Wireless Communications Symposium, 2018</div>
@@ -265,7 +265,7 @@ comments: false
         </div>
         <!-- Authors -->
         <div class="col-md-1 col-lg-1"></div>
-        <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">X.-L. Wang, M.-J. Sheng, Y.-Y. Lou, Y.-Y. Shih, M. Chiang</div>
+        <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">X.-L. Wang, M.-J. Sheng, <strong>Y.-Y. Lou,</strong> Y.-Y. Shih, M. Chiang</div>
         <!-- Conference / Journal -->
         <div class="col-md-1 col-lg-1"></div>
         <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">IEEE Internet of Things Journal, vol. 3, no. 3, pp. 339–353, June 2016</div>
