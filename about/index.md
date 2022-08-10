@@ -257,7 +257,7 @@ comments: false
         <!-- Topic-->
         <div class="col-xs-12 col-sm-12 col-md-1 col-lg-1 text-xs-left text-sm-left text-md-center text-lg-center">[7]</div>
         <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">
-            <strong>Internet of Things Session Management Over LTE -- Balancing Signal Load, Power, and Delay</strong>
+            <strong>Internet of Things Session Management Over LTE - Balancing Signal Load, Power, and Delay</strong>
             <a style="text-decoration:none;margin-left:3px" target="_blank"
                 href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=GxDK4WQAAAAJ&citation_for_view=GxDK4WQAAAAJ:u-x6o8ySG0sC">
                 <i class="fa fa-external-link-square"></i>
