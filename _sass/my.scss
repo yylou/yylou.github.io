@@ -3,8 +3,6 @@ body { background-color: #222121; }
 
 /* Container */
 .mycontainer {
-    $red                 : #946d03 !important;
-
     width: 85%;
     min-width: 300px;
     max-width: 1400px;
@@ -96,6 +94,7 @@ body { background-color: #222121; }
     height: 90%;
     margin-top: auto;
     margin-bottom: auto;
+    overflow-y: scroll;
     @include center-block();
     background: $white;
     color: $color_tuatara;
@@ -110,6 +109,9 @@ body { background-color: #222121; }
         width: 90%;
         height: 93%;
     }
+}
+.mywrapper::-webkit-scrollbar {
+    width: 0 !important;
 }
 /* Content */
 .mycontent {
