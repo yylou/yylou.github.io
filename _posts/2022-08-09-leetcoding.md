@@ -8,7 +8,7 @@ feature: /assets/img/bg.jpeg
 ---
 
 > Under construction - <small>Aug 09, 2022</small> <br/>
-  Refer to GibHub repository: [Python coding](https://github.com/yylou/python-coding){:target="_blank"},
+  GibHub repository: [Python coding](https://github.com/yylou/python-coding){:target="_blank"},
   [LeetCode](https://github.com/yylou/leetcode){:target="_blank"}
 
 ## Array
