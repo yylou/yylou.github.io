@@ -100,7 +100,6 @@ body { background-color: #222121; }
     @include center-block();
     background: $white;
     color: $color_tuatara;
-    padding: 0.3em 0em 0em 0em;
     border-radius: 3px;
     box-shadow: 0 0 10px 0 rgba($color_shark,0.3);
     @media #{$small} {
