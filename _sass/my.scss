@@ -105,13 +105,11 @@ body { background-color: #222121; }
     @media #{$small} {
         width: 100%;
         height: 100%;
-        margin: 0rem auto;
         box-shadow: none;
     }
     @media #{$medium} {
         width: 90%;
         height: 93%;
-        margin: 2rem auto;
     }
 }
 /* Content */
