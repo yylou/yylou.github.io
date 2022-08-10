@@ -10,38 +10,28 @@ layout: compress
     {% include head.html %}
 </head>
 <body>
-    {% include nav.html %}
     <!-- Header -->
     <header class="header" role="banner">
-        <div class="wrapper animated fadeIn">
+        <div class="mywrapper">
+            {% include nav.html %}
             <div class="content">
                 <div class="post-title">
+                    <br><br>
                     <h1>{{ page.title }}</h1>
                     <a class="btn zoombtn" href="{{site.url}}">
                         <i class="fa fa-home"></i>
                     </a>
                 </div>
                 <div class="post-list">
-                    <ul>
-                        <li> 
-                            <a class="zoombtn" href="http://yylou.github.io/leetcoding/">Leetcoding &nbsp;<sub><sup>Pinned Post</sup></sub></a> 
-                            <p>My solutions to Leetcode problems</p> 
-                            <a href="http://yylou.github.io/leetcoding/" class="btn zoombtn">Read More</a>
-                        </li>
-                    </ul>
-
                     {% for post in site.posts %} 
                         {% if post.project == null %}
-                            {% if post.title != "Leetcoding" %}
                     <ul>
                         <li>
                             <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
                             <p>{{ post.excerpt }}</p>
                             <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn">Read More</a>
                         </li>
-                        <hr>
                     </ul>
-                            {% endif %}    
                         {% endif %}
                     {% endfor %}
                 </div>

@@ -5,7 +5,7 @@ pre.highlight {
 .highlight {
 	background-color: #49483e;
 	font-family: $font2;
-	@include font-size(14);
+	@include font-size(11.5);
 	color: #f8f8f2;
 	border-radius: 4px;
 	pre {
@@ -26,8 +26,8 @@ pre.highlight {
 	.cp                { color: #75715e }                            /* Comment.Preproc             */
 	.c1                { color: #75715e }                            /* Comment.Single              */
 	.cs                { color: #75715e }                            /* Comment.Special             */
-	.ge                { font-style: italic }                          /* Generic.Emph                */
-	.gs                { font-weight: bold }                           /* Generic.Strong              */
+	.ge                { font-style: italic }                        /* Generic.Emph                */
+	.gs                { font-weight: bold }                         /* Generic.Strong              */
 	.kc                { color: #66d9ef }                            /* Keyword.Constant            */
 	.kd                { color: #66d9ef }                            /* Keyword.Declaration         */
 	.kn                { color: #f92672 }                            /* Keyword.Namespace           */

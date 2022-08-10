@@ -1,74 +1,75 @@
 // Buttons
 %btnextend {
-	display: inline-block;
-	border: 1px solid;
-	border-color: rgba($color_mercury,0.5) rgba($color_bon_jour,0.5) $color_mischka;
-	border-radius: 3px;
-	text-decoration: none;
-	background: $white;
-	color: $color_shark;
-	&:hover {
-		box-shadow: 0 0 1px 0 rgba($color_shark,0.5);
-		color: $red;
-	}
+    display: inline-block;
+    border: 1px solid;
+    border-color: rgba($color_mercury,0.5) rgba($color_bon_jour,0.5) $color_mischka;
+    border-radius: 3px;
+    text-decoration: none;
+    background: $white;
+    color: $color_shark;
+    &:hover {
+        box-shadow: 0 0 1px 0 rgba($color_shark,0.5);
+        color: $red;
+    }
 }
 .social-btn {
-	padding: 10px;
-	margin: 10px;
-	@extend %btnextend;
+    padding: 10px;
+    margin: 10px;
+    @extend %btnextend;
 }
 .btn {
-	padding: 5px 10px;
-	@include font-rem(14);
-	margin: 4px auto;
-	@extend %btnextend;
-	&.btn-success {
-      background-color: $success;
-      color: $white;
-      border-color: $success;
-      &:visited {
+    font-size: 14px;
+    padding: 10px 18px;
+    @include font-rem(14);
+    margin: 4px auto;
+    @extend %btnextend;
+    &.btn-success {
+        background-color: $success;
         color: $white;
-      }
-      &:hover {
-        background-color: $white;
-        color: $success;
-      }
+        border-color: $success;
+        &:visited {
+            color: $white;
+        }
+        &:hover {
+            background-color: $white;
+            color: $success;
+        }
     }
     &.btn-warning {
-      background-color: $warning;
-      color: $white;
-      border-color: $warning;
-      &:visited {
+        background-color: $warning;
         color: $white;
-      }
-      &:hover {
-        background-color: $white;
-        color: $warning;
-      }
+        border-color: $warning;
+        &:visited {
+            color: $white;
+        }
+        &:hover {
+            background-color: $white;
+            color: $warning;
+        }
     }
     &.btn-danger {
-      background-color: $danger;
-      color: $white;
-      border-color: $danger;
-      &:visited {
+        background-color: $danger;
         color: $white;
-      }
-      &:hover {
-        background-color: $white;
-        color: $danger;
-      }
+        border-color: $danger;
+        &:visited {
+            color: $white;
+        }
+        &:hover {
+            background-color: $white;
+            color: $danger;
+        }
     }
     &.btn-info {
-      background-color: $info;
-      color: $white;
-      border-color: $info;
-      &:visited {
+        background-color: $info;
         color: $white;
-      }
-      &:hover {
-        background-color: $white;
-        color: $info;
-      }
+        border-color: $info;
+        &:visited {
+            color: $white;
+        }
+        &:hover {
+            background-color: $white;
+            color: $info;
+        }
     }
 }
 .title .btn {
@@ -81,33 +82,31 @@
         @include font-rem(14);
     }
 }
-
 // hr break
 hr {
-	border: 0;
-	height: 1px;
-	opacity: .8;
+    border: 0;
+    height: 1px;
+    opacity: .8;
     margin: 1em 0;
-	background-image: -webkit-linear-gradient(left, $color_gallery, $color_stack, $color_gallery);
-	background-image: -moz-linear-gradient(left, $color_gallery, $color_stack, $color_gallery);
-	background-image: -ms-linear-gradient(left, $color_gallery, $color_stack, $color_gallery);
-	background-image: -o-linear-gradient(left, $color_gallery, $color_stack, $color_gallery);
-	&.hr-line {
-		border: 0;
-		height: 1px;
-		opacity: .15;
-		margin: 1em 0;
-		background-image: -webkit-linear-gradient(left, $color_gallery, $color_stack, $color_gallery);
-		background-image: -moz-linear-gradient(left, $color_gallery, $color_stack, $color_gallery);
-		background-image: -ms-linear-gradient(left, $color_gallery, $color_stack, $color_gallery);
-		background-image: -o-linear-gradient(left, $color_gallery, $color_stack, $color_gallery);
-	}
+    background-image: -webkit-linear-gradient(left, $color_gallery, $color_stack, $color_gallery);
+    background-image: -moz-linear-gradient(left, $color_gallery, $color_stack, $color_gallery);
+    background-image: -ms-linear-gradient(left, $color_gallery, $color_stack, $color_gallery);
+    background-image: -o-linear-gradient(left, $color_gallery, $color_stack, $color_gallery);
+    &.hr-line {
+        border: 0;
+        height: 1px;
+        opacity: .15;
+        margin: 1em 0;
+        background-image: -webkit-linear-gradient(left, $color_gallery, $color_stack, $color_gallery);
+        background-image: -moz-linear-gradient(left, $color_gallery, $color_stack, $color_gallery);
+        background-image: -ms-linear-gradient(left, $color_gallery, $color_stack, $color_gallery);
+        background-image: -o-linear-gradient(left, $color_gallery, $color_stack, $color_gallery);
+    }
 }
-
 // images and figures
 img {
     display: block;
-	  max-width: 100%;
+    max-width: 100%;
     width: auto;
     height: auto;
     vertical-align: middle;
@@ -118,23 +117,23 @@ img {
     image-rendering: optimizeQuality;
 }
 .img-circle {
-	border-radius: 50%;
-	border: 1px solid #7f7f7f;
-	height: 150px;
-	width: 150px;
+    border-radius: 50%;
+    border: 1px solid $black;
+    height: 150px;
+    width: 150px;
 }
 .author-photo {
-  // background-color: $white;
-  margin-top: 20px;
-  border-radius: 50%;
-	border: 1px solid $white;
-	height: 150px;
-	width: 150px;
+    // background-color: $white;
+    margin-top: 20px;
+    border-radius: 50%;
+    border: 1px solid $white;
+    height: 150px;
+    width: 150px;
 }
 .image-right {
-  float: right;
-  margin-left: 1em;
-  margin-top: 0;
+    float: right;
+    margin-left: 1em;
+    margin-top: 0;
 }
 figure {
   margin: 0;
@@ -178,18 +177,18 @@ svg:not(:root) {
 
 // keyboard tag
 kbd {
-	display: inline-block;
-	margin: 0 1px;
-	padding: 1px 8px;
-	@include font-rem(10);
-	font-weight: bold;
-	color: $color_fuscous_gray;
-	vertical-align: middle;
-	background-color: $color_alabaster;
-	border: solid 1px $color_celeste;
-	border-bottom-color: $color_pink_swan;
-	border-radius: 3px;
-	box-shadow: inset 0 -1px 0 $color_pink_swan;
+    display: inline-block;
+    margin: 0 1px;
+    padding: 1px 8px;
+    @include font-rem(10);
+    font-weight: bold;
+    color: $color_fuscous_gray;
+    vertical-align: middle;
+    background-color: $color_alabaster;
+    border: solid 1px $color_celeste;
+    border-bottom-color: $color_pink_swan;
+    border-radius: 3px;
+    box-shadow: inset 0 -1px 0 $color_pink_swan;
 }
 
 // go up button
@@ -197,9 +196,9 @@ kbd {
     border-radius: 3px !important;
     border-color: rgba($color_mercury,0.5) rgba($color_bon_jour,0.5) $color_mischka !important;
     border: 1px solid;
-	@media #{$small} {
-		display: none !important;
-	}
+    @media #{$small} {
+        display: none !important;
+    }
 }
 .goup-arrow {
     border-color: transparent transparent $color_tuatara !important;

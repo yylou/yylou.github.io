@@ -9,52 +9,83 @@ layout: compress
 <head>
     {% include head.html %}
 </head>
+<style>
+</style>
 <body>
-    {% include nav.html %}
     <!-- Header -->
     <header class="header flex" role="banner">
-        <div class="container animated fadeIn">
+        <div class="mycontainer home animated fadeIn">
             <div class="row">
-                    <a href="{{ site.url }}">
-                        <img src="{{ site.logo }}" class="img-circle zoombtn animated">
+                <a href="{{ site.url }}">
+                    <img src="{{ site.logo }}" class="img-circle zoombtn animated rotateIn">
+                </a>
+                <h3 class="title">
+                    <a class="zoombtn" href="{{ site.url }}">
+                        <p style="font-size:1.5rem;font-weight:400">{{ site.title }}</p>
                     </a>
-                    <h3 class="title">
-                        <a class="zoombtn" href="{{ site.url }}">
-                        	<p style="font-size:1.2rem;font-weight:300">{{ site.title }}</p>
-			            </a>
-                    </h3>
-                    <hr class="hr-line">
-                    <h3 class="title">
-                        <a href="{{ site.url }}">
-                        	<p style="font-size:1rem;font-weight:300">{{ site.bio }}</p>
-			            </a>
-                    </h3>
-                    {% include social-links.html %}
-                  <hr class="hr-line">
-                  <h3 class="title">
-                        <a class="btn zoombtn" href="{{ site.url }}/about">
+                </h3>
+                <hr class="hr-line">
+                <h3 class="title">
+                    <a>
+                        <p style="font-size:1rem;font-weight:300">{{ site.bio }}</p>
+                    </a>
+                </h3>
+
+                <hr class="hr-line">
+                
+                <h3 class="title">
+                    <a class="btn zoombtn" href="#" id="cv" style="font-size: 16px;">
+                        <i class="fa fa-file-pdf-o" style="margin-right: 10px;"></i>CV
+                    </a>
+                    <a class="btn zoombtn" href="{{ site.url }}/about" style="font-size: 16px;">
                         About
-                        </a>
-                        <a class="btn" id="resume">
-                        Resume
-                        </a>
-                        <a class="btn zoombtn" href="{{ site.url }}/posts">
+                    </a>
+                    <a class="btn zoombtn" href="{{ site.url }}/posts" style="font-size: 16px;">
                         Posts
-                        </a>
-                 </h3>
+                    </a>
+                    <!-- <a class="btn zoombtn" href="{{ site.url }}/projects">
+                        Projects
+                    </a> -->
+                </h3>
+
+                <hr class="hr-line">
+
+                <h3 class="title">
+                    <code style="font-size:0.8rem;font-weight:400;color:#CC0000"><strong>News</strong></code>
+                </h3>
+
+                <hr class="hr-line">
+
+                <h3 class="title" style="display:block">
+                    <div class="row-home">
+                        <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3"><i class="fa fa-calendar-o" aria-hidden="true" style="font-size:13px;margin-right:5px;"></i>07/2022</div>
+                        <div class="col-xs-12 col-sm-9 col-md-9 col-lg-9" style="word-wrap: break-word;">Worked on edge computing for local path planning in autonomous driving.</div>
+                    </div>
+                    <div class="row-home">
+                        <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3"><i class="fa fa-calendar-o" aria-hidden="true" style="font-size:13px;margin-right:5px;"></i>05/2022</div>
+                        <div class="col-xs-12 col-sm-9 col-md-9 col-lg-9" style="word-wrap: break-word;">Worked on task orchestration for multi-tier edge computing.</div>
+                    </div>
+                </h3>
+
+                {% include social-links.html %}
             </div>
         </div>
     </header>
     {% include scripts.html %}
-
-    <script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
+    <script src="https://documentcloud.adobe.com/view-sdk/viewer.js"></script>
     <script type="text/javascript">
-        document.getElementById('resume').addEventListener("click", function(){ 
-            var adobeDCView = new AdobeDC.View({clientId: "3708d35338d2481eaf75ed2e706a3507"});
+        const previewConfig = {
+            embedMode: "LIGHT_BOX",
+            defaultViewMode: "FIT_PAGE",
+            exitPDFViewerType: "RETURN",
+        };
+
+        document.getElementById('cv').addEventListener("click", function(){ 
+            var adobeDCView = new AdobeDC.View({clientId: "2a5927dacf6047a7ab82579b812a1a5a"});
             adobeDCView.previewFile({
-                content:{location: {url: "/assets/resume.pdf"}},
-                metaData:{fileName: "Resume-Yuan-Yao-Lou.pdf"}
-            }, {embedMode: "LIGHT_BOX"});
+                content:{location: {url: "/assets/pdf/Curriculum-Vitae-2022-08.pdf"}},
+                metaData:{fileName: "Curriculum-Vitae-Yuan-Yao-Lou.pdf"}
+            }, previewConfig);
         });
     </script>
 </body>
