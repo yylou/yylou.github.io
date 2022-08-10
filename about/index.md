@@ -88,7 +88,7 @@ comments: false
             <code class="code-margin">Notion</code>
         </div>
     </div>
-    <div class="myrow" style="margin: 0px 5px; margin-bottom: 40px">
+    <div class="myrow no-margin" style="margin-bottom: 40px">
         <div class="col-xs-12 col-sm-12 col-md-2 col-lg-2">
             <strong>Platforms</strong>
         </div>

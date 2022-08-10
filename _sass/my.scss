@@ -133,6 +133,11 @@ body { background-color: #222121; }
     flex-wrap: wrap;
     margin: 25px 5px;
     border: 1px solid #ffffff00;
+    @media #{$small}, #{$medium} {
+        border: 1px solid #d0d0d0;
+        border-radius: 6px;
+        box-shadow: 2px 2px #dddddd;
+    }
     &.hover {
         padding-top: 5px;
         padding-bottom: 5px;
@@ -144,7 +149,12 @@ body { background-color: #222121; }
         }
     }
     &.no-margin {
+        border: 1px solid #ffffff00;
+        box-shadow: 0px 0px #d0d0d0;
         margin: 0px 5px;
+        @media #{$small}, #{$medium} {
+            margin: 10px 5px;
+        }
     }
 }
 .row-home {
