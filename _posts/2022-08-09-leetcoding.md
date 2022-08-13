@@ -11,6 +11,8 @@ feature: /assets/img/bg.jpeg
   GibHub repository: [Python coding](https://github.com/yylou/python-coding){:target="_blank"},
   [LeetCode](https://github.com/yylou/leetcode){:target="_blank"}
 
+<br/>
+
 ## Array
 
 1. BFS / DFS
@@ -31,3 +33,5 @@ feature: /assets/img/bg.jpeg
 
 1. Lower bound
 2. Upper bound
+
+<br/>
