@@ -27,9 +27,9 @@ layout: compress
                         {% if post.project == null %}
                     <ul>
                         <li>
-                            <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
-                            <p>{{ post.excerpt }}</p>
-                            <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn">Read More</a>
+                            <a class="zoombtn" href="{{ site.url }}{{ post.url }}"><i class="fa fa-file-code-o" aria-hidden="true" style="font-size:18px;margin-right:5px;"></i> {{ post.title }}</a>
+                            <p style="font-size: 10pt;">{{ post.excerpt }}</p>
+                            <!-- <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn" style="font-size:8pt;padding:8px 10px;">Read More</a> -->
                         </li>
                     </ul>
                         {% endif %}
