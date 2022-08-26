@@ -302,7 +302,7 @@ comments: false
             <div class="col-lg-2"></div>
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10" style="font-size:15.5px">
                 <li>Advisor: <a href="https://www.linkedin.com/in/mung-chiang-9511445/" target= "_blank">Prof. Mung Chiang</a> and <a href="https://kimkt.com/" target= "_blank"> Prof. Kwang Taik Kim</a></li>
-                <li>Coursework: Computer Network Systems, Deep Learning, Theory of Linear Model, Artificial Intelligence 
+                <li>Coursework: Computer Network Systems, Theory of Linear Model, Deep Learning, Programming Parallel Machines
                     <!-- <code class="code-link"><i class="fa fa-book"></i> Notes</code> -->
                 </li>
             </div>
