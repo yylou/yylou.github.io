@@ -12,7 +12,7 @@ comments: false
     <div class="col-12" style="text-align:left">
         I'm a second-year <strong>Ph.D. student in the School of Electrical and Computer Engineering at Purdue University as part of <a href="http://edgelab.princeton.edu/" target="_blink">EDGE Lab</a></strong>, co-advised by <a href="https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=171238" target="_blink">Prof. Mung Chiang</a> and <a href="https://kimkt.com/" target="_blink">Prof. Kwang Taik Kim</a>.
         My research interests lie in the intersection of (1) the architectural design of real-time open edge platforms to jointly optimize microservice-based edge applications and RAN performance, and (2) machine learning in the realms of wireless system design in 5G/6G networks.
-        Prior to joining Purdue, I was a <strong>senior software engineer</strong> experienced in microservice-based system automation in on-premise Linux servers and web application development on AWS.
+        Prior to joining Purdue, I was a <strong>senior software engineer</strong> experienced in (1) the development of microservice-based automation systems in on-premise Linux servers, and (2) the web application development on AWS.
     </div>
 </div>
 <p style="text-align:right">
@@ -31,7 +31,7 @@ comments: false
         <div class="col-xs-12 col-sm-12 col-md-2 col-lg-2">
             <strong>Research</strong>
         </div>
-        <div class="col-xs-12 col-sm-12 col-md-10 col-lg-10" style="font-weight: bold">
+        <div class="col-xs-12 col-sm-12 col-md-10 col-lg-10" style="font-weight:600">
             <code class="code-margin">Computer Network</code>
             <code class="code-margin">Edge Computing</code>
             <code class="code-margin">Distributed Systems</code>
@@ -106,7 +106,7 @@ comments: false
 <div id="pub" style="display:none">
     <div id="hover-row-1" class="myrow">
         <!-- Topic -->
-        <div class="col-xs-12 col-sm-12 col-md-1 col-lg-1 text-xs-left text-sm-left text-md-center text-lg-center">[1]</div>
+        <div class="col-xs-12 col-sm-12 col-md-1 col-lg-1 text-xs-left text-sm-left text-md-center text-lg-center">[7]</div>
         <!-- <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11"><strong>E-MPC: Edge-Assisted Model Predictive Control</strong></div> -->
         <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11"><strong>Sampling-based Local Path Planning in Edge Computing for Autonomous Driving</strong></div>
         <!-- Authors -->
@@ -131,7 +131,7 @@ comments: false
     </div>
     <div id="hover-row-2" class="myrow">
         <!-- Topic -->
-        <div class="col-xs-12 col-sm-12 col-md-1 col-lg-1 text-xs-left text-sm-left text-md-center text-lg-center">[2]</div>
+        <div class="col-xs-12 col-sm-12 col-md-1 col-lg-1 text-xs-left text-sm-left text-md-center text-lg-center">[6]</div>
         <!-- <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11"><strong>Dynamic Scheduling for Multi-Tier Edge Computing in Heterogeneous Networks</strong></div> -->
         <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11"><strong>Dynamic Task Orchestration for Multi-Tier Edge Computing in Heterogeneous Networks</strong></div>
         <!-- Authors -->
@@ -156,7 +156,7 @@ comments: false
     </div>
     <div id="hover-row-3" class="myrow">
         <!-- Topic -->
-        <div class="col-xs-12 col-sm-12 col-md-1 col-lg-1 text-xs-left text-sm-left text-md-center text-lg-center">[3]</div>
+        <div class="col-xs-12 col-sm-12 col-md-1 col-lg-1 text-xs-left text-sm-left text-md-center text-lg-center">[5]</div>
         <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">
             <strong>Intelligent Network Edge with Distributed SDN for the Future 6G Network</strong>
             <a style="text-decoration:none;margin-left:3px" target="_blank"
@@ -207,7 +207,7 @@ comments: false
     </div>
     <div id="hover-row-5" class="myrow">
         <!-- Topic -->
-        <div class="col-xs-12 col-sm-12 col-md-1 col-lg-1 text-xs-left text-sm-left text-md-center text-lg-center">[5]</div>
+        <div class="col-xs-12 col-sm-12 col-md-1 col-lg-1 text-xs-left text-sm-left text-md-center text-lg-center">[3]</div>
         <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">
             <strong>Modularized Service Provisioning at Fog Networks</strong>
         </div>
@@ -229,7 +229,7 @@ comments: false
     </div>
     <div id="hover-row-6" class="myrow">
         <!-- Topic -->
-        <div class="col-xs-12 col-sm-12 col-md-1 col-lg-1 text-xs-left text-sm-left text-md-center text-lg-center">[6]</div>
+        <div class="col-xs-12 col-sm-12 col-md-1 col-lg-1 text-xs-left text-sm-left text-md-center text-lg-center">[2]</div>
         <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">
             <strong>A Virtual Local-hub Solution with Function Module Sharing for Wearable Devices</strong>
             <a style="text-decoration:none;margin-left:3px" target="_blank"
@@ -255,7 +255,7 @@ comments: false
     </div>
     <div id="hover-row-7" class="myrow">
         <!-- Topic-->
-        <div class="col-xs-12 col-sm-12 col-md-1 col-lg-1 text-xs-left text-sm-left text-md-center text-lg-center">[7]</div>
+        <div class="col-xs-12 col-sm-12 col-md-1 col-lg-1 text-xs-left text-sm-left text-md-center text-lg-center">[1]</div>
         <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">
             <strong>Internet of Things Session Management Over LTE - Balancing Signal Load, Power, and Delay</strong>
             <a style="text-decoration:none;margin-left:3px" target="_blank"
@@ -301,7 +301,7 @@ comments: false
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10"><div class="myline"></div></div>
             <div class="col-lg-2"></div>
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10" style="font-size:15.5px">
-                <li>Advisor: <a href="https://www.linkedin.com/in/mung-chiang-9511445/" target= "_blank">Prof. Mung Chiang</a> and <a href="https://kimkt.com/" target= "_blank"> Prof. Kwang Taik Kim</a></li>
+                <li>Advisors: <a href="https://www.linkedin.com/in/mung-chiang-9511445/" target= "_blank">Prof. Mung Chiang</a>, <a href="https://kimkt.com/" target= "_blank"> Prof. Kwang Taik Kim</a></li>
                 <li>Coursework: Computer Network Systems, Theory of Linear Model, Deep Learning, Programming Parallel Machines
                     <!-- <code class="code-link"><i class="fa fa-book"></i> Notes</code> -->
                 </li>

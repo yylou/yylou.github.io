@@ -23,12 +23,19 @@ layout: compress
                     </a>
                 </div>
                 <div class="post-list">
-                    {% for post in site.posts %} 
-                        {% if post.project == null %}
                     <ul>
                         <li>
-                            <a class="zoombtn" href="{{ site.url }}{{ post.url }}"><i class="fa fa-file-code-o" aria-hidden="true" style="font-size:18px;margin-right:5px;"></i> {{ post.title }}</a>
-                            <p style="font-size: 10pt;">{{ post.excerpt }}</p>
+                            <a class="zoombtn" href="{{ site.url }}/leetcoding"><i class="fa fa-file-code-o" aria-hidden="true" style="font-size:18px;margin-right:5px;"></i> Leetcoding</a>
+                            <p style="font-size:10pt;font-weight:400;">Workable solutions for Leetcode problems (under construction).</p>
+                        </li>
+                    </ul>
+
+                    {% for post in site.posts %} 
+                        {% if post.project == null and post.title != "Leetcoding" %}
+                    <ul>
+                        <li>
+                            <a class="zoombtn" href="{{ site.url }}{{ post.url }}"><i class="fa fa-file-text-o" aria-hidden="true" style="font-size:18px;margin-right:5px;"></i> {{ post.title }}</a>
+                            <p style="font-size:10pt;font-weight:400;">{{ post.excerpt }}</p>
                             <!-- <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn" style="font-size:8pt;padding:8px 10px;">Read More</a> -->
                         </li>
                     </ul>
