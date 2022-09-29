@@ -116,7 +116,7 @@ body { background-color: #222121; }
 /* Content */
 .mycontent {
     @include font-size(14);
-    padding: 0.1 2.95rem;
+    padding: 0.01rem 3rem;
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased !important;
     -moz-font-smoothing: antialiased !important;
