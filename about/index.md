@@ -32,18 +32,18 @@ comments: false
             <strong>Research</strong>
         </div>
         <div class="col-xs-12 col-sm-12 col-md-10 col-lg-10" style="font-weight:600">
-            <code class="code-margin">Computer Network</code>
-            <code class="code-margin">Edge Computing</code>
-            <code class="code-margin">Distributed Systems</code>
             <code class="code-margin">Wireless Communication</code>
+            <code class="code-margin">Distributed Systems</code>
+            <code class="code-margin">Mobile Edge Computing</code>
             <code class="code-margin">Computation Offloading</code>
-            <code class="code-margin">Microservice</code>
-            <code class="code-margin">NFV/SDN</code>
-            <code class="code-margin">Open MEC/RAN</code>
+            <code class="code-margin">Cellular Networks</code>
+            <code class="code-margin">AR/VR/XR</code>
             <code class="code-margin">Autonomous Driving</code>
             <code class="code-margin">Path Planning</code>
-            <code class="code-margin">Machine Learning</code>
-            <code class="code-margin">5G/6G</code>
+            <code class="code-margin">Model Predictive Control</code>
+            <code class="code-margin">Deep Reinforcement Learning</code>
+            <code class="code-margin">Transfer Learning</code>
+            <code class="code-margin">Generative Model</code>
         </div>
     </div>
     <div class="myrow no-margin">
@@ -345,8 +345,8 @@ comments: false
         <div class="col-lg-2"></div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10">B.S. in Computer Science <code>GPA: 3.8 / 4.0</code></div>
     </div>
-    <!-- Awards . Certificates -->
-    <h2 id="award-title" class="resume-title"><a id="award-sec" href="#award-title">Awards . Certificates</a></h2>
+    <!-- Honors . Awards -->
+    <h2 id="award-title" class="resume-title"><a id="award-sec" href="#award-title">Honors . Awards</a></h2>
     <div id="row-award-1" class="myrow">
         <!-- Date / Title / Institute -->
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-2">Aug. 2021</div>
@@ -358,6 +358,12 @@ comments: false
             </a>
         </div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4 text-xs-left text-sm-left text-md-left text-lg-right"><i class="fa fa-thumb-tack add-margin"></i>Coursera / AWS</div>
+    </div>
+    <div id="row-award-2" class="myrow">
+        <!-- Date / Title / Institute -->
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-2">Jun. 2021</div>
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4"><strong>Speaker in Edge and Fog Computing Track</strong></div>
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6 text-xs-left text-sm-left text-md-left text-lg-right"><i class="fa fa-thumb-tack add-margin"></i>IEEE 7th World Forum on Internet of Thing (WF-IoT)</div>
     </div>
     <div id="row-award-2" class="myrow">
         <!-- Date / Title / Institute -->
@@ -429,9 +435,19 @@ comments: false
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10"><div class="myline"></div></div>
             <div class="col-lg-2"></div>
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10" style="font-size:15.5px">
-                <li>Focused on architectural design of microservice-based edge platform to optimize edge applications and RAN performance</li>
+                <strong>Open Edge Platform</strong>
+                <li>Design and propose alternative open architecture of MEC and O-RAN integrated systems to optimize edge applications and RAN performance jointly</li>
+                <li>Quantify and analyze trade-off between each option of open architecture including deployment of radio and computing nodes and RAN functional splits</li>
+                <li>Explore deep reinforcement learning and adapt collaborative intelligence in containerized systems to orchestrate RAN control tasks and optimize edge services</li>
+                <li>Deploy computation offloading framework of multi-tier edge computing in real testbed on CBRS 4G network and evaluated end-to-end latency<sup style="margin-left:2px">[6]</sup></li>
+                <br>
+                <strong>Autonomous Vehicles</strong>
+                <li>Introduce novel framework of edge-assisted model predictive control in local path planning to exploit unique characteristics of edge network<sup style="margin-left:2px">[7]</sup></li>
+                <li>Identify and analyze three different ways of heterogeneity of edge networks to benefit robot agents and reduce cost-to-go</li>
+                <li>Conduct series of numerical evaluations with visualized driving results to demonstrate effectiveness and performance advantages of each method</li>
+                <!-- <li>Focused on architectural design of microservice-based edge platform to optimize edge applications and RAN performance</li>
                 <li>Investigated path planning in autonomous driving to optimize predictive motion control in heterogeneous edge networks <sup style="margin-left:2px">[1]</sup></li>
-                <li>Explored multi-tier edge computing and built computation offloading framework upon real testbed in 4G network <sup style="margin-left:2px">[2]</sup></li>
+                <li>Explored multi-tier edge computing and built computation offloading framework upon real testbed in 4G network <sup style="margin-left:2px">[2]</sup></li> -->
             </div>
         </div>
     </div>
@@ -466,7 +482,7 @@ comments: false
                 <li>Automated Flask Eve API testing using Postman and Python to boost product robustness</li>
                 <li>Improved free-trial feature of Bootstrap-based official website to speed up product delivery</li>
                 <li>
-                    Released detailed documentation of developed products and tools and Frappe open-source tutorial on GitHub
+                    Released internal documents of developed products and tools and publish tutorial of Frappe pp development on GitHub
                     <a href="https://github.com/yylou/frappe-apps" style="text-decoration:none" target="_blank"><code class="code-link" id="link-se-iot"><i class="fa fa-github"></i> GitHub Repo</code></a>
                 </li>
             </div>
@@ -495,12 +511,12 @@ comments: false
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10"><div class="myline"></div></div>
             <div class="col-lg-2"></div>
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10" style="font-size:15.5px">
-                <li>Proposed distributed SDN system coupled with localized edge platforms and storage to support autonomous driving</li>
+                <li>Proposed distributed SDNs system coupled with localized edge platforms and storage to support autonomous driving</li>
                 <li>
-                    Served as speaker in Edge and Fog Computing track on IEEE 7th World Forum on Internet of Things
+                    Served as speaker in Edge and Fog Computing track on IEEE 7th World Forum on Internet of Things (WF-IoT)
                     <a href="https://wfiot2021.iot.ieee.org/edge-compute/" style="text-decoration:none" target="_blank"><code class="code-link" id="link-rs-ir"><i class="fa fa-link"></i> IEEE WF-IoT</code></a>
                 </li>
-                <li>Published an introductory paper on IEEE COMCAS 2021 <sup style="margin-left:2px">[3]</sup></li>
+                <li>Published an introductory paper on IEEE COMCAS 2021 <sup style="margin-left:2px">[5]</sup></li>
             </div>
         </div>
     </div>
@@ -530,7 +546,7 @@ comments: false
             <div class="col-lg-2"></div>
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10" style="font-size:15.5px">
                 <strong>Development</strong>
-                <li>Devised microservice-based platform in on-premise server automating design flows to boost development efficiency</li>
+                <li>Devised microservice-based platform in on-premise servers automating design flows and improving verification robustness to boost development efficiency</li>
                 <li>Developed in-house design verification tools reviewing timing and power requirements to improve reliability</li>
                 <li>Automated library maintenance flow using Python and shell script to save manual effort by up to 80%</li>
                 <br>
@@ -556,7 +572,7 @@ comments: false
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10">
             <i class="fa fa-hashtag hash-tag-spacing"></i>
             <code id="tag-rs3-1">Microservice</code>
-            <code id="tag-rs3-2">Computation Offloading</code>
+            <code id="tag-rs3-2">Wearable Computing</code>
             <code id="tag-rs3-3">Android</code>
             <code id="tag-rs3-4">Web</code>
             <code id="tag-rs3-5">Django</code>
@@ -567,7 +583,18 @@ comments: false
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10"><div class="myline"></div></div>
             <div class="col-lg-2"></div>
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10" style="font-size:15.5px">
+                <strong>Wearable Edge Computing</strong>
                 <li>Proposed Virtual Local-Hub framework to enable microservice computation offloading for Android devices</li>
+                <li>Hacked Android OS to intercept system calls and redirect application API calls to wireless base stations</li>
+                <li>Reduced execution time of wearable microservices by up to 60% and CPU usage by up to 70%</li>
+                <li>Published conference paper on ACM MSWiM 2016 and book chapter in 2020<sup style="margin-left:2px">[2, 3, 4]</sup></li>
+                <br>
+                <strong>Networked System Development</strong>
+                <li>Built real WLAN testbed from scratch including DHCP and NAT configuration to evaluate E2E latency and power consumption of wearable edge computing framework</li>
+                <li>Designed telemetry platform using Django to monitor system and manage service provisioning
+                    <a href="https://www.cakeresume.com/portfolios/network-dashboard" style="text-decoration:none" target="_blank"><code class="code-link" id="link-rs-most"><i class="fa fa-link"></i> Portfolio</code></a></li>
+                <li>Developed latency-sensitive applications on Android devices such as speech recognition using CMUSphinx</li>
+                <!-- <li>Proposed Virtual Local-Hub framework to enable microservice computation offloading for Android devices</li>
                 <li>Conducted real experiments by deploying local area network to evaluate E2E latency and power consumption</li>
                 <li>
                     Designed telemetry dashboard using Django to monitor system performance and manage service provisioning
@@ -575,7 +602,7 @@ comments: false
                 </li>
                 <li>Reduced execution time of wearable microservices by up to 60% and wearable devices' CPU usage by up to 70%</li>
                 <li>Developed latency-sensitive applications on wearable and edge devices (CMUSphinx Open Source Speech Recognition)</li>
-                <li>Published conference papers on ACM MSWiM 2016 and IEEE VTS APWCS 2018 and one book chapter in 2020 <sup style="margin-left:2px">[4] [5] [6]</sup></li>
+                <li>Published conference papers on ACM MSWiM 2016 and IEEE VTS APWCS 2018 and one book chapter in 2020 <sup style="margin-left:2px">[4] [5] [6]</sup></li> -->
             </div>
         </div>
     </div>
@@ -604,11 +631,12 @@ comments: false
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10"><div class="myline"></div></div>
             <div class="col-lg-2"></div>
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10" style="font-size:15.5px">
-                <li>Built Markov chain model to formulate 4G LTE IoT session management factors (signal load, power, delay)</li>
-                <li>Developed probabilistic model simulation to evaluate adaptive DRX algorithms and visualized numerical results</li>
+                <strong>4G LTE (RRC/DRX) & IoT</strong>
+                <li>Built Markov chain model based on RRC inference algorithms in AT&T tools to analyze DRX impact on 4G LTE IoT session factors (signal load, power, delay)</li>
+                <li>Conduct probabilistic model simulations to reveal the efficacy of algorithms in power saving and signal reduction for IoT</li>
+                <li>Developed toolkits based on AT&T Lab tools to analyze packets and profile Android apps performance</li>
                 <li>Improved power saving by up to 50% and signal saving by up to 60% for packets within 0.1s delay</li>
-                <li>Conducted toolkits based on AT&T Lab tools to analyze network packets and profile Android app performance</li>
-                <li>Published a journal paper in IEEE Internet of Things Journal (IoT-J) in 2016 <sup style="margin-left:2px">[7]</sup></li>
+                <li>Published a journal paper in IEEE Internet of Things Journal (IoT-J) in 2016 <sup style="margin-left:2px">[1]</sup></li>
             </div>
         </div>
     </div>
@@ -636,6 +664,7 @@ comments: false
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10"><div class="myline"></div></div>
             <div class="col-lg-2"></div>
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10" style="font-size:15.5px">
+                <strong>TCP/IP & Socket Programming</strong>
                 <li>Lectured TCP/IP protocol (802.11, 802.3) and demonstrated network packet monitoring and analysis using WireShark</li>
                 <li>Designed IRC chatbot application as project assignment to teach students socket programming 
                     <!-- <code class="code-link"><i class="fa fa-github"></i> GitHub Repo</code> -->
