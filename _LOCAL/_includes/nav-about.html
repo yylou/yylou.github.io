@@ -1,0 +1,37 @@
+            <nav id="dl-menu" class="dl-menuwrapper" role="navigation">
+                <button id="nav-button" class="dl-trigger dl-active">Open Menu</button>
+                <ul id="nav-menu" class="dl-menu dl-menuopen">
+                    <div class="myrow" style="margin: 3px 0px;">
+                        <div class="col-12 no-padding">
+                            <li><a href="{{ site.url }}/"><i class="fa fa-home" style="margin-right: 5px;"></i>Home</a></li>
+                            <li><a href="#" onclick="expand_section('', true)"><i class="fa fa-plus-square" style="margin-right: 5px;"></i>Show All</a></li>
+                            <li><a href="#" id="cv"><i class="fa fa-file-pdf-o" style="margin-right: 5px;"></i>PDF</a></li>
+                            <div id="sec-shortcut">
+                                <div class="myline colored" style="width: 100%; background-color: grey;"></div>
+                                <li><a href="#about">About</a></li>
+                                <li><a href="#ski-title" onclick="expand_section('ski', false, false)">Skills</a></li>
+                                <li><a href="#pub-title" onclick="expand_section('pub', false, false)">Publications</a></li>
+                                <li><a href="#edu-title" onclick="expand_section('edu', false, false)">Education</a></li>
+                                <li><a href="#exp-title" onclick="expand_section('exp', false, false)">Experience</a></li>
+                            </div>
+                        </div>
+                    </div>
+                </ul>
+            </nav>
+
+            <script src="https://documentcloud.adobe.com/view-sdk/viewer.js"></script>
+            <script type="text/javascript">
+                const previewConfig = {
+                    embedMode: "LIGHT_BOX",
+                    exitPDFViewerType: "RETURN",
+                };
+
+                document.getElementById('cv').addEventListener("click", function(){ 
+                    /* var adobeDCView = new AdobeDC.View({clientId: "2a5927dacf6047a7ab82579b812a1a5a"}); */
+                    var adobeDCView = new AdobeDC.View({clientId: "3708d35338d2481eaf75ed2e706a3507"});
+                    adobeDCView.previewFile({
+                        content:{location: {url: "/assets/pdf/Curriculum-Vitae-2022-10.pdf"}},
+                        metaData:{fileName: "Curriculum-Vitae-Yuan-Yao-Lou.pdf"}
+                    }, previewConfig);
+                });
+            </script>

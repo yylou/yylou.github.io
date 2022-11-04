@@ -1,0 +1,34 @@
+---
+layout: compress
+---
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"><!--<![endif]-->
+<head>
+    {% include head.html %}
+</head>
+<body>
+    <!-- Header -->
+    <header class="header flex" role="banner">
+        <div class="mycontainer">
+            {% include nav-about.html %}
+            <div class="content">
+                <div class="post-title title-spacing {% if page.feature %} feature {% endif %}">
+                    <h1 id="me" style="font-weight:700">Yuan-Yao Lou</h1>
+                </div>
+                <p style="text-align: center;">
+                    <a href="mailto:yylou@purdue.edu" target="_blank"><i class="fa fa-envelope-square contact-icon"></i>yylou [at] purdue [dot] edu</a>
+                    <a href="https://www.linkedin.com/in/yylou/" target="_blank"><i class="fa fa-linkedin-square contact-icon"></i>yylou</a>
+                    <a href="https://scholar.google.com/citations?user=GxDK4WQAAAAJ&hl=en" target="_blank"><i class="fa fa-graduation-cap contact-icon"></i>Google Scholar</a>
+                    <a href="https://github.com/yylou" target="_blank"><i class="fa fa-github contact-icon"></i>yylou</a>
+                    <a href="https://yyloumike.gitbook.io/" target="_blank"><i class="fa fa-book contact-icon"></i>Gitbook</a>
+                </p>
+                {{ content }}
+            </div>
+        </div>
+    </header>
+    <script src="{{ site.url }}/assets/js/my.js"></script>
+</body>
+</html>
