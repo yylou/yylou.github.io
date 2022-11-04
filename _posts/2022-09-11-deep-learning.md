@@ -4,7 +4,6 @@ title: "Notes: Deep Learning"
 date: 2022-09-11
 excerpt: "Study notes / Various classes and sources"
 tags: [machine learning, deep learning, neural networks, regression, classification]
-feature: /assets/img/bg.jpeg
 ---
 
 <style>

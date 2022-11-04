@@ -12,7 +12,7 @@ comments: false
     <div class="col-12" style="text-align:left">
         I'm a second-year <strong>Ph.D. student in the School of Electrical and Computer Engineering at Purdue University as part of <a href="http://edgelab.princeton.edu/" target="_blink">EDGE Lab</a>, co-advised by <a href="https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=171238" target="_blink">Prof. Mung Chiang</a> and <a href="https://kimkt.com/" target="_blink">Prof. Kwang Taik Kim</a>.</strong>
         My research interests lie in the intersection of (1) the architectural design of real-time open edge platforms to jointly optimize microservice-based edge applications and RAN performance, and (2) machine learning in the realms of wireless system design in 5G/6G networks.
-        Prior to joining Purdue, I was a <strong>senior software engineer with 3 years of experience</strong> in (1) the development of microservice-based automation systems in on-premise Linux servers, and (2) the web application development on AWS.
+        Prior to joining Purdue, I was a <strong>senior software engineer with 4 years of experience</strong> in (1) the development of microservice-based automation systems in on-premise Linux servers, and (2) the web application development on AWS.
     </div>
 </div>
 <p style="text-align:right">
