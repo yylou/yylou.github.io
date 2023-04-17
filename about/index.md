@@ -35,15 +35,12 @@ comments: false
             <code class="code-margin">Wireless Communication</code>
             <code class="code-margin">Distributed Systems</code>
             <code class="code-margin">Mobile Edge Computing</code>
-            <code class="code-margin">Computation Offloading</code>
             <code class="code-margin">Cellular Networks</code>
-            <code class="code-margin">AR/VR/XR</code>
-            <code class="code-margin">Autonomous Driving</code>
-            <code class="code-margin">Path Planning</code>
             <code class="code-margin">Model Predictive Control</code>
-            <code class="code-margin">Deep Reinforcement Learning</code>
-            <code class="code-margin">Transfer Learning</code>
-            <code class="code-margin">Generative Model</code>
+            <code class="code-margin">Reinforcement Learning</code>
+            <code class="code-margin">Path Planning</code>
+            <!-- <code class="code-margin">Transfer Learning</code> -->
+            <!-- <code class="code-margin">Generative Model</code> -->
         </div>
     </div>
     <div class="myrow no-margin">
@@ -68,9 +65,9 @@ comments: false
             <code class="code-margin">Django/MongoDB</code>
             <code class="code-margin">Flask/Eve</code>
             <code class="code-margin">Frappe/MariaDB</code>
-            <code class="code-margin">Jekyll</code>
             <code class="code-margin">Bootstrap</code>
             <code class="code-margin">HTML/CSS</code>
+            <code class="code-margin">Jekyll</code>
         </div>
     </div>
     <div class="myrow no-margin">
