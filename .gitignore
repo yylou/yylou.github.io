@@ -1,7 +1,7 @@
 _site/
 _/
-.sass-cache/
 .DS_Store
+.sass-cache
 .jekyll-metadata
 .editorconfig
 .ruby-version
