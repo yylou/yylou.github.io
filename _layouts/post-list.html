@@ -25,17 +25,18 @@ layout: compress
                 <div class="post-list">
                     <ul>
                         <li>
-                            <a class="zoombtn" href="{{ site.url }}/leetcoding"><i class="fa fa-file-code-o" aria-hidden="true" style="font-size:18px;margin-right:5px;"></i> Leetcoding</a>
-                            <p style="font-size:10pt;font-weight:400;">Workable solutions for Leetcode problems (under construction).</p>
+                            <a class="zoombtn" href="{{ site.url }}/photographs"><i class="fa fa-file-code-o" aria-hidden="true" style="font-size:18px;margin-right:5px;"></i> Photographs</a>
+                            <p style="font-size:10pt;font-weight:400;">Travel photography @ <code class="code-margin" style="font-size: 8pt;">US, TW</code></p>
                         </li>
                     </ul>
 
                     {% for post in site.posts %} 
-                        {% if post.project == null and post.title != "Leetcoding" %}
+                        {% if post.project == null and post.title != "Photographs" %}
                     <ul>
                         <li>
                             <a class="zoombtn" href="{{ site.url }}{{ post.url }}"><i class="fa fa-file-text-o" aria-hidden="true" style="font-size:18px;margin-right:5px;"></i> {{ post.title }}</a>
-                            <p style="font-size:10pt;font-weight:400;">{{ post.excerpt }} ({{ post.date | date: '%B %d, %Y' }})</p>
+                            <p style="font-size:10pt;font-weight:400;">{{ post.excerpt }}</p>
+                            <!-- <p style="font-size:10pt;font-weight:400;">{{ post.excerpt }} ({{ post.date | date: '%B %d, %Y' }})</p> -->
                             <!-- <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn" style="font-size:8pt;padding:8px 10px;">Read More</a> -->
                         </li>
                     </ul>
