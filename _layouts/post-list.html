@@ -23,24 +23,21 @@ layout: compress
                     </a>
                 </div>
                 <div class="post-list">
+                    {% for post in site.posts %}
                     <ul>
                         <li>
-                            <a class="zoombtn" href="{{ site.url }}/photographs"><i class="fa fa-file-picture-o" aria-hidden="true" style="font-size:18px;margin-right:5px;"></i> Photographs</a>
-                            <p style="font-size:10pt;font-weight:400;">Travel photography @ <code class="code-margin" style="font-size: 8pt;">US, TW</code></p>
-                        </li>
-                    </ul>
-
-                    {% for post in site.posts %} 
-                        {% if post.project == null and post.title != "Photographs" %}
-                    <ul>
-                        <li>
-                            <a class="zoombtn" href="{{ site.url }}{{ post.url }}"><i class="fa fa-file-text-o" aria-hidden="true" style="font-size:18px;margin-right:5px;"></i> {{ post.title }}</a>
-                            <p style="font-size:10pt;font-weight:400;">{% if post.title == "Coursework" or post.title == "Coding" %}<i class="fa fa-github-square" aria-hidden="true" style="font-size:15px;margin-right:5px;"></i>{% endif %}{{ post.excerpt }}</p>
+                            <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
+                            <p style="font-size:10pt;font-weight:400;">
+                                {% if post.title == "Coursework" or post.title == "Coding" %}<i class="fa fa-github-square" aria-hidden="true" style="font-size:15px;margin-right:5px;"></i>
+                                {% elsif post.title == "Photographs" %}<i class="fa fa-picture-o" aria-hidden="true" style="font-size:15px;margin-right:5px;"></i>
+                                {% elsif post.title == "Research" %}<i class="fa fa-cubes" aria-hidden="true" style="font-size:14px;margin-right:3px;"></i>
+                                {% endif %}
+                                {{ post.excerpt }}
+                            </p>
                             <!-- <p style="font-size:10pt;font-weight:400;">{{ post.excerpt }} ({{ post.date | date: '%B %d, %Y' }})</p> -->
                             <!-- <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn" style="font-size:8pt;padding:8px 10px;">Read More</a> -->
                         </li>
                     </ul>
-                        {% endif %}
                     {% endfor %}
                 </div>
             </div>
