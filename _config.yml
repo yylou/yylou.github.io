@@ -8,8 +8,8 @@ words_per_minute:   200
 background:         # 'assets/img/bg.jpeg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                http://localhost:4000     # for local development
-# url:                https://yylou.github.io   # for deployment
+# url:                http://localhost:4000     # for local development
+url:                https://yylou.github.io   # for deployment
 
 # Jekyll
 permalink:          /:title/
