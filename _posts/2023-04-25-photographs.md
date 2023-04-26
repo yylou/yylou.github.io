@@ -42,8 +42,9 @@ tags: [portrait, landscape, long exposure, nature, city, travel, US, TW]
     <img src="https://res.cloudinary.com/yylou/image/upload/v1682488329/samples/ecommerce/analog-classic.jpg">
   </div>
   <div class="column-photo">
-    <img src="https://res.cloudinary.com/yylou/image/upload/t_gallery/cld-sample">
-    <img src="https://res.cloudinary.com/demo/image/upload/w_300/sample">
+    <img src="https://res.cloudinary.com/yylou/image/upload/t_gallery/v1682488338/samples/ecommerce/accessories-bag.jpg">
+    <img src="https://res.cloudinary.com/yylou/image/upload/t_gallery/v1682488336/samples/landscapes/architecture-signs.jpg">
+    <img src="https://res.cloudinary.com/yylou/image/upload/t_gallery/v1682488351/cld-sample-2.jpg">
   </div>
   <div class="column-photo">
     <img src="https://res.cloudinary.com/yylou/image/upload/t_gallery/cat">
