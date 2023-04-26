@@ -7,14 +7,14 @@ tags: [portrait, landscape, long exposure, nature, city, travel, US, TW]
 ---
 
 > Under construction - <small>(Apr 24, 2023)</small> <br/>
-<div align="center">
-    <select id="country">
-        <option value="">Country &hellip; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</option>
+<div style="text-align: center">
+    <select id="country" style="text-align: left; width: 12em;">
+        <option value="">Country &hellip;</option>
         <option value="all">ALL&nbsp;</option>
         <option value="tw">TW&nbsp;</option>
         <option value="us">US&nbsp;</option>
     </select> &nbsp; || &nbsp; 
-    <select id="area">
+    <select id="area" style="text-align: left; width: 12em;">
         <option value="">Area &hellip; &nbsp;</option>
         <option value="">===== TW =====</option>
         <option value="yilan">Yilan&nbsp;</option>
