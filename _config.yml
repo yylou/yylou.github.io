@@ -2,7 +2,7 @@
 title:              Yuan-Yao Lou
 bio:                'Ph.D. Student / ECE / Purdue'
 description:        "Ph.D. Student / ECE / Purdue"
-reading_time:       true
+reading_time:       false
 words_per_minute:   200
 logo:               'assets/img/profile-rd.png'
 background:         # 'assets/img/bg.jpeg'
