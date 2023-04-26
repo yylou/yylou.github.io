@@ -1014,17 +1014,17 @@ strong {
 .row-photo {
     display: flex;
     flex-wrap: wrap;
-    padding: 0 4px;
+    padding: 0 2px;
 }
 
 /* Create two equal columns that sits next to each other */
 .column-photo {
     flex: 33%;
-    padding: 0 4px;
+    padding: 0 2px;
 }
 
 .column-photo img {
-    margin-top: 8px;
+    margin-top: 4px;
     vertical-align: middle;
     border: 1px solid #a4a4a4;
 }

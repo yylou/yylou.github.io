@@ -10,7 +10,7 @@ tags: [portrait, landscape, long exposure, nature, city, travel, US, TW]
 
 <br/>
 
-<!-- <select id="country">
+<select id="country">
     <option value="">Country &hellip; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</option>
     <option value="all">ALL&nbsp;</option>
     <option value="tw">TW&nbsp;</option>
@@ -34,7 +34,7 @@ tags: [portrait, landscape, long exposure, nature, city, travel, US, TW]
     <option value="lv">Las Vegas&nbsp;</option>
     <option value="sf">Sanfrancisco&nbsp;</option>
     <option value="chi">Chicago&nbsp;</option>
-</select> -->
+</select>
 <hr>
 <br/>
 <div class="row-photo">
