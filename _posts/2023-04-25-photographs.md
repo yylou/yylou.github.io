@@ -8,20 +8,20 @@ tags: [portrait, landscape, long exposure, nature, city, travel, US, TW]
 
 > Under construction - <small>(Apr 24, 2023)</small> <br/>
 <div style="text-align: center">
-    <select id="country" style="text-align: left; width: 12em;">
-        <option value="">Country &hellip;</option>
+    <select id="country" style="text-align: left;">
+        <option value="">Country &hellip; &nbsp;&nbsp;</option>
         <option value="all">ALL&nbsp;</option>
         <option value="tw">TW&nbsp;</option>
         <option value="us">US&nbsp;</option>
     </select> &nbsp; || &nbsp; 
-    <select id="area" style="text-align: left; width: 12em;">
-        <option value="">Area &hellip; &nbsp;</option>
-        <option value="">===== TW =====</option>
+    <select id="area" style="text-align: left;">
+        <option value="">Area &hellip; &nbsp;&nbsp;</option>
+        <option value="">===== TW =====&nbsp;</option>
         <option value="yilan">Yilan&nbsp;</option>
         <option value="Hualien">Hualien&nbsp;</option>
         <option value="Taitung">Taitung&nbsp;</option>
         <option value="Tainan">Tainan&nbsp;</option>
-        <option value="">===== US =====</option>
+        <option value="">===== US =====&nbsp;</option>
         <option value="ym">Yosemite&nbsp;</option>
         <option value="gc">Grand Canyon&nbsp;</option>
         <option value="in">Indiana&nbsp;</option>
