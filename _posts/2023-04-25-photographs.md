@@ -26,6 +26,7 @@ tags: [portrait, landscape, long exposure, nature, city, travel, US, TW]
         <option value="gc">Grand Canyon&nbsp;</option>
         <option value="in">Indiana&nbsp;</option>
         <option value="sea">Seattle&nbsp;</option>
+        <option value="pa">Port Angeles&nbsp;</option>
         <option value="sd">San Diego&nbsp;</option>
         <option value="la">Los Angeles&nbsp;</option>
         <option value="ny">New York City&nbsp;</option>
