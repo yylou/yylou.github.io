@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Photographs"
-date: 2023-04-25
+date: 2023-04-26
 excerpt: "Travel & Nature @ US, TW"
 tags: [portrait, landscape, long exposure, nature, city, travel, US, TW]
 ---
@@ -33,10 +33,13 @@ tags: [portrait, landscape, long exposure, nature, city, travel, US, TW]
         <option value="lv">Las Vegas&nbsp;</option>
         <option value="sf">Sanfrancisco&nbsp;</option>
         <option value="chi">Chicago&nbsp;</option>
+        <option value="bos">Boston&nbsp;</option>
+        <option value="hou">Houston&nbsp;</option>
+        <option value="east">East Coast&nbsp;</option>
     </select>
 </div>
-<hr>
-<br/>
+<!-- <hr> -->
+<!-- <br/> -->
 <div class="row-photo">
   <div class="column-photo">
     <img src="https://res.cloudinary.com/yylou/image/upload/t_gallery/car-interior-design">
