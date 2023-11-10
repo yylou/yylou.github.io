@@ -10,7 +10,7 @@ comments: false
 <h2 id="about" class="resume-title">About</h2>
 <div class="myrow">
     <div class="col-12" style="text-align:left">
-        I'm a second-year <strong>Ph.D. student in the School of Electrical and Computer Engineering at Purdue University as part of <a href="http://edgelab.princeton.edu/" target="_blink">EDGE Lab</a>, co-advised by <a href="https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=171238" target="_blink">Prof. Mung Chiang</a> and <a href="https://kimkt.com/" target="_blink">Prof. Kwang Taik Kim</a>.</strong>
+        I'm a third-year <strong>Ph.D. student in the School of Electrical and Computer Engineering at Purdue University as part of <a href="http://edgelab.princeton.edu/" target="_blink">EDGE Lab</a>, co-advised by <a href="https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=171238" target="_blink">Prof. Mung Chiang</a> and <a href="https://kimkt.com/" target="_blink">Prof. Kwang Taik Kim</a>.</strong>
         My research interests lie in the intersection of (1) the architectural design of real-time open edge platforms to jointly optimize microservice-based edge applications and RAN performance, and (2) machine learning in the realms of wireless system design in 5G/6G networks.
         Prior to joining Purdue, I was a <strong>senior software engineer with 4 years of experience</strong> in (1) the development of microservice-based automation systems in on-premise Linux servers, and (2) the web application development on AWS.
     </div>
@@ -103,6 +103,57 @@ comments: false
 <div id="pub" style="display:none">
     <div id="hover-row-1" class="myrow">
         <!-- Topic -->
+        <div class="col-xs-12 col-sm-12 col-md-1 col-lg-1 text-xs-left text-sm-left text-md-center text-lg-center">[9]</div>
+        <!-- <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11"><strong>E-MPC: Edge-Assisted Model Predictive Control</strong></div> -->
+        <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11"><strong>Reinforcement Learning for Cellular Networking in 5G NR Experimental Testbed</strong></div>
+        <!-- Authors -->
+        <div class="col-md-1 col-lg-1"></div>
+        <!-- <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">Y.-Y. Lou, J. Spencer, K. T. Kim, M. Chiang</div> -->
+        <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11"></div>
+        <!-- Conference / Journal -->
+        <div class="col-md-1 col-lg-1"></div>
+        <!-- <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">The 20th ACM Conference on Embedded Networked Sensor Systems, 2022 <i>(submitted)</i></div> -->
+        <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11"></div>
+        <!-- Tags -->
+        <div class="col-md-1 col-lg-1"></div>
+        <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">
+            <!-- <code class="code-margin code-highlight">ACM SenSys 22'</code> -->
+            <code class="code-margin code-highlight" style="background-color: #333333">(ongoing)</code>
+            <code class="code-margin">Open RAN</code>
+            <code class="code-margin">Reinforcement Learning</code>
+            <code class="code-margin">Resource Optimization</code>
+            <code class="code-margin">System-level Simulator</code>
+            <code class="code-margin">Real Testbed</code>
+            <code class="code-margin">CBRS 5G / 5G Sub-6</code>
+        </div>
+    </div>
+    <div id="hover-row-2" class="myrow">
+        <!-- Topic -->
+        <div class="col-xs-12 col-sm-12 col-md-1 col-lg-1 text-xs-left text-sm-left text-md-center text-lg-center">[8]</div>
+        <!-- <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11"><strong>E-MPC: Edge-Assisted Model Predictive Control</strong></div> -->
+        <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11"><strong>Real-time Multi-Object Tracking System for Embedded Devices</strong></div>
+        <!-- Authors -->
+        <div class="col-md-1 col-lg-1"></div>
+        <!-- <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">Y.-Y. Lou, J. Spencer, K. T. Kim, M. Chiang</div> -->
+        <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11"></div>
+        <!-- Conference / Journal -->
+        <div class="col-md-1 col-lg-1"></div>
+        <!-- <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">The 20th ACM Conference on Embedded Networked Sensor Systems, 2022 <i>(submitted)</i></div> -->
+        <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11"></div>
+        <!-- Tags -->
+        <div class="col-md-1 col-lg-1"></div>
+        <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">
+            <!-- <code class="code-margin code-highlight">ACM SenSys 22'</code> -->
+            <code class="code-margin code-highlight" style="background-color: #333333">(under review)</code>
+            <code class="code-margin">Computer Vision</code>
+            <code class="code-margin">Deep Learning</code>
+            <code class="code-margin">Multi-Object Tracking</code>
+            <code class="code-margin">Real-time Comunication</code>
+            <code class="code-margin">Embedded Device</code>
+        </div>
+    </div>
+    <div id="hover-row-3" class="myrow">
+        <!-- Topic -->
         <div class="col-xs-12 col-sm-12 col-md-1 col-lg-1 text-xs-left text-sm-left text-md-center text-lg-center">[7]</div>
         <!-- <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11"><strong>E-MPC: Edge-Assisted Model Predictive Control</strong></div> -->
         <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11"><strong>Sampling-based Local Path Planning in Edge Computing for Autonomous Driving</strong></div>
@@ -126,7 +177,7 @@ comments: false
             <code class="code-margin">Time-critical Communcation</code>
         </div>
     </div>
-    <div id="hover-row-2" class="myrow">
+    <div id="hover-row-4" class="myrow">
         <!-- Topic -->
         <div class="col-xs-12 col-sm-12 col-md-1 col-lg-1 text-xs-left text-sm-left text-md-center text-lg-center">[6]</div>
         <!-- <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11"><strong>Dynamic Scheduling for Multi-Tier Edge Computing in Heterogeneous Networks</strong></div> -->
@@ -148,10 +199,10 @@ comments: false
             <code class="code-margin">Distributed Systems</code>
             <code class="code-margin">Task Scheduling</code>
             <code class="code-margin">Real Testbed</code>
-            <code class="code-margin">CBRS 4G / 5G mmWave</code>
+            <code class="code-margin">CBRS 4G / 5G Sub-6</code>
         </div>
     </div>
-    <div id="hover-row-3" class="myrow">
+    <div id="hover-row-5" class="myrow">
         <!-- Topic -->
         <div class="col-xs-12 col-sm-12 col-md-1 col-lg-1 text-xs-left text-sm-left text-md-center text-lg-center">[5]</div>
         <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">
@@ -175,7 +226,7 @@ comments: false
             <code class="code-margin">Distributed SDN</code>
         </div>
     </div>
-    <div id="hover-row-4" class="myrow">
+    <div id="hover-row-6" class="myrow">
         <!-- Topic -->
         <div class="col-xs-12 col-sm-12 col-md-1 col-lg-1 text-xs-left text-sm-left text-md-center text-lg-center">[4]</div>
         <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">
@@ -202,7 +253,7 @@ comments: false
             <code class="code-margin">Android</code>
         </div>
     </div>
-    <div id="hover-row-5" class="myrow">
+    <div id="hover-row-7" class="myrow">
         <!-- Topic -->
         <div class="col-xs-12 col-sm-12 col-md-1 col-lg-1 text-xs-left text-sm-left text-md-center text-lg-center">[3]</div>
         <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">
@@ -224,7 +275,7 @@ comments: false
             <code class="code-margin">System Design</code>
         </div>
     </div>
-    <div id="hover-row-6" class="myrow">
+    <div id="hover-row-8" class="myrow">
         <!-- Topic -->
         <div class="col-xs-12 col-sm-12 col-md-1 col-lg-1 text-xs-left text-sm-left text-md-center text-lg-center">[2]</div>
         <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">
@@ -250,7 +301,7 @@ comments: false
             <code class="code-margin">Greedy / Heuristic</code>
         </div>
     </div>
-    <div id="hover-row-7" class="myrow">
+    <div id="hover-row-9" class="myrow">
         <!-- Topic-->
         <div class="col-xs-12 col-sm-12 col-md-1 col-lg-1 text-xs-left text-sm-left text-md-center text-lg-center">[1]</div>
         <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">
