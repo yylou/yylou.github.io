@@ -10,9 +10,12 @@ comments: false
 <h2 id="about" class="resume-title">About</h2>
 <div class="myrow">
     <div class="col-12" style="text-align:left">
-        I'm a third-year <strong>Ph.D. student in the School of Electrical and Computer Engineering at Purdue University as part of <a href="http://edgelab.princeton.edu/" target="_blink">EDGE Lab</a>, co-advised by <a href="https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=171238" target="_blink">Prof. Mung Chiang</a> and <a href="https://kimkt.com/" target="_blink">Prof. Kwang Taik Kim</a>.</strong>
-        My research interests lie in the intersection of (1) the architectural design of real-time open edge platforms to jointly optimize microservice-based edge applications and RAN performance, and (2) machine learning in the realms of wireless system design in 5G/6G networks.
-        Prior to joining Purdue, I was a <strong>senior software engineer with 4 years of experience</strong> in (1) the development of microservice-based automation systems in on-premise Linux servers, and (2) the web application development on AWS.
+        I'm a fourth-year <strong>Ph.D. student in the School of Electrical and Computer Engineering at Purdue University as part of <a href="http://edgelab.princeton.edu/" target="_blink">EDGE Lab</a>, co-advised by <a href="https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=171238" target="_blink">Prof. Mung Chiang</a> and <a href="https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=243261" target="_blink">Prof. Kwang Taik Kim</a>.</strong><br>
+        My research interests lie in the intersection of (1) the architectural design of distributed systems to jointly optimize network and application performance, and (2) machine learning in the realms of wireless system design in 5G/6G networks.
+        I am deeply passionate about distributed systems (resource allocation for server load-balancing), computer networking (virtualization of 5G/6G networks), and deep reinforcement learning (DRL) for optimization.
+        <br><br>
+        Prior to joining Purdue, I was a <strong>senior software engineer with 3 years of experience</strong> in (1) the development of microservice-based systems in on-premise Linux servers for automating IC/EDA design flow, and (2) the cloud application development on AWS.
+        I received my B.S. and M.S. degrees in Computer Science (CS) from National Chiao Tung University (NCTU) and National Taiwan University (NTU) in 2015 and 2017, respectively.
     </div>
 </div>
 <p style="text-align:right">
@@ -33,14 +36,16 @@ comments: false
         </div>
         <div class="col-xs-12 col-sm-12 col-md-10 col-lg-10" style="font-weight:600">
             <code class="code-margin">Wireless Communication</code>
-            <code class="code-margin">Distributed Systems</code>
-            <code class="code-margin">Mobile Edge Computing</code>
-            <code class="code-margin">Cellular Networks</code>
-            <code class="code-margin">Model Predictive Control</code>
+            <code class="code-margin">Distributed System</code>
+            <code class="code-margin">Cloud-Edge Computing</code>
+            <code class="code-margin">Cellular Networks (4G/5G/6G)</code>
             <code class="code-margin">Reinforcement Learning</code>
-            <code class="code-margin">Path Planning</code>
-            <!-- <code class="code-margin">Transfer Learning</code> -->
-            <!-- <code class="code-margin">Generative Model</code> -->
+            <code class="code-margin">Resource Allocation and Scheduling</code>
+            <code class="code-margin">Deep Reinforcement Learning (DRL)</code>
+            <code class="code-margin">Multi-Agent Reinforcement Learning (MARL)</code>
+            <code class="code-margin">Federated Learning (FL)</code>
+            <code class="code-margin">Large AI Models (LAM)</code>
+            <code class="code-margin">Large Language Models (LLM)</code>
         </div>
     </div>
     <div class="myrow no-margin">
@@ -49,25 +54,12 @@ comments: false
         </div>
         <div class="col-xs-12 col-sm-12 col-md-10 col-lg-10">
             <code class="code-margin">Python</code>
+            <code class="code-margin">C++</code>
             <code class="code-margin">Java</code>
             <code class="code-margin">Javascript</code>
-            <code class="code-margin">TCL</code>
             <code class="code-margin">Shell Script</code>
-            <code class="code-margin">C/C++</code>
+            <code class="code-margin">CUDA</code>
             <code class="code-margin">SQL</code>
-        </div>
-    </div>
-    <div class="myrow no-margin">
-        <div class="col-xs-12 col-sm-12 col-md-2 col-lg-2">
-            <strong>Web</strong>
-        </div>
-        <div class="col-xs-12 col-sm-12 col-md-10 col-lg-10">
-            <code class="code-margin">Django/MongoDB</code>
-            <code class="code-margin">Flask/Eve</code>
-            <code class="code-margin">Frappe/MariaDB</code>
-            <code class="code-margin">Bootstrap</code>
-            <code class="code-margin">HTML/CSS</code>
-            <code class="code-margin">Jekyll</code>
         </div>
     </div>
     <div class="myrow no-margin">
@@ -78,11 +70,28 @@ comments: false
             <code class="code-margin">PyTorch</code>
             <code class="code-margin">TensorFlow</code>
             <code class="code-margin">Scikit-learn</code>
-            <code class="code-margin">Matplotlib</code>
+            <code class="code-margin">Numpy</code>
             <code class="code-margin">Seaborn</code>
+            <code class="code-margin">SimPy</code>
+            <code class="code-margin">OpenAI Gym</code>
             <code class="code-margin">Git</code>
             <code class="code-margin">Vim</code>
-            <code class="code-margin">Notion</code>
+        </div>
+    </div>
+    <div class="myrow no-margin">
+        <div class="col-xs-12 col-sm-12 col-md-2 col-lg-2">
+            <strong>Cloud</strong>
+        </div>
+        <div class="col-xs-12 col-sm-12 col-md-10 col-lg-10">
+            <code class="code-margin">Grafana</code>
+            <code class="code-margin">Prometheus</code>
+            <code class="code-margin">Docker</code>
+            <code class="code-margin">Telegraf</code>
+            <code class="code-margin">InfluxDB</code>
+            <code class="code-margin">Flask/Eve</code>
+            <code class="code-margin">Django/MongoDB</code>
+            <code class="code-margin">RESTful</code>
+            <code class="code-margin">HTML/CSS</code>
         </div>
     </div>
     <div class="myrow no-margin" style="margin-bottom: 40px">
@@ -91,9 +100,13 @@ comments: false
         </div>
         <div class="col-xs-12 col-sm-12 col-md-10 col-lg-10">
             <code class="code-margin">Linux</code>
-            <code class="code-margin">AWS (EC2/S3/DynamoDB/APIGateway/Lambda)</code>
+            <code class="code-margin">AWS</code>
             <code class="code-margin">Google App Engine</code>
             <code class="code-margin">Android</code>
+            <code class="code-margin">ROS / MuSHR</code>
+            <code class="code-margin">Cisco (Wi-Fi 6E)</code>
+            <code class="code-margin">Amarisoft (4G/5G)</code>
+            <code class="code-margin">Intel/Radisys RAN</code>
         </div>
     </div>
 </div>
@@ -103,48 +116,40 @@ comments: false
 <div id="pub" style="display:none">
     <div id="hover-row-1" class="myrow">
         <!-- Topic -->
-        <div class="col-xs-12 col-sm-12 col-md-1 col-lg-1 text-xs-left text-sm-left text-md-center text-lg-center">[9]</div>
-        <!-- <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11"><strong>E-MPC: Edge-Assisted Model Predictive Control</strong></div> -->
-        <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11"><strong>Reinforcement Learning for Cellular Networking in 5G NR Experimental Testbed</strong></div>
+        <div class="col-xs-12 col-sm-12 col-md-1 col-lg-1 text-xs-left text-sm-left text-md-center text-lg-center">[11]</div>
+        <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11"><strong>Multi-Agent Reinforcement Learning for Cellular Networking in 5G/6G</strong></div>
         <!-- Authors -->
         <div class="col-md-1 col-lg-1"></div>
-        <!-- <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">Y.-Y. Lou, J. Spencer, K. T. Kim, M. Chiang</div> -->
         <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11"></div>
         <!-- Conference / Journal -->
         <div class="col-md-1 col-lg-1"></div>
-        <!-- <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">The 20th ACM Conference on Embedded Networked Sensor Systems, 2022 <i>(submitted)</i></div> -->
         <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11"></div>
         <!-- Tags -->
         <div class="col-md-1 col-lg-1"></div>
         <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">
-            <!-- <code class="code-margin code-highlight">ACM SenSys 22'</code> -->
-            <code class="code-margin code-highlight" style="background-color: #333333">(ongoing)</code>
-            <code class="code-margin">Open RAN</code>
+            <code class="code-margin code-highlight" style="background-color: #333333">(under review)</code>
+            <code class="code-margin">Virtualized RAN</code>
             <code class="code-margin">Reinforcement Learning</code>
             <code class="code-margin">Resource Optimization</code>
             <code class="code-margin">System-level Simulator</code>
-            <code class="code-margin">Real Testbed</code>
-            <code class="code-margin">CBRS 5G / 5G Sub-6</code>
+            <code class="code-margin">5G NR Sub-6</code>
         </div>
     </div>
     <div id="hover-row-2" class="myrow">
         <!-- Topic -->
-        <div class="col-xs-12 col-sm-12 col-md-1 col-lg-1 text-xs-left text-sm-left text-md-center text-lg-center">[8]</div>
-        <!-- <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11"><strong>E-MPC: Edge-Assisted Model Predictive Control</strong></div> -->
-        <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11"><strong>Real-time Multi-Object Tracking System for Embedded Devices</strong></div>
+        <div class="col-xs-12 col-sm-12 col-md-1 col-lg-1 text-xs-left text-sm-left text-md-center text-lg-center">[10]</div>
+        <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11"><strong>Real-time Multi-Object Tracking System for Embedded Devices</strong>
+        </div>
         <!-- Authors -->
         <div class="col-md-1 col-lg-1"></div>
-        <!-- <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">Y.-Y. Lou, J. Spencer, K. T. Kim, M. Chiang</div> -->
         <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11"></div>
         <!-- Conference / Journal -->
         <div class="col-md-1 col-lg-1"></div>
-        <!-- <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">The 20th ACM Conference on Embedded Networked Sensor Systems, 2022 <i>(submitted)</i></div> -->
         <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11"></div>
         <!-- Tags -->
         <div class="col-md-1 col-lg-1"></div>
         <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">
-            <!-- <code class="code-margin code-highlight">ACM SenSys 22'</code> -->
-            <code class="code-margin code-highlight" style="background-color: #333333">(under review)</code>
+            <code class="code-margin code-highlight" style="background-color: #333333">(under revision)</code>
             <code class="code-margin">Computer Vision</code>
             <code class="code-margin">Deep Learning</code>
             <code class="code-margin">Multi-Object Tracking</code>
@@ -154,21 +159,22 @@ comments: false
     </div>
     <div id="hover-row-3" class="myrow">
         <!-- Topic -->
-        <div class="col-xs-12 col-sm-12 col-md-1 col-lg-1 text-xs-left text-sm-left text-md-center text-lg-center">[7]</div>
-        <!-- <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11"><strong>E-MPC: Edge-Assisted Model Predictive Control</strong></div> -->
-        <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11"><strong>Sampling-based Local Path Planning in Edge Computing for Autonomous Driving</strong></div>
+        <div class="col-xs-12 col-sm-12 col-md-1 col-lg-1 text-xs-left text-sm-left text-md-center text-lg-center">[9]</div>
+        <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11"><strong>E-MPC: Edge-assisted Model Predictive Control</strong>
+            <a style="text-decoration:none;margin-left:3px" target="_blank"
+                href="https://arxiv.org/abs/2410.00695">
+                <i class="fa fa-external-link-square"></i>
+            </a>
+        </div>
         <!-- Authors -->
         <div class="col-md-1 col-lg-1"></div>
-        <!-- <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">Y.-Y. Lou, J. Spencer, K. T. Kim, M. Chiang</div> -->
-        <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11"></div>
+        <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11"><strong>Y.-Y. Lou,</strong>, J. Spencer, K. T. Kim, M. Chiang</div>
         <!-- Conference / Journal -->
         <div class="col-md-1 col-lg-1"></div>
-        <!-- <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">The 20th ACM Conference on Embedded Networked Sensor Systems, 2022 <i>(submitted)</i></div> -->
-        <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11"></div>
+        <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">arXiv preprint arXiv:2410.00695 [cs.DC]</div>
         <!-- Tags -->
         <div class="col-md-1 col-lg-1"></div>
         <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">
-            <!-- <code class="code-margin code-highlight">ACM SenSys 22'</code> -->
             <code class="code-margin code-highlight" style="background-color: #333333">(under review)</code>
             <code class="code-margin">Edge Computing</code>
             <code class="code-margin">Automonous Driving</code>
@@ -179,21 +185,48 @@ comments: false
     </div>
     <div id="hover-row-4" class="myrow">
         <!-- Topic -->
-        <div class="col-xs-12 col-sm-12 col-md-1 col-lg-1 text-xs-left text-sm-left text-md-center text-lg-center">[6]</div>
-        <!-- <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11"><strong>Dynamic Scheduling for Multi-Tier Edge Computing in Heterogeneous Networks</strong></div> -->
-        <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11"><strong>Dynamic Task Orchestration for Multi-Tier Edge Computing in Heterogeneous Networks</strong></div>
+        <div class="col-xs-12 col-sm-12 col-md-1 col-lg-1 text-xs-left text-sm-left text-md-center text-lg-center">[8]</div>
+        <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11"><strong>Utilizing Priors in Sampling-based Cost Minimization</strong>
+            <a style="text-decoration:none;margin-left:3px" target="_blank"
+                href="https://arxiv.org/abs/2409.19834">
+                <i class="fa fa-external-link-square"></i>
+            </a>
+        </div>
         <!-- Authors -->
         <div class="col-md-1 col-lg-1"></div>
-        <!-- <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">X. Li, M. Abdallah, <strong>Y.-Y. Lou,</strong> M. Chiang, K. T. Kim, S. Bagchi</div> -->
-        <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11"></div>
+        <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11"><strong>Y.-Y. Lou,</strong>, J. Spencer, K. T. Kim, M. Chiang</div>
         <!-- Conference / Journal -->
         <div class="col-md-1 col-lg-1"></div>
-        <!-- <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">The 20th ACM Conference on Embedded Networked Sensor Systems, 2022 <i>(submitted)</i></div> -->
-        <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11"></div>
+        <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">arXiv preprint arXiv:2409.19834 [eess.SY]</div>
         <!-- Tags -->
         <div class="col-md-1 col-lg-1"></div>
         <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">
-            <!-- <code class="code-margin code-highlight">ACM SenSys 22'</code> -->
+            <code class="code-margin code-highlight">arXiv</code>
+            <code class="code-margin">Automonous Driving</code>
+            <code class="code-margin">Model Predictive Control</code>
+            <code class="code-margin">Probability Sampling</code>
+            <code class="code-margin">Optimization</code>
+            <code class="code-margin">Data Collection and Analysis</code>
+        </div>
+    </div>
+    <div id="hover-row-5" class="myrow">
+        <!-- Topic -->
+        <div class="col-xs-12 col-sm-12 col-md-1 col-lg-1 text-xs-left text-sm-left text-md-center text-lg-center">[7]</div>
+        <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11"><strong>Dynamic DAG-Application Scheduling for Multi-Tier Edge Computing in Heterogeneous Networks</strong>
+            <a style="text-decoration:none;margin-left:3px" target="_blank"
+                href="https://arxiv.org/abs/2409.10839">
+                <i class="fa fa-external-link-square"></i>
+            </a>
+        </div>
+        <!-- Authors -->
+        <div class="col-md-1 col-lg-1"></div>
+        <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">X. Li, M. Abdallah, <strong>Y.-Y. Lou,</strong> M. Chiang, K. T. Kim, S. Bagchi</div>
+        <!-- Conference / Journal -->
+        <div class="col-md-1 col-lg-1"></div>
+        <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">arXiv preprint arXiv:2409.10839 [cs.NI]</div>
+        <!-- Tags -->
+        <div class="col-md-1 col-lg-1"></div>
+        <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">
             <code class="code-margin code-highlight" style="background-color: #333333">(under review)</code>
             <code class="code-margin">Edge Computing</code>
             <code class="code-margin">Distributed Systems</code>
@@ -202,9 +235,9 @@ comments: false
             <code class="code-margin">CBRS 4G / 5G Sub-6</code>
         </div>
     </div>
-    <div id="hover-row-5" class="myrow">
+    <div id="hover-row-6" class="myrow">
         <!-- Topic -->
-        <div class="col-xs-12 col-sm-12 col-md-1 col-lg-1 text-xs-left text-sm-left text-md-center text-lg-center">[5]</div>
+        <div class="col-xs-12 col-sm-12 col-md-1 col-lg-1 text-xs-left text-sm-left text-md-center text-lg-center">[6]</div>
         <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">
             <strong>Intelligent Network Edge with Distributed SDN for the Future 6G Network</strong>
             <a style="text-decoration:none;margin-left:3px" target="_blank"
@@ -226,9 +259,9 @@ comments: false
             <code class="code-margin">Distributed SDN</code>
         </div>
     </div>
-    <div id="hover-row-6" class="myrow">
+    <div id="hover-row-7" class="myrow">
         <!-- Topic -->
-        <div class="col-xs-12 col-sm-12 col-md-1 col-lg-1 text-xs-left text-sm-left text-md-center text-lg-center">[4]</div>
+        <div class="col-xs-12 col-sm-12 col-md-1 col-lg-1 text-xs-left text-sm-left text-md-center text-lg-center">[5]</div>
         <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">
             <strong>Chapter 13 - Development of Wearable Services with Edge Devices</strong>
             <a style="text-decoration:none;margin-left:3px" target="_blank"
@@ -253,9 +286,9 @@ comments: false
             <code class="code-margin">Android</code>
         </div>
     </div>
-    <div id="hover-row-7" class="myrow">
+    <div id="hover-row-8" class="myrow">
         <!-- Topic -->
-        <div class="col-xs-12 col-sm-12 col-md-1 col-lg-1 text-xs-left text-sm-left text-md-center text-lg-center">[3]</div>
+        <div class="col-xs-12 col-sm-12 col-md-1 col-lg-1 text-xs-left text-sm-left text-md-center text-lg-center">[4]</div>
         <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">
             <strong>Modularized Service Provisioning at Fog Networks</strong>
         </div>
@@ -275,7 +308,33 @@ comments: false
             <code class="code-margin">System Design</code>
         </div>
     </div>
-    <div id="hover-row-8" class="myrow">
+    <div id="hover-row-9" class="myrow">
+        <!-- Topic -->
+        <div class="col-xs-12 col-sm-12 col-md-1 col-lg-1 text-xs-left text-sm-left text-md-center text-lg-center">[3]</div>
+        <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">
+            <strong>Fog-based Virtualization for Low-Latency Wearable Services</strong>
+            <a style="text-decoration:none;margin-left:3px" target="_blank"
+                href="https://tdr.lib.ntu.edu.tw/handle/123456789/68366?locale=en">
+                <i class="fa fa-external-link-square"></i>
+            </a>
+        </div>
+        <!-- Authors -->
+        <div class="col-md-1 col-lg-1"></div>
+        <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11"><strong>Y.-Y. Lou</strong></div>
+        <!-- Conference / Journal -->
+        <div class="col-md-1 col-lg-1"></div>
+        <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">National Taiwan University Master's Thesis, 2017</div>
+        <!-- Tags -->
+        <div class="col-md-1 col-lg-1"></div>
+        <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">
+            <code class="code-margin code-highlight">NTU </code>
+            <code class="code-margin">Fog-Edge Computing</code>
+            <code class="code-margin">Microservice Offloading</code>
+            <code class="code-margin">Android Wear</code>
+            <code class="code-margin">Testbed Deployment</code>
+        </div>
+    </div>
+    <div id="hover-row-10" class="myrow">
         <!-- Topic -->
         <div class="col-xs-12 col-sm-12 col-md-1 col-lg-1 text-xs-left text-sm-left text-md-center text-lg-center">[2]</div>
         <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">
@@ -301,7 +360,7 @@ comments: false
             <code class="code-margin">Greedy / Heuristic</code>
         </div>
     </div>
-    <div id="hover-row-9" class="myrow">
+    <div id="hover-row-11" class="myrow">
         <!-- Topic-->
         <div class="col-xs-12 col-sm-12 col-md-1 col-lg-1 text-xs-left text-sm-left text-md-center text-lg-center">[1]</div>
         <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">
@@ -332,7 +391,7 @@ comments: false
 
 <!-- Education -->
 <h2 id="edu-title" class="resume-title"><a id="edu-sec" href="#edu-title" onclick="expand_section('edu')">Education <i id="edu-icon" class="fa fa-plus-square"></i></a>
-    <a id="edu-detail" href="#" onclick="show_detail(this.id, ['edu-1', 'edu-2'])" style="display: none"><i id="edu-detail-1" class="fa fa-toggle-off"></i></a>
+    <a id="edu-detail" href="#" onclick="show_detail(this.id, ['edu-1', 'edu-2', 'edu-4'])" style="display: none"><i id="edu-detail-1" class="fa fa-toggle-off"></i></a>
 </h2>
 <div id="edu" style="display: none">
     <div id="row-edu-1" class="myrow hover">
@@ -349,8 +408,8 @@ comments: false
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10"><div class="myline"></div></div>
             <div class="col-lg-2"></div>
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10" style="font-size:15.5px">
-                <li>Advisors: <a href="https://www.linkedin.com/in/mung-chiang-9511445/" target= "_blank">Prof. Mung Chiang</a>, <a href="https://kimkt.com/" target= "_blank"> Prof. Kwang Taik Kim</a></li>
-                <li>Coursework: Computer Network Systems, Theory of Linear Model, Deep Learning, Programming Parallel Machines
+                <li>Advisors: <a href="https://www.linkedin.com/in/mung-chiang-9511445/" target= "_blank">Mung Chiang</a>, <a href="https://kimkt.com/" target= "_blank"> Kwang Taik Kim</a></li>
+                <li>Coursework: Computer Network Systems, Programming Parallel Machines, Theory of Linear Model, Deep Learning, Reinforcement Learning Theory and Algorithm
                     <!-- <code class="code-link"><i class="fa fa-book"></i> Notes</code> -->
                 </li>
             </div>
@@ -370,7 +429,7 @@ comments: false
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10"><div class="myline"></div></div>
             <div class="col-lg-2"></div>
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10" style="font-size:15.5px">
-                <li>Advisor: <a href="https://www.csie.ntu.edu.tw/~acpang/" target= "_blank">Prof. Ai-Chun Pang</a></li>
+                <li>Advisor: <a href="https://www.csie.ntu.edu.tw/~acpang/" target= "_blank">Ai-Chun Pang</a></li>
                 <li>Thesis: <a href="https://tdr.lib.ntu.edu.tw/jspui/handle/123456789/68366?locale=en" target= "_blank">Fog-based Virtualization for Low-latency Wearable Services</a></li>
             </div>
         </div>
@@ -384,18 +443,40 @@ comments: false
         <div class="col-lg-2"></div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10">English as a Second Language (ESL) Program - Level 5</div>
     </div>
-    <div id="row-edu-4" class="myrow" style="margin-top: 25px">
+    <div id="row-edu-4" class="myrow hover">
         <!-- Time Range / Institution / Location -->
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-2"> Sep. 2011 - Jun. 2015 </div>
-        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6"><strong>National Chiao Tung University</strong></div>
+        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6" onclick="expand('edu-4')" style="cursor:pointer"><strong>National Chiao Tung University</strong></div>
         <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4 text-xs-left text-sm-right text-md-right text-lg-right"><i class="fa fa-map-marker add-margin"></i>Hsinchu, Taiwan</div>
         <!-- Title -->
         <div class="col-lg-2"></div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10">B.S. in Computer Science <code>GPA: 3.8 / 4.0</code></div>
+        <!-- Detail -->
+        <div id="edu-4" style="display:none">
+            <div class="col-lg-2"></div>
+            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10"><div class="myline"></div></div>
+            <div class="col-lg-2"></div>
+            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10" style="font-size:15.5px">
+                <li>Mentors: Yi-Ping You, Shiao-Li Tsao, T. Russell Hsing</li>
+                <li>Project: Accelerating HEVC by Adopting GPGPU/CUDA (NSTC Taiwan Research Grant 103-2815-C-009-043-E)</li>
+            </div>
+        </div>
     </div>
     <!-- Honors . Awards -->
     <h2 id="award-title" class="resume-title"><a id="award-sec" href="#award-title">Honors . Awards</a></h2>
     <div id="row-award-1" class="myrow">
+        <!-- Date / Title / Institute -->
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-2">Dec. 2022</div>
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6">
+            <strong>Machine Learning</strong>
+            <a style="text-decoration: none; margin-left: 3px" target="_blank"
+                href="https://coursera.org/share/58477314fc5ead6db931bab81c1328b2">
+                <i class="fa fa-external-link-square"></i>
+            </a>
+        </div>
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4 text-xs-left text-sm-left text-md-left text-lg-right"><i class="fa fa-thumb-tack add-margin"></i>Coursera / Stanford Online</div>
+    </div>
+    <div id="row-award-2" class="myrow">
         <!-- Date / Title / Institute -->
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-2">Aug. 2021</div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6">
@@ -407,41 +488,47 @@ comments: false
         </div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4 text-xs-left text-sm-left text-md-left text-lg-right"><i class="fa fa-thumb-tack add-margin"></i>Coursera / AWS</div>
     </div>
-    <div id="row-award-2" class="myrow">
+    <div id="row-award-3" class="myrow">
         <!-- Date / Title / Institute -->
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-2">Jun. 2021</div>
-        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4"><strong>Speaker in Edge and Fog Computing Track</strong></div>
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4">
+            <strong>Speaker in Edge and Fog Computing Track</strong>
+            <a style="text-decoration: none; margin-left: 3px" target="_blank"
+                href="https://wfiot2021.iot.ieee.org/edge-compute/">
+                <i class="fa fa-external-link-square"></i>
+            </a>
+        </div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6 text-xs-left text-sm-left text-md-left text-lg-right"><i class="fa fa-thumb-tack add-margin"></i>IEEE 7th World Forum on Internet of Thing (WF-IoT)</div>
     </div>
-    <div id="row-award-2" class="myrow">
+    <div id="row-award-4" class="myrow">
         <!-- Date / Title / Institute -->
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-2">Dec. 2020</div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4"><strong>IEEE Winter School on Fog/Edge Computing</strong></div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6 text-xs-left text-sm-left text-md-left text-lg-right"><i class="fa fa-thumb-tack add-margin"></i>IEEE SA & ComSoc</div>
     </div>
-    <div id="row-award-3" class="myrow">
+    <div id="row-award-5" class="myrow">
         <!-- Date / Title / Institute -->
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-2">Jun. 2017</div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4"><strong>Valedictorian of Graduation Ceremony</strong></div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6 text-xs-left text-sm-left text-md-left text-lg-right"><i class="fa fa-thumb-tack add-margin"></i>Dept. of CS, National Taiwan University</div>
     </div>
-    <div id="row-award-4" class="myrow">
+    <div id="row-award-6" class="myrow">
         <!-- Date / Title / Institute -->
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-2">Feb. 2017 / May. 2017</div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4"><strong>Outstanding Teaching Assistant Awards</strong> <code>x2</code></div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6 text-xs-left text-sm-left text-md-left text-lg-right"><i class="fa fa-thumb-tack add-margin"></i>National Taiwan University</div>
     </div>
-    <div id="row-award-5" class="myrow">
+    <div id="row-award-7" class="myrow">
         <!-- Date / Title / Institute -->
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-2">Jun. 2014 / Jun. 2015</div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4"><strong>Presidential Awards</strong> <code>x2</code></div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6 text-xs-left text-sm-left text-md-left text-lg-right"><i class="fa fa-thumb-tack add-margin"></i>National Chiao Tung University</div>
     </div>
-    <div id="row-award-6" class="myrow">
+    <div id="row-award-8" class="myrow">
         <!-- Date / Title / Institute -->
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-2">Jul. 2014</div>
-        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4"><strong>Research Project Funding</strong></div>
-        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6 text-xs-left text-sm-left text-md-left text-lg-right"><i class="fa fa-thumb-tack add-margin"></i>Ministry of Science and Technology (Taiwan)</div>
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-4"><strong>Research Project Funding (103-2815-C-009-043-E)</strong></div>
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6 text-xs-left text-sm-left text-md-left text-lg-right"><i class="fa fa-thumb-tack add-margin"></i>National Science and Technology Council (Taiwan)</div>
     </div>
 </div>
 
@@ -483,19 +570,20 @@ comments: false
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10"><div class="myline"></div></div>
             <div class="col-lg-2"></div>
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10" style="font-size:15.5px">
-                <strong>Open Edge Platform</strong>
-                <li>Design and propose alternative open architecture of MEC and O-RAN integrated systems to optimize edge applications and RAN performance jointly</li>
-                <li>Quantify and analyze trade-off between each option of open architecture including deployment of radio and computing nodes and RAN functional splits</li>
-                <li>Explore deep reinforcement learning and adapt collaborative intelligence in containerized systems to orchestrate RAN control tasks and optimize edge services</li>
-                <li>Deploy computation offloading framework of multi-tier edge computing in real testbed on CBRS 4G network and evaluated end-to-end latency<sup style="margin-left:2px">[6]</sup></li>
-                <br>
-                <strong>Autonomous Vehicles</strong>
-                <li>Introduce novel framework of edge-assisted model predictive control in local path planning to exploit unique characteristics of edge network<sup style="margin-left:2px">[7]</sup></li>
-                <li>Identify and analyze three different ways of heterogeneity of edge networks to benefit robot agents and reduce cost-to-go</li>
-                <li>Conduct series of numerical evaluations with visualized driving results to demonstrate effectiveness and performance advantages of each method</li>
-                <!-- <li>Focused on architectural design of microservice-based edge platform to optimize edge applications and RAN performance</li>
-                <li>Investigated path planning in autonomous driving to optimize predictive motion control in heterogeneous edge networks <sup style="margin-left:2px">[1]</sup></li>
-                <li>Explored multi-tier edge computing and built computation offloading framework upon real testbed in 4G network <sup style="margin-left:2px">[2]</sup></li> -->
+                <strong>AI-ML / DRL for Joint Optimization of Network and Application in 5G/6G</strong><sup style="margin-left:2px">[11]</sup>
+                <li>Trained multi-agent reinforcement learning (MARL) model for network deployment policy by considering multi-dimensional trade-offs in joint optimization</li>
+                <strong>Edge Computing for Path Planning in Autonomous Driving</strong><sup style="margin-left:2px">[8, 9]</sup>
+                <li>Optimized local path planning by collaborative and sampling-based model predictive control (MPC) method with driving data analysis in edge networks</li>
+                <strong>Network Testbed Deployment for Smart Factory Applications (Digital Twin)</strong>
+                <li>Deployed 5G and Wi-Fi 6E testbeds and trained DL model for defect detection using Amazon dataset (ARMBench) for performance comparison and analysis</li>
+                <strong>Multi-object Tracking (MOT) and Detection System for Embedded Devices</strong><sup style="margin-left:2px">[10]</sup>
+                <li>Designed MOT system by using static and dynamic matching approaches along with content-aware dynamic sampling technique, achieving 63.12% MOT accuracy</li>
+                <strong>Multi-tier Computation Offloading Framework in 6G Edge Cloud</strong><sup style="margin-left:2px">[7]</sup>
+                <li>Proposed multi-tier edge computing system including device cloud concept to schedule offloading tasks in 4G testbed, optimizing latency and reducing cost</li>
+                <strong>Leadership and Collaboration</strong>
+                <li>Mentor undergraduate students to study Robot Operating System (ROS) and explore computer networking projects in 5G area</li>
+                <li>Work with industry partners with 10+ engineers to bridge the gap between theory and practice of deploying and orchestrating software-defined cellular systems</li>
+                <li>Collaborate with Purdue research teams on AI IoT and Industry 4.0 projects including collaborative video analysis for multi-object tracking (MOT) <sup style="margin-left:2px">[7, 10]</sup></li>
             </div>
         </div>
     </div>
@@ -525,10 +613,11 @@ comments: false
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10"><div class="myline"></div></div>
             <div class="col-lg-2"></div>
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10" style="font-size:15.5px">
+                <strong>DevOps and Cloud Application Development</strong>
                 <li>Deployed multi-agency management platform on AWS using Frappe framework to support five industry partners</li>
                 <li>Developed DevOps toolkit in Python automating product deployment and management to improve scalability</li>
                 <li>Automated Flask Eve API testing using Postman and Python to boost product robustness</li>
-                <li>Improved free-trial feature of Bootstrap-based official website to speed up product delivery</li>
+                <li>Enhanced free-trial feature of Bootstrap-based official website to speed up product delivery</li>
                 <li>
                     Released internal documents of developed products and tools and publish tutorial of Frappe pp development on GitHub
                     <a href="https://github.com/yylou/frappe-apps" style="text-decoration:none" target="_blank"><code class="code-link" id="link-se-iot"><i class="fa fa-github"></i> GitHub Repo</code></a>
@@ -559,12 +648,13 @@ comments: false
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10"><div class="myline"></div></div>
             <div class="col-lg-2"></div>
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10" style="font-size:15.5px">
-                <li>Proposed distributed SDNs system coupled with localized edge platforms and storage to support autonomous driving</li>
+                <strong>Distributed SDN and Edge Computing for 6G Networks</strong>
+                <li>Proposed distributed SDN system coupled with localized edge platforms and storage to support emerging applications such as autonomous driving</li>
                 <li>
-                    Served as speaker in Edge and Fog Computing track on IEEE 7th World Forum on Internet of Things (WF-IoT)
+                    Served as speaker in Edge and Fog Computing track on IEEE 7th World Forum on Internet of Things (WF-IoT) in 2021
                     <a href="https://wfiot2021.iot.ieee.org/edge-compute/" style="text-decoration:none" target="_blank"><code class="code-link" id="link-rs-ir"><i class="fa fa-link"></i> IEEE WF-IoT</code></a>
                 </li>
-                <li>Published an introductory paper on IEEE COMCAS 2021 <sup style="margin-left:2px">[5]</sup></li>
+                <li>Published an introductory paper on IEEE COMCAS 2021 <sup style="margin-left:2px">[6]</sup></li>
             </div>
         </div>
     </div>
@@ -593,24 +683,24 @@ comments: false
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10"><div class="myline"></div></div>
             <div class="col-lg-2"></div>
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10" style="font-size:15.5px">
-                <strong>Development</strong>
-                <li>Devised microservice-based platform in on-premise servers automating design flows and improving verification robustness to boost development efficiency</li>
+                <strong>Design Flow Automation and In-house EDA Tool Development</strong>
+                <li>Deployed microservice system in on-premise servers to automate 7/16 nm IC design flows, boosting development efficiency and improving verification robustness</li>
                 <li>Developed in-house design verification tools reviewing timing and power requirements to improve reliability</li>
                 <li>Automated library maintenance flow using Python and shell script to save manual effort by up to 80%</li>
                 <br>
-                <strong>Leadership</strong>
+                <strong>Leadership and Communication</strong>
+                <li>Acted as project leader to cooperate with industry partners (TSMC, Synopsys) for establishing design flows in new IC technology nodes</li>
                 <li>Cooperated with Human Resources as technical campus recruiter to promote on-campus brand awareness</li>
-                <li>Acted as primary external contact person to collaborate with international companies for researching new solutions</li>
                 <li>Established programming disciplines (Python) and organized training sessions for new employees</li>
-                <li><strong>Promoted twice within 24 months for outstanding performance on software development and solution finding</strong></li>
+                <li><u>Promoted twice within 24 months</u> for outstanding performance on software development and solution finding</li>
             </div>
         </div>
     </div>
-    <!-- MOST -->
+    <!-- NSTC -->
     <div id="row-exp-rs3" class="myrow hover">
         <!-- Time Range / Title / Location -->
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-2">Sep. 2015 - Sep. 2017</div>
-        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6" onclick="expand('hide-5')" style="cursor:pointer"><strong>Ministry of Science and Technology (Taiwan)</strong></div>
+        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6" onclick="expand('hide-5')" style="cursor:pointer"><strong>National Science and Technology Council (Taiwan)</strong></div>
         <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4 text-xs-left text-sm-right text-md-right text-lg-right"><i class="fa fa-map-marker add-margin"></i>Taipei, Taiwan</div>
         <!-- Institution -->
         <div class="col-lg-2"></div>
@@ -631,26 +721,17 @@ comments: false
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10"><div class="myline"></div></div>
             <div class="col-lg-2"></div>
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10" style="font-size:15.5px">
-                <strong>Wearable Edge Computing</strong>
-                <li>Proposed Virtual Local-Hub framework to enable microservice computation offloading for Android devices</li>
-                <li>Hacked Android OS to intercept system calls and redirect application API calls to wireless base stations</li>
+                <strong>Microservice-based Computation Offloading for Wearable Devices</strong>
+                <li>Proposed microservice-based function module sharing framework (Virtual Local-Hub) for Android wearable devices by edge computing and WiFi P2P concept</li>
+                <li>Modified Android Wear OS to intercept system calls and redirect application API calls to wireless base stations for offloading orchestration</li>
                 <li>Reduced execution time of wearable microservices by up to 60% and CPU usage by up to 70%</li>
-                <li>Published conference paper on ACM MSWiM 2016 and book chapter in 2020<sup style="margin-left:2px">[2, 3, 4]</sup></li>
+                <li>Published conference paper on ACM MSWiM 2016 and book chapter in 2020<sup style="margin-left:2px">[2, 3, 4, 5]</sup></li>
                 <br>
                 <strong>Networked System Development</strong>
-                <li>Built real WLAN testbed from scratch including DHCP and NAT configuration to evaluate E2E latency and power consumption of wearable edge computing framework</li>
-                <li>Designed telemetry platform using Django to monitor system and manage service provisioning
+                <li>Built WLAN testbed from scratch including DHCP and NAT to evaluate E2E latency and power consumption of wearable edge computing framework</li>
+                <li>Designed telemetry platform using Django to monitor system performance and manage service provisioning
                     <a href="https://www.cakeresume.com/portfolios/network-dashboard" style="text-decoration:none" target="_blank"><code class="code-link" id="link-rs-most"><i class="fa fa-link"></i> Portfolio</code></a></li>
-                <li>Developed latency-sensitive applications on Android devices such as speech recognition using CMUSphinx</li>
-                <!-- <li>Proposed Virtual Local-Hub framework to enable microservice computation offloading for Android devices</li>
-                <li>Conducted real experiments by deploying local area network to evaluate E2E latency and power consumption</li>
-                <li>
-                    Designed telemetry dashboard using Django to monitor system performance and manage service provisioning
-                    <a href="https://www.cakeresume.com/portfolios/network-dashboard" style="text-decoration:none" target="_blank"><code class="code-link" id="link-rs-most"><i class="fa fa-link"></i> Portfolio</code></a>
-                </li>
-                <li>Reduced execution time of wearable microservices by up to 60% and wearable devices' CPU usage by up to 70%</li>
-                <li>Developed latency-sensitive applications on wearable and edge devices (CMUSphinx Open Source Speech Recognition)</li>
-                <li>Published conference papers on ACM MSWiM 2016 and IEEE VTS APWCS 2018 and one book chapter in 2020 <sup style="margin-left:2px">[4] [5] [6]</sup></li> -->
+                <li>Developed latency-sensitive applications on Android devices such as speech recognition in natural language processing by CMUSphinx</li>
             </div>
         </div>
     </div>
@@ -679,7 +760,7 @@ comments: false
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10"><div class="myline"></div></div>
             <div class="col-lg-2"></div>
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10" style="font-size:15.5px">
-                <strong>4G LTE (RRC/DRX) & IoT</strong>
+                <strong>4G LTE IoT Session Management for Balancing Latency, Power, and Signaling</strong>
                 <li>Built Markov chain model based on RRC inference algorithms in AT&T tools to analyze DRX impact on 4G LTE IoT session factors (signal load, power, delay)</li>
                 <li>Conduct probabilistic model simulations to reveal the efficacy of algorithms in power saving and signal reduction for IoT</li>
                 <li>Developed toolkits based on AT&T Lab tools to analyze packets and profile Android apps performance</li>
@@ -712,12 +793,13 @@ comments: false
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10"><div class="myline"></div></div>
             <div class="col-lg-2"></div>
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10" style="font-size:15.5px">
-                <strong>TCP/IP & Socket Programming</strong>
+                <strong>TCP/IP & Socket Programming in C++/Python</strong>
                 <li>Lectured TCP/IP protocol (802.11, 802.3) and demonstrated network packet monitoring and analysis using WireShark</li>
                 <li>Designed IRC chatbot application as project assignment to teach students socket programming 
                     <!-- <code class="code-link"><i class="fa fa-github"></i> GitHub Repo</code> -->
                 </li>
-                <li>Enhanced program robustness by peer-testing system and stimulated creativity by flexible score criterion</li>
+                <li>Enhanced program robustness by peer-testing system and promoted creativity by flexible score criterion</li>
+                <li>Assigned paper readings and hold course seminar for final evaluation</li>
                 <li>Received two times of Outstanding Teaching Assistant awards</li>
             </div>
         </div>
