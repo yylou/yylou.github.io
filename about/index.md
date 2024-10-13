@@ -34,7 +34,7 @@ comments: false
         <div class="col-xs-12 col-sm-12 col-md-2 col-lg-2">
             <strong>Research</strong>
         </div>
-        <div class="col-xs-12 col-sm-12 col-md-10 col-lg-10" style="font-weight:600">
+        <div class="col-xs-12 col-sm-12 col-md-10 col-lg-10">
             <code class="code-margin">Wireless Communication</code>
             <code class="code-margin">Distributed System</code>
             <code class="code-margin">Cloud-Edge Computing</code>
