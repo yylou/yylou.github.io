@@ -621,7 +621,7 @@ comments: false
             <code id="tag-rs5-1">NextG System Design</code>
             <code id="tag-rs5-2">Integrated Computation and Communication (ICC)</code>
             <code id="tag-rs5-3">Distributed Inference</code>
-            <code id="tag-rs5-4">LLM</code>
+            <code id="tag-rs5-4">GenAI / LLM</code>
         </div>
         <!-- Details -->
         <div id="hide-7" style="display:none">
