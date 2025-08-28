@@ -583,7 +583,7 @@ comments: false
         <!-- Time Range / Title / Location -->
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-2">Jun. 2025 - Aug. 2025</div>
         <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6" onclick="expand('hide-8')" style="cursor:pointer"><strong>Meta Paltforms <a href="https://www.nasdaq.com/market-activity/stocks/meta" style="text-decoration:none" target="_blank"><code id="nasdaq-se3-meta">NASDAQ: META</code></a></strong></div>
-        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4 text-xs-left text-sm-right text-md-right text-lg-right"><i class="fa fa-map-marker add-margin"></i>West Lafayette, IN, USA</div>
+        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4 text-xs-left text-sm-right text-md-right text-lg-right"><i class="fa fa-map-marker add-margin"></i>Menlo Park, CA, USA</div>
         <!-- Institution -->
         <div class="col-lg-2"></div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10">Software Engineer Intern, Systems and Infrastructure (PhD)</div>
