@@ -580,7 +580,7 @@ comments: false
     <div id="row-exp-se3" class="myrow hover">
         <!-- Time Range / Title / Location -->
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-2">Jun. 2025 - Aug. 2025</div>
-        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6" onclick="expand('hide-8')" style="cursor:pointer"><strong>Meta Paltforms <a href="https://www.nasdaq.com/market-activity/stocks/meta" style="text-decoration:none" target="_blank"><code>NASDAQ: META</code></a></strong></div>
+        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6" onclick="expand('hide-8')" style="cursor:pointer"><strong>Meta Paltforms <a href="https://www.nasdaq.com/market-activity/stocks/meta" style="text-decoration:none" target="_blank"><code id="nasdaq-se3-meta">NASDAQ: META</code></a></strong></div>
         <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4 text-xs-left text-sm-right text-md-right text-lg-right"><i class="fa fa-map-marker add-margin"></i>West Lafayette, IN, USA</div>
         <!-- Institution -->
         <div class="col-lg-2"></div>
@@ -747,7 +747,7 @@ comments: false
     <div id="row-exp-se1" class="myrow hover">
         <!-- Time Range / Title / Location -->
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-2">Dec. 2017 - Apr. 2021</div>
-        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6" onclick="expand('hide-3')" style="cursor:pointer"><strong>Silicon Motion - Algorithm and Technology R&D Center <a href="https://www.nasdaq.com/market-activity/stocks/simo" style="text-decoration:none" target="_blank"><code>NASDAQ: SIMO</code></a></strong></div>
+        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6" onclick="expand('hide-3')" style="cursor:pointer"><strong>Silicon Motion - Algorithm and Technology R&D Center <a href="https://www.nasdaq.com/market-activity/stocks/simo" style="text-decoration:none" target="_blank"><code id="nasdaq-se1-simo">NASDAQ: SIMO</code></a></strong></div>
         <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4 text-xs-left text-sm-right text-md-right text-lg-right"><i class="fa fa-map-marker add-margin"></i>Milpitas, CA, USA / Taipei, Taiwan</div>
         <!-- Institution -->
         <div class="col-lg-2"></div>

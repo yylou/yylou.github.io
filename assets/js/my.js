@@ -185,6 +185,7 @@ function highlight(id) {
         "row-exp-rs2", "tag-rs2-1", "tag-rs2-2", "tag-rs2-3", "tag-rs2-4", "tag-rs2-5", /* NSTC */
         "row-exp-rs1", "tag-rs1-1", "tag-rs1-2", "tag-rs1-3", "tag-rs1-4", "tag-rs1-5", "tag-rs1-6", /* Princeton */
         "link-se-iot", "link-rs-ir", "link-rs-most",
+        "nasdaq-se1-simo", "nasdaq-se3-meta",
 
     ];
 
