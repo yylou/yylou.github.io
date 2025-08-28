@@ -582,7 +582,7 @@ comments: false
     <div id="row-exp-se3" class="myrow hover">
         <!-- Time Range / Title / Location -->
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-2">Jun. 2025 - Aug. 2025</div>
-        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6" onclick="expand('hide-8')" style="cursor:pointer"><strong>Meta Paltforms <a href="https://www.nasdaq.com/market-activity/stocks/meta" style="text-decoration:none" target="_blank"><code id="nasdaq-se3-meta">NASDAQ: META</code></a></strong></div>
+        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6" onclick="expand('hide-8')" style="cursor:pointer"><strong>Meta Platforms <a href="https://www.nasdaq.com/market-activity/stocks/meta" style="text-decoration:none" target="_blank"><code id="nasdaq-se3-meta">NASDAQ: META</code></a></strong></div>
         <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4 text-xs-left text-sm-right text-md-right text-lg-right"><i class="fa fa-map-marker add-margin"></i>Menlo Park, CA, USA</div>
         <!-- Institution -->
         <div class="col-lg-2"></div>
@@ -590,12 +590,23 @@ comments: false
         <!-- Tags -->
         <div class="col-lg-2"></div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10">
-            <i class="fa fa-hashtag hash-tag-spacing"></i>
+            <i class="fa fa-tags hash-tag-spacing"></i>
             <code id="tag-se3-1">AI System Simulation</code>
             <code id="tag-se3-2">LLM Pre-training Workloads</code>
             <code id="tag-se3-3">GPU Training Clusters</code>
             <code id="tag-se3-4">NCCL</code>
-            <code id="tag-se3-4">RDMA / RoCE</code>
+            <code id="tag-se3-5">RDMA / RoCE</code>
+        </div>
+        <!-- Tech Stack -->
+        <div class="col-lg-2"></div>
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10">
+            <i class="fa fa-database db-spacing"></i>
+            <code id="tag-se3-1">Python</code>
+            <code id="tag-se3-2">C++</code>
+            <code id="tag-se3-3">Thrift (RPC)</code>
+            <code id="tag-se3-4">CI/CD</code>
+            <code id="tag-se3-5">Software Performance Profilers</code>
+            <code id="tag-se3-6">Jupyter Notebooks</code>
         </div>
         <!-- Details -->
         <div id="hide-8" style="display:none">
@@ -618,11 +629,20 @@ comments: false
         <!-- Tags -->
         <div class="col-lg-2"></div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10">
-            <i class="fa fa-hashtag hash-tag-spacing"></i>
+            <i class="fa fa-tags hash-tag-spacing"></i>
             <code id="tag-rs5-1">NextG System Design</code>
             <code id="tag-rs5-2">Integrated Computation and Communication (ICC)</code>
             <code id="tag-rs5-3">Distributed Inference</code>
             <code id="tag-rs5-4">GenAI / LLM</code>
+        </div>
+        <!-- Tech Stack -->
+        <div class="col-lg-2"></div>
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10">
+            <i class="fa fa-database db-spacing"></i>
+            <code id="tag-rs5-1">Python</code>
+            <code id="tag-rs5-2">SimPy</code>
+            <code id="tag-rs5-3">System-Level Simulation</code>
+            <code id="tag-rs5-4">5G NR</code>
         </div>
         <!-- Details -->
         <div id="hide-7" style="display:none">
@@ -645,11 +665,23 @@ comments: false
         <!-- Tags -->
         <div class="col-lg-2"></div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10">
-            <i class="fa fa-hashtag hash-tag-spacing"></i>
-            <code id="tag-rs4-1">Edge Computing</code>
-            <code id="tag-rs4-2">RAN</code>
+            <i class="fa fa-tags hash-tag-spacing"></i>
+            <code id="tag-rs4-1">RAN Architecture</code>
+            <code id="tag-rs4-2">Edge Computing</code>
             <code id="tag-rs4-3">Autonomous Driving</code>
-            <code id="tag-rs4-4">Computation Offloading</code>
+            <code id="tag-rs4-4">Computer Vision</code>
+            <code id="tag-rs4-5">Multi-agent Reinforcement Learning (MARL)</code>
+        </div>
+        <!-- Tech Stack -->
+        <div class="col-lg-2"></div>
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10">
+            <i class="fa fa-database db-spacing"></i>
+            <code id="tag-rs5-1">Python</code>
+            <code id="tag-rs5-2">Pytorch</code>
+            <code id="tag-rs5-3">SimPy</code>
+            <code id="tag-rs5-4">System-Level Simulation</code>
+            <code id="tag-rs5-5">ns-3</code>
+            <code id="tag-rs5-6">Networked Testbed (4G/5G CBRS, Wi-Fi 6E)</code>
         </div>
         <!-- Details -->
         <div id="hide-6" style="display:none">
@@ -657,7 +689,7 @@ comments: false
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10"><div class="myline"></div></div>
             <div class="col-lg-2"></div>
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10" style="font-size:15.5px">
-                <strong>AI-ML / DRL for Joint Optimization of Network and Application in 5G/6G</strong><sup style="margin-left:2px">[12]</sup>
+                <!-- <strong>AI-ML / DRL for Joint Optimization of Network and Application in 5G/6G</strong><sup style="margin-left:2px">[12]</sup>
                 <li>Trained multi-agent reinforcement learning (MARL) model for network deployment policy by considering multi-dimensional trade-offs in joint optimization</li>
                 <strong>Edge Computing for Path Planning in Autonomous Driving</strong><sup style="margin-left:2px">[8, 9]</sup>
                 <li>Optimized local path planning by collaborative and sampling-based model predictive control (MPC) method with driving data analysis in edge networks</li>
@@ -670,7 +702,7 @@ comments: false
                 <strong>Leadership and Collaboration</strong>
                 <li>Mentor undergraduate students to study Robot Operating System (ROS) and explore computer networking projects in 5G area</li>
                 <li>Work with industry partners with 10+ engineers to bridge the gap between theory and practice of deploying and orchestrating software-defined cellular systems</li>
-                <li>Collaborate with Purdue research teams on AI IoT and Industry 4.0 projects including collaborative video analysis for multi-object tracking (MOT) <sup style="margin-left:2px">[7, 10]</sup></li>
+                <li>Collaborate with Purdue research teams on AI IoT and Industry 4.0 projects including collaborative video analysis for multi-object tracking (MOT) <sup style="margin-left:2px">[7, 10]</sup></li> -->
             </div>
         </div>
     </div>
@@ -686,13 +718,23 @@ comments: false
         <!-- Tags -->
         <div class="col-lg-2"></div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10">
-            <i class="fa fa-hashtag hash-tag-spacing"></i>
-            <code id="tag-se2-1">DevOps</code>
-            <code id="tag-se2-2">Cloud</code>
-            <code id="tag-se2-3">AWS EC2</code>
-            <code id="tag-se2-4">Frappe</code>
-            <code id="tag-se2-5">Flask</code>
-            <code id="tag-se2-6">Open-source</code>
+            <i class="fa fa-tags hash-tag-spacing"></i>
+            <code id="tag-se2-1">Cloud Application</code>
+            <code id="tag-se2-2">DevOps</code>
+            <code id="tag-se2-3">Multi-agency Management Platform</code>
+            <code id="tag-se2-4">Low-code</code>
+            <a href="https://github.com/yylou/frappe-apps" style="text-decoration:none" target="_blank"><code id="tag-se2-5"><i class="fa fa-link"></i> <u>Open-source</u></code></a>
+        </div>
+        <!-- Tech Stack -->
+        <div class="col-lg-2"></div>
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10">
+            <i class="fa fa-database db-spacing"></i>
+            <code id="tag-se2-1">Python</code>
+            <code id="tag-se2-2">Javascript</code>
+            <code id="tag-se2-3">AWS</code>
+            <code id="tag-se2-4">Flask</code>
+            <code id="tag-se2-5">Frappe</code>
+            <code id="tag-se2-6">HTML/CSS</code>
         </div>
         <!-- Details -->
         <div id="hide-5" style="display:none">
@@ -700,15 +742,15 @@ comments: false
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10"><div class="myline"></div></div>
             <div class="col-lg-2"></div>
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10" style="font-size:15.5px">
-                <strong>DevOps and Cloud Application Development</strong>
+                <!-- <strong>DevOps and Cloud Application Development</strong>
                 <li>Deployed multi-agency management platform on AWS using Frappe framework to support five industry partners</li>
                 <li>Developed DevOps toolkit in Python automating product deployment and management to improve scalability</li>
                 <li>Automated Flask Eve API testing using Postman and Python to boost product robustness</li>
                 <li>Enhanced free-trial feature of Bootstrap-based official website to speed up product delivery</li>
                 <li>
-                    Released internal documents of developed products and tools and publish tutorial of Frappe pp development on GitHub
+                    Released internal documents of developed products and tools and publish tutorial of Frappe app development on GitHub
                     <a href="https://github.com/yylou/frappe-apps" style="text-decoration:none" target="_blank"><code class="code-link" id="link-se-iot"><i class="fa fa-github"></i> GitHub Repo</code></a>
-                </li>
+                </li> -->
             </div>
         </div>
     </div>
@@ -724,11 +766,11 @@ comments: false
         <!-- Tags -->
         <div class="col-lg-2"></div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10">
-            <i class="fa fa-hashtag hash-tag-spacing"></i>
-            <code id="tag-rs3-1">Edge Computing</code>
-            <code id="tag-rs3-2">Distributed SDN</code>
-            <code id="tag-rs3-3">IEEE WF-IoT '21</code>
-            <code id="tag-rs3-4">IEEE COMCAS '21</code>
+            <i class="fa fa-tags hash-tag-spacing"></i>
+            <code id="tag-rs3-1">Distributed SDN</code>
+            <code id="tag-rs3-2">Edge Computing</code>
+            <code id="tag-rs3-3">IEEE COMCAS '21 [6]</code>
+            <a href="https://wfiot2021.iot.ieee.org/edge-compute/" style="text-decoration:none" target="_blank"><code id="tag-rs3-4"><i class="fa fa-link"></i> <u>IEEE WF-IoT '21</u></code></a>
         </div>
         <!-- Details -->
         <div id="hide-4" style="display:none">
@@ -736,13 +778,13 @@ comments: false
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10"><div class="myline"></div></div>
             <div class="col-lg-2"></div>
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10" style="font-size:15.5px">
-                <strong>Distributed SDN and Edge Computing for 6G Networks</strong>
+                <!-- <strong>Distributed SDN and Edge Computing for 6G Networks</strong>
                 <li>Proposed distributed SDN system coupled with localized edge platforms and storage to support emerging applications such as autonomous driving</li>
                 <li>
                     Served as speaker in Edge and Fog Computing track on IEEE 7th World Forum on Internet of Things (WF-IoT) in 2021
                     <a href="https://wfiot2021.iot.ieee.org/edge-compute/" style="text-decoration:none" target="_blank"><code class="code-link" id="link-rs-ir"><i class="fa fa-link"></i> IEEE WF-IoT</code></a>
                 </li>
-                <li>Published an introductory paper on IEEE COMCAS 2021 <sup style="margin-left:2px">[6]</sup></li>
+                <li>Published an introductory paper on IEEE COMCAS 2021 <sup style="margin-left:2px">[6]</sup></li> -->
             </div>
         </div>
     </div>
@@ -761,9 +803,23 @@ comments: false
             <i class="fa fa-hashtag hash-tag-spacing"></i>
             <code id="tag-se1-1">Software System</code>
             <code id="tag-se1-2">IC Design Flow</code>
-            <code id="tag-se1-3">Automation</code>
+            <code id="tag-se1-3">TSMC 7/16nm</code>
             <code id="tag-se1-4">Cross-Functional Team Communication</code>
             <code id="tag-se1-5">Leadership</code>
+        </div>
+        <!-- Tech Stack -->
+        <div class="col-lg-2"></div>
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10">
+            <i class="fa fa-database db-spacing"></i>
+            <code id="tag-se1-1">CLI</code>
+            <code id="tag-se1-2">Linux</code>
+            <code id="tag-se1-3">Python</code>
+            <code id="tag-se1-4">Perl</code>
+            <code id="tag-se1-5">TCL</code>
+            <code id="tag-se1-6">TSMC Cell Library</code>
+            <code id="tag-se1-7">DRC/LVS/ERC/ESD</code>
+            <code id="tag-se1-8">PrimeTime (Timing ECO)</code>
+            <code id="tag-se1-9">Innovus (P&R)</code>
         </div>
         <!-- Details -->
         <div id="hide-3" style="display:none">
@@ -771,7 +827,7 @@ comments: false
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10"><div class="myline"></div></div>
             <div class="col-lg-2"></div>
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10" style="font-size:15.5px">
-                <strong>Design Flow Automation and In-house EDA Tool Development</strong>
+                <!-- <strong>Design Flow Automation and In-house EDA Tool Development</strong>
                 <li>Deployed microservice system in on-premise servers to automate 7/16 nm IC design flows, boosting development efficiency and improving verification robustness</li>
                 <li>Developed in-house design verification tools reviewing timing and power requirements to improve reliability</li>
                 <li>Automated library maintenance flow using Python and shell script to save manual effort by up to 80%</li>
@@ -780,7 +836,7 @@ comments: false
                 <li>Acted as project leader to cooperate with industry partners (TSMC, Synopsys) for establishing design flows in new IC technology nodes</li>
                 <li>Cooperated with Human Resources as technical campus recruiter to promote on-campus brand awareness</li>
                 <li>Established programming disciplines (Python) and organized training sessions for new employees</li>
-                <li><u>Promoted twice within 24 months</u> for outstanding performance on software development and solution finding</li>
+                <li><u>Promoted twice within 24 months</u> for outstanding performance on software development and solution finding</li> -->
             </div>
         </div>
     </div>
@@ -796,12 +852,25 @@ comments: false
         <!-- Tags -->
         <div class="col-lg-2"></div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10">
-            <i class="fa fa-hashtag hash-tag-spacing"></i>
+            <i class="fa fa-tags hash-tag-spacing"></i>
             <code id="tag-rs2-1">Wearable Computing</code>
-            <code id="tag-rs2-2">Microservice</code>
-            <code id="tag-rs2-3">Android</code>
-            <code id="tag-rs2-4">ACM MSWiM '16</code>
-            <code id="tag-rs2-5">Wiley Book Chapter</code>
+            <code id="tag-rs2-2">Microservice Architecture</code>
+            <code id="tag-rs2-4">Wi-Fi P2P</code>
+            <code id="tag-rs2-5">ACM MSWiM '16 [2]</code>
+            <code id="tag-rs2-6">Book Chapter [5]</code>
+        </div>
+        <!-- Tech Stack -->
+        <div class="col-lg-2"></div>
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10">
+            <i class="fa fa-database db-spacing"></i>
+            <code id="tag-rs2-1">C++</code>
+            <code id="tag-rs2-2">Java</code>
+            <code id="tag-rs2-3">Android Wear OS</code>
+            <code id="tag-rs2-4">WLAN Testbed</code>
+            <code id="tag-rs2-5">DHCP</code>
+            <code id="tag-rs2-6">NAT</code>
+            <code id="tag-rs2-7">Django (telemetry system)</code>
+            <code id="tag-rs2-8">CMUSphinx</code>
         </div>
         <!-- Details -->
         <div id="hide-2" style="display:none">
@@ -809,7 +878,7 @@ comments: false
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10"><div class="myline"></div></div>
             <div class="col-lg-2"></div>
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10" style="font-size:15.5px">
-                <strong>Microservice-based Computation Offloading for Wearable Devices</strong>
+                <!-- <strong>Microservice-based Computation Offloading for Wearable Devices</strong>
                 <li>Proposed microservice-based function module sharing framework (Virtual Local-Hub) for Android wearable devices by edge computing and WiFi P2P concept</li>
                 <li>Modified Android Wear OS to intercept system calls and redirect application API calls to wireless base stations for offloading orchestration</li>
                 <li>Reduced execution time of wearable microservices by up to 60% and CPU usage by up to 70%</li>
@@ -819,7 +888,7 @@ comments: false
                 <li>Built WLAN testbed from scratch including DHCP and NAT to evaluate E2E latency and power consumption of wearable edge computing framework</li>
                 <li>Designed telemetry platform using Django to monitor system performance and manage service provisioning
                     <a href="https://www.cakeresume.com/portfolios/network-dashboard" style="text-decoration:none" target="_blank"><code class="code-link" id="link-rs-most"><i class="fa fa-link"></i> Portfolio</code></a></li>
-                <li>Developed latency-sensitive applications on Android devices such as speech recognition in natural language processing by CMUSphinx</li>
+                <li>Developed latency-sensitive applications on Android devices such as speech recognition in natural language processing by CMUSphinx</li> -->
             </div>
         </div>
     </div>
@@ -835,13 +904,24 @@ comments: false
         <!-- Tags -->
         <div class="col-lg-2"></div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10">
-            <i class="fa fa-hashtag hash-tag-spacing"></i>
+            <i class="fa fa-tags hash-tag-spacing"></i>
             <code id="tag-rs1-1">4G LTE</code>
             <code id="tag-rs1-2">RAN</code>
             <code id="tag-rs1-3">RRC/DRX</code>
             <code id="tag-rs1-4">IoT</code>
             <code id="tag-rs1-5">Markov Chain</code>
-            <code id="tag-rs1-6">IEEE IoT-J '16</code>
+            <code id="tag-rs1-6">IEEE IoT-J '16 [1]</code>
+        </div>
+        <!-- Tech Stack -->
+        <div class="col-lg-2"></div>
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10">
+            <i class="fa fa-database db-spacing"></i>
+            <code id="tag-rs1-1">Java</code>
+            <code id="tag-rs1-2">Android App Profiling</code>
+            <code id="tag-rs1-3">Python</code>
+            <code id="tag-rs1-4">Algorithm</code>
+            <code id="tag-rs1-5">Scheduling</code>
+            <code id="tag-rs1-6">Parameterization</code>
         </div>
         <!-- Details -->
         <div id="hide-1" style="display:none">
@@ -849,12 +929,12 @@ comments: false
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10"><div class="myline"></div></div>
             <div class="col-lg-2"></div>
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10" style="font-size:15.5px">
-                <strong>4G LTE IoT Session Management for Balancing Latency, Power, and Signaling</strong>
+                <!-- <strong>4G LTE IoT Session Management for Balancing Latency, Power, and Signaling</strong>
                 <li>Built Markov chain model based on RRC inference algorithms in AT&T tools to analyze DRX impact on 4G LTE IoT session factors (signal load, power, delay)</li>
                 <li>Conduct probabilistic model simulations to reveal the efficacy of algorithms in power saving and signal reduction for IoT</li>
                 <li>Developed toolkits based on AT&T Lab tools to analyze packets and profile Android apps performance</li>
                 <li>Improved power saving by up to 50% and signal saving by up to 60% for packets within 0.1s delay</li>
-                <li>Published a journal paper in IEEE Internet of Things Journal (IoT-J) in 2016 <sup style="margin-left:2px">[1]</sup></li>
+                <li>Published a journal paper in IEEE Internet of Things Journal (IoT-J) in 2016 <sup style="margin-left:2px">[1]</sup></li> -->
             </div>
         </div>
     </div>
@@ -868,13 +948,23 @@ comments: false
         <!-- Institution -->
         <div class="col-lg-2"></div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10">Teaching Assistant - CSIE 3510 Computer Network / CSIE 5057 Advanced Computer Network</div>
-        <!-- Tags -->
+        <!-- Domains -->
         <div class="col-lg-2"></div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10">
-            <i class="fa fa-hashtag hash-tag-spacing"></i>
+            <i class="fa fa-tags hash-tag-spacing"></i>
             <code id="tag-te1-1">TCP/IP</code>
+            <code id="tag-te1-1">IEEE 802.11, 802.3</code>
             <code id="tag-te1-2">Socket Programming</code>
-            <code id="tag-te1-3">IRC Chatbot</code>
+            <code id="tag-te1-3">Internet Relay Chat (IRC)</code>
+            <code id="tag-te1-3">Chatbot</code>
+        </div>
+        <!-- Tech Stack -->
+        <div class="col-lg-2"></div>
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10">
+            <i class="fa fa-database db-spacing"></i>
+            <code id="tag-te1-1">Python</code>
+            <code id="tag-te1-2">C++</code>
+            <code id="tag-te1-3">Wireshark</code>
         </div>
         <!-- Details -->
         <div id="hide-0" style="display:none">
@@ -882,14 +972,14 @@ comments: false
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10"><div class="myline"></div></div>
             <div class="col-lg-2"></div>
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10" style="font-size:15.5px">
-                <strong>TCP/IP & Socket Programming in C++/Python</strong>
+                <!-- <strong>TCP/IP & Socket Programming in C++/Python</strong>
                 <li>Lectured TCP/IP protocol (802.11, 802.3) and demonstrated network packet monitoring and analysis using WireShark</li>
                 <li>Designed IRC chatbot application as project assignment to teach students socket programming 
-                    <!-- <code class="code-link"><i class="fa fa-github"></i> GitHub Repo</code> -->
+                    <code class="code-link"><i class="fa fa-github"></i> GitHub Repo</code>
                 </li>
                 <li>Enhanced program robustness by peer-testing system and promoted creativity by flexible score criterion</li>
                 <li>Assigned paper readings and hold course seminar for final evaluation</li>
-                <li>Received two times of Outstanding Teaching Assistant awards</li>
+                <li>Received two times of Outstanding Teaching Assistant awards</li> -->
             </div>
         </div>
     </div>
