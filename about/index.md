@@ -24,8 +24,8 @@ comments: false
         <code>Computer Network</code>
         <code>Wireless Communiation</code>
         <code>5G Simulation</code>
-        <code class="code-highlight">Software Engineer</code>
         <code>Reinforcement Learning</code>
+        <code class="code-highlight">Software Engineer</code>
         <code>LLM Training/Inference</code>
         <code>GPU Clusters</code>
         <code>AI Simulation</code>
