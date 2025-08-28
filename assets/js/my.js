@@ -176,14 +176,15 @@ function show_detail(id, elements) {
 function highlight(id) {
     var ids = [
         "all", "rs", "se",
-        "row-exp-rs1", "row-exp-rs2", "row-exp-rs3", "row-exp-rs4",
-        "row-exp-se1", "row-exp-se2",
+        "row-exp-se3", "tag-se3-1", "tag-se3-2", "tag-se3-3", "tag-se3-4", /* Meta */
+        "row-exp-rs5", "tag-rs5-1", "tag-rs5-2", "tag-rs5-3", "tag-rs5-4", /* MTK */
+        "row-exp-rs4", "tag-rs4-1", "tag-rs4-2", "tag-rs4-3", "tag-rs4-4", /* Purdue */
+        "row-exp-se2", "tag-se2-1", "tag-se2-2", "tag-se2-3", "tag-se2-4", "tag-se2-5", "tag-se2-6", /* IoT Eye */
+        "row-exp-rs3", "tag-rs3-1", "tag-rs3-2", "tag-rs3-3", "tag-rs3-4", /* IEEE */
+        "row-exp-se1", "tag-se1-1", "tag-se1-2", "tag-se1-3", "tag-se1-4", "tag-se1-5", /* SMI */
+        "row-exp-rs2", "tag-rs2-1", "tag-rs2-2", "tag-rs2-3", "tag-rs2-4", "tag-rs2-5", /* NSTC */
+        "row-exp-rs1", "tag-rs1-1", "tag-rs1-2", "tag-rs1-3", "tag-rs1-4", "tag-rs1-5", "tag-rs1-6", /* Princeton */
         "link-se-iot", "link-rs-ir", "link-rs-most",
-        "tag-se1-1", "tag-se1-2", "tag-se1-3", "tag-se1-4", "tag-se1-5", "tag-se1-6",
-        "tag-rs1-1", "tag-rs1-2", "tag-rs1-3", "tag-rs1-4",
-        "tag-rs2-1", "tag-rs2-2", "tag-rs2-3",
-        "tag-rs3-1", "tag-rs3-2", "tag-rs3-3", "tag-rs3-4", "tag-rs3-5",
-        "tag-rs4-1", "tag-rs4-2", "tag-rs4-3", "tag-rs4-4", "tag-rs4-5",
 
     ];
 

@@ -8,7 +8,7 @@ comments: false
 
 <!-- Intro -->
 <h2 id="about" class="resume-title">About</h2>
-<div class="myrow">
+<!-- <div class="myrow">
     <div class="col-12" style="text-align:left">
         I'm a fourth-year <strong>Ph.D. student in the School of Electrical and Computer Engineering at Purdue University as part of <a href="http://edgelab.princeton.edu/" target="_blink">EDGE Lab</a>, co-advised by <a href="https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=171238" target="_blink">Prof. Mung Chiang</a> and <a href="https://engineering.purdue.edu/ECE/People/ptProfile?resource_id=243261" target="_blink">Prof. Kwang Taik Kim</a>.</strong><br>
         My research interests lie in the intersection of (1) the architectural design of distributed systems to jointly optimize network and application performance, and (2) machine learning in the realms of wireless system design in 5G/6G networks.
@@ -17,20 +17,24 @@ comments: false
         Prior to joining Purdue, I was a <strong>senior software engineer with 3 years of experience</strong> in (1) the development of microservice-based systems in on-premise Linux servers for automating IC/EDA design flow, and (2) the cloud application development on AWS.
         I received my B.S. and M.S. degrees in Computer Science (CS) from National Chiao Tung University (NCTU) and National Taiwan University (NTU) in 2015 and 2017, respectively.
     </div>
-</div>
-<p style="text-align:right">
-        <code class="code-highlight">PhD / ECE / @Purdue</code>
-        <code>Software Engineering</code>
+</div> -->
+<p style="text-align:left">
+        <code class="code-highlight">PhD @Purdue</code>
+        <code>Distributed System</code>
         <code>Computer Network</code>
-        <code>Edge Computing</code>
-        <code>Machine Learning</code>
-        <code>5G/6G</code>
+        <code>Wireless Communiation</code>
+        <code>5G Simulation</code>
+        <code class="code-highlight">Software Engineer</code>
+        <code>Reinforcement Learning</code>
+        <code>LLM Training/Inference</code>
+        <code>GPU Clusters</code>
+        <code>AI Simulation</code>
 </p>
 
 <!-- Skills -->
 <h2 id="ski-title" class="resume-title"><a id="ski-sec" href="#ski-title" onclick="expand_section('ski')">Skills <i id="ski-icon" class="fa fa-plus-square"></i></a></h2>
 <div id="ski" style="display: none">
-    <div class="myrow no-margin">
+    <!-- <div class="myrow no-margin">
         <div class="col-xs-12 col-sm-12 col-md-2 col-lg-2">
             <strong>Research</strong>
         </div>
@@ -47,7 +51,7 @@ comments: false
             <code class="code-margin">Large AI Models (LAM)</code>
             <code class="code-margin">Large Language Models (LLM)</code>
         </div>
-    </div>
+    </div> -->
     <div class="myrow no-margin">
         <div class="col-xs-12 col-sm-12 col-md-2 col-lg-2">
             <strong>Languages</strong>
@@ -74,6 +78,7 @@ comments: false
             <code class="code-margin">Seaborn</code>
             <code class="code-margin">SimPy</code>
             <code class="code-margin">OpenAI Gym</code>
+            <code class="code-margin">ns-3</code>
             <code class="code-margin">Git</code>
             <code class="code-margin">Vim</code>
         </div>
@@ -116,7 +121,7 @@ comments: false
 <div id="pub" style="display:none">
     <div id="hover-row-1" class="myrow">
         <!-- Topic -->
-        <div class="col-xs-12 col-sm-12 col-md-1 col-lg-1 text-xs-left text-sm-left text-md-center text-lg-center">[11]</div>
+        <div class="col-xs-12 col-sm-12 col-md-1 col-lg-1 text-xs-left text-sm-left text-md-center text-lg-center">[12]</div>
         <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11"><strong>Multi-Agent Reinforcement Learning for Cellular Networking in 5G/6G</strong></div>
         <!-- Authors -->
         <div class="col-md-1 col-lg-1"></div>
@@ -137,19 +142,45 @@ comments: false
     </div>
     <div id="hover-row-2" class="myrow">
         <!-- Topic -->
-        <div class="col-xs-12 col-sm-12 col-md-1 col-lg-1 text-xs-left text-sm-left text-md-center text-lg-center">[10]</div>
-        <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11"><strong>Real-time Multi-Object Tracking System for Embedded Devices</strong>
+        <div class="col-xs-12 col-sm-12 col-md-1 col-lg-1 text-xs-left text-sm-left text-md-center text-lg-center">[11]</div>
+        <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11"><strong>6G EdgeAI: Performance Evaluation and Analysis</strong>
         </div>
         <!-- Authors -->
         <div class="col-md-1 col-lg-1"></div>
-        <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11"></div>
+        <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">C.-S. Yang, Y.-J. Ku, <strong>Y.-Y. Lou,</strong>, N. Tenny, Alex C.-C. Hsu</div>
         <!-- Conference / Journal -->
         <div class="col-md-1 col-lg-1"></div>
-        <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11"></div>
+        <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">Preprint arXiv:2504.16529 [cs.DC]</div>
         <!-- Tags -->
         <div class="col-md-1 col-lg-1"></div>
         <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">
-            <code class="code-margin code-highlight" style="background-color: #333333">(under revision)</code>
+            <code class="code-margin code-highlight">arXiv</code>
+            <code class="code-margin">Distributed Inference</code>
+            <code class="code-margin">Large-Language Model (LLM)</code>
+            <code class="code-margin">5G NR</code>
+            <code class="code-margin">5G MEC</code>
+            <code class="code-margin">Integrated Communication and Computing (ICC)</code>
+        </div>
+    </div>
+    <div id="hover-row-3" class="myrow">
+        <!-- Topic -->
+        <div class="col-xs-12 col-sm-12 col-md-1 col-lg-1 text-xs-left text-sm-left text-md-center text-lg-center">[10]</div>
+        <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11"><strong>HopTrack: A Real-time Multi-Object Tracking System for Embedded Devices</strong>
+            <a style="text-decoration:none;margin-left:3px" target="_blank"
+                href="https://arxiv.org/abs/2411.00608">
+                <i class="fa fa-external-link-square"></i>
+            </a>
+        </div>
+        <!-- Authors -->
+        <div class="col-md-1 col-lg-1"></div>
+        <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">X. Li, C. Chen, <strong>Y.-Y. Lou,</strong>, M. Abdallah, K. T. Kim, S. Bagchi</div>
+        <!-- Conference / Journal -->
+        <div class="col-md-1 col-lg-1"></div>
+        <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">Preprint arXiv:2411.00608 [cs.CV]</div>
+        <!-- Tags -->
+        <div class="col-md-1 col-lg-1"></div>
+        <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">
+            <code class="code-margin code-highlight">arXiv</code>
             <code class="code-margin">Computer Vision</code>
             <code class="code-margin">Deep Learning</code>
             <code class="code-margin">Multi-Object Tracking</code>
@@ -157,7 +188,7 @@ comments: false
             <code class="code-margin">Embedded Device</code>
         </div>
     </div>
-    <div id="hover-row-3" class="myrow">
+    <div id="hover-row-4" class="myrow">
         <!-- Topic -->
         <div class="col-xs-12 col-sm-12 col-md-1 col-lg-1 text-xs-left text-sm-left text-md-center text-lg-center">[9]</div>
         <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11"><strong>E-MPC: Edge-assisted Model Predictive Control</strong>
@@ -171,11 +202,11 @@ comments: false
         <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11"><strong>Y.-Y. Lou,</strong>, J. Spencer, K. T. Kim, M. Chiang</div>
         <!-- Conference / Journal -->
         <div class="col-md-1 col-lg-1"></div>
-        <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">arXiv preprint arXiv:2410.00695 [cs.DC]</div>
+        <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">Preprint arXiv:2410.00695 [cs.DC]</div>
         <!-- Tags -->
         <div class="col-md-1 col-lg-1"></div>
         <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">
-            <code class="code-margin code-highlight" style="background-color: #333333">(under review)</code>
+            <code class="code-margin code-highlight">arXiv</code>
             <code class="code-margin">Edge Computing</code>
             <code class="code-margin">Automonous Driving</code>
             <code class="code-margin">Path Planning</code>
@@ -183,7 +214,7 @@ comments: false
             <code class="code-margin">Time-critical Communcation</code>
         </div>
     </div>
-    <div id="hover-row-4" class="myrow">
+    <div id="hover-row-5" class="myrow">
         <!-- Topic -->
         <div class="col-xs-12 col-sm-12 col-md-1 col-lg-1 text-xs-left text-sm-left text-md-center text-lg-center">[8]</div>
         <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11"><strong>Utilizing Priors in Sampling-based Cost Minimization</strong>
@@ -197,7 +228,7 @@ comments: false
         <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11"><strong>Y.-Y. Lou,</strong>, J. Spencer, K. T. Kim, M. Chiang</div>
         <!-- Conference / Journal -->
         <div class="col-md-1 col-lg-1"></div>
-        <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">arXiv preprint arXiv:2409.19834 [eess.SY]</div>
+        <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">Preprint arXiv:2409.19834 [eess.SY]</div>
         <!-- Tags -->
         <div class="col-md-1 col-lg-1"></div>
         <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">
@@ -209,7 +240,7 @@ comments: false
             <code class="code-margin">Data Collection and Analysis</code>
         </div>
     </div>
-    <div id="hover-row-5" class="myrow">
+    <div id="hover-row-6" class="myrow">
         <!-- Topic -->
         <div class="col-xs-12 col-sm-12 col-md-1 col-lg-1 text-xs-left text-sm-left text-md-center text-lg-center">[7]</div>
         <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11"><strong>Dynamic DAG-Application Scheduling for Multi-Tier Edge Computing in Heterogeneous Networks</strong>
@@ -223,11 +254,11 @@ comments: false
         <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">X. Li, M. Abdallah, <strong>Y.-Y. Lou,</strong> M. Chiang, K. T. Kim, S. Bagchi</div>
         <!-- Conference / Journal -->
         <div class="col-md-1 col-lg-1"></div>
-        <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">arXiv preprint arXiv:2409.10839 [cs.NI]</div>
+        <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">Preprint arXiv:2409.10839 [cs.NI]</div>
         <!-- Tags -->
         <div class="col-md-1 col-lg-1"></div>
         <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">
-            <code class="code-margin code-highlight" style="background-color: #333333">(under review)</code>
+            <code class="code-margin code-highlight">arXiv</code>
             <code class="code-margin">Edge Computing</code>
             <code class="code-margin">Distributed Systems</code>
             <code class="code-margin">Task Scheduling</code>
@@ -235,7 +266,7 @@ comments: false
             <code class="code-margin">CBRS 4G / 5G Sub-6</code>
         </div>
     </div>
-    <div id="hover-row-6" class="myrow">
+    <div id="hover-row-7" class="myrow">
         <!-- Topic -->
         <div class="col-xs-12 col-sm-12 col-md-1 col-lg-1 text-xs-left text-sm-left text-md-center text-lg-center">[6]</div>
         <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">
@@ -259,7 +290,7 @@ comments: false
             <code class="code-margin">Distributed SDN</code>
         </div>
     </div>
-    <div id="hover-row-7" class="myrow">
+    <div id="hover-row-8" class="myrow">
         <!-- Topic -->
         <div class="col-xs-12 col-sm-12 col-md-1 col-lg-1 text-xs-left text-sm-left text-md-center text-lg-center">[5]</div>
         <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">
@@ -286,7 +317,7 @@ comments: false
             <code class="code-margin">Android</code>
         </div>
     </div>
-    <div id="hover-row-8" class="myrow">
+    <div id="hover-row-9" class="myrow">
         <!-- Topic -->
         <div class="col-xs-12 col-sm-12 col-md-1 col-lg-1 text-xs-left text-sm-left text-md-center text-lg-center">[4]</div>
         <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">
@@ -305,10 +336,9 @@ comments: false
             <code class="code-margin">Edge Computing</code>
             <code class="code-margin">Computation Offloading</code>
             <code class="code-margin">Microservice</code>
-            <code class="code-margin">System Design</code>
         </div>
     </div>
-    <div id="hover-row-9" class="myrow">
+    <div id="hover-row-10" class="myrow">
         <!-- Topic -->
         <div class="col-xs-12 col-sm-12 col-md-1 col-lg-1 text-xs-left text-sm-left text-md-center text-lg-center">[3]</div>
         <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">
@@ -327,14 +357,14 @@ comments: false
         <!-- Tags -->
         <div class="col-md-1 col-lg-1"></div>
         <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">
-            <code class="code-margin code-highlight">NTU </code>
+            <code class="code-margin code-highlight">NTU</code>
             <code class="code-margin">Fog-Edge Computing</code>
             <code class="code-margin">Microservice Offloading</code>
             <code class="code-margin">Android Wear</code>
             <code class="code-margin">Testbed Deployment</code>
         </div>
     </div>
-    <div id="hover-row-10" class="myrow">
+    <div id="hover-row-11" class="myrow">
         <!-- Topic -->
         <div class="col-xs-12 col-sm-12 col-md-1 col-lg-1 text-xs-left text-sm-left text-md-center text-lg-center">[2]</div>
         <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">
@@ -360,7 +390,7 @@ comments: false
             <code class="code-margin">Greedy / Heuristic</code>
         </div>
     </div>
-    <div id="hover-row-11" class="myrow">
+    <div id="hover-row-12" class="myrow">
         <!-- Topic-->
         <div class="col-xs-12 col-sm-12 col-md-1 col-lg-1 text-xs-left text-sm-left text-md-center text-lg-center">[1]</div>
         <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">
@@ -401,7 +431,7 @@ comments: false
         <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4 text-xs-left text-sm-right text-md-right text-lg-right"><i class="fa fa-map-marker add-margin"></i>West Lafayette, IN, USA</div>
         <!-- Title -->
         <div class="col-lg-2"></div>
-        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10">Ph.D. student in Electrical and Computer Engineering <code>GPA: 3.7 / 4.0</code></div>
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10">Ph.D. candidate in Electrical and Computer Engineering (ECE) <code>GPA: 3.7 / 4.0</code></div>
         <!-- Detail -->
         <div id="edu-1" style="display:none">
             <div class="col-lg-2"></div>
@@ -409,9 +439,9 @@ comments: false
             <div class="col-lg-2"></div>
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10" style="font-size:15.5px">
                 <li>Advisors: <a href="https://www.linkedin.com/in/mung-chiang-9511445/" target= "_blank">Mung Chiang</a>, <a href="https://kimkt.com/" target= "_blank"> Kwang Taik Kim</a></li>
-                <li>Coursework: Computer Network Systems, Programming Parallel Machines, Theory of Linear Model, Deep Learning, Reinforcement Learning Theory and Algorithm
-                    <!-- <code class="code-link"><i class="fa fa-book"></i> Notes</code> -->
-                </li>
+                <!-- <li>Coursework: Computer Network Systems, Programming Parallel Machines, Theory of Linear Model, Deep Learning, Reinforcement Learning Theory and Algorithm
+                    <code class="code-link"><i class="fa fa-book"></i> Notes</code>
+                </li> -->
             </div>
         </div>
     </div>
@@ -422,7 +452,7 @@ comments: false
         <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4 text-xs-left text-sm-right text-md-right text-lg-right"><i class="fa fa-map-marker add-margin"></i>Taipei, Taiwan</div>
         <!-- Title -->
         <div class="col-lg-2"></div>
-        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10">M.S. in Computer Science <code>GPA: 3.8 / 4.0</code></div>
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10">M.S. in Computer Science (CS) <code>GPA: 3.8 / 4.0</code></div>
         <!-- Detail -->
         <div id="edu-2" style="display:none">
             <div class="col-lg-2"></div>
@@ -450,7 +480,7 @@ comments: false
         <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4 text-xs-left text-sm-right text-md-right text-lg-right"><i class="fa fa-map-marker add-margin"></i>Hsinchu, Taiwan</div>
         <!-- Title -->
         <div class="col-lg-2"></div>
-        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10">B.S. in Computer Science <code>GPA: 3.8 / 4.0</code></div>
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10">B.S. in Computer Science (CS) <code>GPA: 3.8 / 4.0</code></div>
         <!-- Detail -->
         <div id="edu-4" style="display:none">
             <div class="col-lg-2"></div>
@@ -534,23 +564,77 @@ comments: false
 
 <!-- Experience > -->
 <h2 id="exp-title" class="resume-title"><a id="exp-sec" href="#exp-title" onclick="expand_section('exp')">Experience <i id="exp-icon" class="fa fa-plus-square"></i></a>
-    <a id="exp-detail" href="#" onclick="show_detail(this.id, ['hide-1', 'hide-2', 'hide-3', 'hide-4', 'hide-5', 'hide-6', 'hide-7'])" style="display: none"><i id="exp-detail-1" class="fa fa-toggle-off"></i></a>
+    <a id="exp-detail" href="#" onclick="show_detail(this.id, ['hide-0', 'hide-1', 'hide-2', 'hide-3', 'hide-4', 'hide-5', 'hide-6', 'hide-7', 'hide-8'])" style="display: none"><i id="exp-detail-1" class="fa fa-toggle-off"></i></a>
 </h2>
 <div id="exp" style="display:none">
     <!-- Read Mode Control -->
     <strong>
         <code>
         Mode: 
-        <a id="all" onclick="highlight(this.id)">All</a> 
-        <a class="txt-ignore" id="rs" onclick="highlight(this.id)">Research</a> 
-        <a class="txt-ignore" id="se" onclick="highlight(this.id)">Industry</a>
+        <a id="all" onclick="highlight(this.id)">All</a> | 
+        <a class="txt-ignore" id="rs" onclick="highlight(this.id)">Research</a> | 
+        <a class="txt-ignore" id="se" onclick="highlight(this.id)">Software Engineer</a>
         </code>
     </strong>
-    <!-- Purdue -->
-    <div id="row-exp-rs1" class="myrow hover">
+    <!-- [8] Meta -->
+    <div id="row-exp-se3" class="myrow hover">
         <!-- Time Range / Title / Location -->
-        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-2">Aug. 2021 - Present</div>
-        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6" onclick="expand('hide-1')" style="cursor:pointer"><strong>Purdue University - EDGE Lab</strong></div>
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-2">Jun. 2025 - Aug. 2025</div>
+        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6" onclick="expand('hide-8')" style="cursor:pointer"><strong>Meta Paltforms <a href="https://www.nasdaq.com/market-activity/stocks/meta" style="text-decoration:none" target="_blank"><code>NASDAQ: META</code></a></strong></div>
+        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4 text-xs-left text-sm-right text-md-right text-lg-right"><i class="fa fa-map-marker add-margin"></i>West Lafayette, IN, USA</div>
+        <!-- Institution -->
+        <div class="col-lg-2"></div>
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10">Software Engineer Intern, Systems and Infrastructure (PhD)</div>
+        <!-- Tags -->
+        <div class="col-lg-2"></div>
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10">
+            <i class="fa fa-hashtag hash-tag-spacing"></i>
+            <code id="tag-se3-1">AI System Performance</code>
+            <code id="tag-se3-2">LLM Pre-training Workloads</code>
+            <code id="tag-se3-3">GPU Training Clusters</code>
+            <code id="tag-se3-4">RDMA / RoCE</code>
+        </div>
+        <!-- Details -->
+        <div id="hide-8" style="display:none">
+            <div class="col-lg-2"></div>
+            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10"><div class="myline"></div></div>
+            <div class="col-lg-2"></div>
+            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10" style="font-size:15.5px">
+            </div>
+        </div>
+    </div>
+    <!-- [7] MTK -->
+    <div id="row-exp-rs5" class="myrow hover">
+        <!-- Time Range / Title / Location -->
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-2">Aug. 2024 - Dec. 2024</div>
+        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6" onclick="expand('hide-7')" style="cursor:pointer"><strong>MediaTek USA</strong></div>
+        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4 text-xs-left text-sm-right text-md-right text-lg-right"><i class="fa fa-map-marker add-margin"></i>West Lafayette, IN, USA</div>
+        <!-- Institution -->
+        <div class="col-lg-2"></div>
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10">Research Intern</div>
+        <!-- Tags -->
+        <div class="col-lg-2"></div>
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10">
+            <i class="fa fa-hashtag hash-tag-spacing"></i>
+            <code id="tag-rs5-1">NextG</code>
+            <code id="tag-rs5-2">Integrated Computation and Communication (ICC)</code>
+            <code id="tag-rs5-3">Distributed Inference</code>
+            <code id="tag-rs5-4">LLM</code>
+        </div>
+        <!-- Details -->
+        <div id="hide-7" style="display:none">
+            <div class="col-lg-2"></div>
+            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10"><div class="myline"></div></div>
+            <div class="col-lg-2"></div>
+            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10" style="font-size:15.5px">
+            </div>
+        </div>
+    </div>
+    <!-- [6] Purdue -->
+    <div id="row-exp-rs4" class="myrow hover">
+        <!-- Time Range / Title / Location -->
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-2"><strong>Aug. 2021 - Present</strong></div>
+        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6" onclick="expand('hide-6')" style="cursor:pointer"><strong>Purdue University - EDGE Lab</strong></div>
         <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4 text-xs-left text-sm-right text-md-right text-lg-right"><i class="fa fa-map-marker add-margin"></i>West Lafayette, IN, USA</div>
         <!-- Institution -->
         <div class="col-lg-2"></div>
@@ -559,18 +643,18 @@ comments: false
         <div class="col-lg-2"></div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10">
             <i class="fa fa-hashtag hash-tag-spacing"></i>
-            <code id="tag-rs1-1">Edge Computing</code>
-            <code id="tag-rs1-2">RAN</code>
-            <code id="tag-rs1-3">Autonomous Driving</code>
-            <code id="tag-rs1-4">Computation Offloading</code>
+            <code id="tag-rs4-1">Edge Computing</code>
+            <code id="tag-rs4-2">RAN</code>
+            <code id="tag-rs4-3">Autonomous Driving</code>
+            <code id="tag-rs4-4">Computation Offloading</code>
         </div>
         <!-- Details -->
-        <div id="hide-1" style="display:none">
+        <div id="hide-6" style="display:none">
             <div class="col-lg-2"></div>
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10"><div class="myline"></div></div>
             <div class="col-lg-2"></div>
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10" style="font-size:15.5px">
-                <strong>AI-ML / DRL for Joint Optimization of Network and Application in 5G/6G</strong><sup style="margin-left:2px">[11]</sup>
+                <strong>AI-ML / DRL for Joint Optimization of Network and Application in 5G/6G</strong><sup style="margin-left:2px">[12]</sup>
                 <li>Trained multi-agent reinforcement learning (MARL) model for network deployment policy by considering multi-dimensional trade-offs in joint optimization</li>
                 <strong>Edge Computing for Path Planning in Autonomous Driving</strong><sup style="margin-left:2px">[8, 9]</sup>
                 <li>Optimized local path planning by collaborative and sampling-based model predictive control (MPC) method with driving data analysis in edge networks</li>
@@ -587,28 +671,28 @@ comments: false
             </div>
         </div>
     </div>
-    <!-- IoTEye -->
-    <div id="row-exp-se1" class="myrow hover">
+    <!-- [5] IoT Eye -->
+    <div id="row-exp-se2" class="myrow hover">
         <!-- Time Range / Title / Location -->
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-2">Apr. 2021 - Aug. 2021</div>
-        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6" onclick="expand('hide-2')" style="cursor:pointer"><strong>IoT Eye Inc.</strong></div>
+        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6" onclick="expand('hide-5')" style="cursor:pointer"><strong>IoT Eye</strong></div>
         <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4 text-xs-left text-sm-right text-md-right text-lg-right"><i class="fa fa-map-marker add-margin"></i>NJ, USA / Taiwan <code>Remote</code></div>
         <!-- Institution -->
         <div class="col-lg-2"></div>
-        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10">Full-stack Cloud Developer, Internship</div>
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10">Full-stack Cloud Developer (Contractor)</div>
         <!-- Tags -->
         <div class="col-lg-2"></div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10">
             <i class="fa fa-hashtag hash-tag-spacing"></i>
-            <code id="tag-se1-1">DevOps</code>
-            <code id="tag-se1-2">AWS EC2</code>
-            <code id="tag-se1-3">Web</code>
-            <code id="tag-se1-4">Frappe</code>
-            <code id="tag-se1-5">Flask</code>
-            <code id="tag-se1-6">Open-source</code>
+            <code id="tag-se2-1">DevOps</code>
+            <code id="tag-se2-2">Cloud</code>
+            <code id="tag-se2-3">AWS EC2</code>
+            <code id="tag-se2-4">Frappe</code>
+            <code id="tag-se2-5">Flask</code>
+            <code id="tag-se2-6">Open-source</code>
         </div>
         <!-- Details -->
-        <div id="hide-2" style="display:none">
+        <div id="hide-5" style="display:none">
             <div class="col-lg-2"></div>
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10"><div class="myline"></div></div>
             <div class="col-lg-2"></div>
@@ -625,25 +709,26 @@ comments: false
             </div>
         </div>
     </div>
-    <!-- Independent Researcher -->
-    <div id="row-exp-rs2" class="myrow hover">
+    <!-- [4] Independent Researcher -->
+    <div id="row-exp-rs3" class="myrow hover">
         <!-- Time Range / Title / Location -->
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-2">Dec. 2020 - Aug. 2021</div>
-        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6" onclick="expand('hide-3')" style="cursor:pointer"><strong>Independent Researcher <code>IEEE</code></strong></div>
+        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6" onclick="expand('hide-4')" style="cursor:pointer"><strong>Independent Researcher</strong></div>
         <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4 text-xs-left text-sm-right text-md-right text-lg-right"><i class="fa fa-map-marker add-margin"></i>NY, USA / Taiwan <code>Remote</code></div>
         <!-- Institution -->
         <div class="col-lg-2"></div>
-        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10">Collaborator: Prof. Stephen B. Weinstein and Prof. T. Russell Hsing</div>
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10">(Collaborator: Prof. Stephen B. Weinstein, Prof. T. Russell Hsing)</div>
         <!-- Tags -->
         <div class="col-lg-2"></div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10">
             <i class="fa fa-hashtag hash-tag-spacing"></i>
-            <code id="tag-rs2-1">Edge Computing</code>
-            <code id="tag-rs2-2">Distributed SDN</code>
-            <code id="tag-rs2-3">Presentation</code>
+            <code id="tag-rs3-1">Edge Computing</code>
+            <code id="tag-rs3-2">Distributed SDN</code>
+            <code id="tag-rs3-3">IEEE WF-IoT '21</code>
+            <code id="tag-rs3-4">IEEE COMCAS '21</code>
         </div>
         <!-- Details -->
-        <div id="hide-3" style="display:none">
+        <div id="hide-4" style="display:none">
             <div class="col-lg-2"></div>
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10"><div class="myline"></div></div>
             <div class="col-lg-2"></div>
@@ -658,27 +743,27 @@ comments: false
             </div>
         </div>
     </div>
-    <!-- SMI -->
-    <div id="row-exp-se2" class="myrow hover">
+    <!-- [3] SMI -->
+    <div id="row-exp-se1" class="myrow hover">
         <!-- Time Range / Title / Location -->
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-2">Dec. 2017 - Apr. 2021</div>
-        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6" onclick="expand('hide-4')" style="cursor:pointer"><strong>Silicon Motion - Algorithm and Technology R&D Center <code>NASDAQ: SIMO</code></strong></div>
+        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6" onclick="expand('hide-3')" style="cursor:pointer"><strong>Silicon Motion - Algorithm and Technology R&D Center <a href="https://www.nasdaq.com/market-activity/stocks/simo" style="text-decoration:none" target="_blank"><code>NASDAQ: SIMO</code></a></strong></div>
         <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4 text-xs-left text-sm-right text-md-right text-lg-right"><i class="fa fa-map-marker add-margin"></i>Milpitas, CA, USA / Taipei, Taiwan</div>
         <!-- Institution -->
         <div class="col-lg-2"></div>
-        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10">Supervisor / Senior Software Engineer</div>
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10">Senior Software Engineer / Supervisor</div>
         <!-- Tags -->
         <div class="col-lg-2"></div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10">
             <i class="fa fa-hashtag hash-tag-spacing"></i>
-            <code id="tag-se2-1">System Design</code>
-            <code id="tag-se2-2">Microservice</code>
-            <code id="tag-se2-3">Automation</code>
-            <code id="tag-se2-3">Tool Dev</code>
-            <code id="tag-se2-4">Leadership</code>
+            <code id="tag-se1-1">Software System</code>
+            <code id="tag-se1-2">IC Design Flow</code>
+            <code id="tag-se1-3">Automation</code>
+            <code id="tag-se1-4">Cross-Functional Team Communication</code>
+            <code id="tag-se1-5">Leadership</code>
         </div>
         <!-- Details -->
-        <div id="hide-4" style="display:none">
+        <div id="hide-3" style="display:none">
             <div class="col-lg-2"></div>
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10"><div class="myline"></div></div>
             <div class="col-lg-2"></div>
@@ -696,11 +781,11 @@ comments: false
             </div>
         </div>
     </div>
-    <!-- NSTC -->
-    <div id="row-exp-rs3" class="myrow hover">
+    <!-- [2] NSTC -->
+    <div id="row-exp-rs2" class="myrow hover">
         <!-- Time Range / Title / Location -->
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-2">Sep. 2015 - Sep. 2017</div>
-        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6" onclick="expand('hide-5')" style="cursor:pointer"><strong>National Science and Technology Council (Taiwan)</strong></div>
+        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6" onclick="expand('hide-2')" style="cursor:pointer"><strong>National Science and Technology Council (Taiwan)</strong></div>
         <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4 text-xs-left text-sm-right text-md-right text-lg-right"><i class="fa fa-map-marker add-margin"></i>Taipei, Taiwan</div>
         <!-- Institution -->
         <div class="col-lg-2"></div>
@@ -709,14 +794,14 @@ comments: false
         <div class="col-lg-2"></div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10">
             <i class="fa fa-hashtag hash-tag-spacing"></i>
-            <code id="tag-rs3-1">Microservice</code>
-            <code id="tag-rs3-2">Wearable Computing</code>
-            <code id="tag-rs3-3">Android</code>
-            <code id="tag-rs3-4">Web</code>
-            <code id="tag-rs3-5">Django</code>
+            <code id="tag-rs2-1">Wearable Computing</code>
+            <code id="tag-rs2-2">Microservice</code>
+            <code id="tag-rs2-3">Android</code>
+            <code id="tag-rs2-4">ACM MSWiM '16</code>
+            <code id="tag-rs2-5">Wiley Book Chapter</code>
         </div>
         <!-- Details -->
-        <div id="hide-5" style="display:none">
+        <div id="hide-2" style="display:none">
             <div class="col-lg-2"></div>
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10"><div class="myline"></div></div>
             <div class="col-lg-2"></div>
@@ -735,27 +820,28 @@ comments: false
             </div>
         </div>
     </div>
-    <!-- Princeton -->
-    <div id="row-exp-rs4" class="myrow hover">
+    <!-- [1] Princeton -->
+    <div id="row-exp-rs1" class="myrow hover">
         <!-- Time Range / Title / Location -->
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-2">Jul. 2014 - Mar. 2015</div>
-        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6" onclick="expand('hide-6')" style="cursor:pointer"><strong>Princeton University - EDGE Lab</strong></div>
+        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6" onclick="expand('hide-1')" style="cursor:pointer"><strong>Princeton University - EDGE Lab</strong></div>
         <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4 text-xs-left text-sm-right text-md-right text-lg-right"><i class="fa fa-map-marker add-margin"></i>Princeton, NJ, USA</div>
         <!-- Institution -->
         <div class="col-lg-2"></div>
-        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10">Research Intern / Mentor: Prof. Mung Chiang and Dr. Ming-Jye Sheng</div>
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10">Research Intern (Mentor: Prof. Mung Chiang, Dr. Ming-Jye Sheng)</div>
         <!-- Tags -->
         <div class="col-lg-2"></div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10">
             <i class="fa fa-hashtag hash-tag-spacing"></i>
-            <code id="tag-rs4-1">Markov Chain</code>
-            <code id="tag-rs4-2">4G LTE</code>
-            <code id="tag-rs4-3">RAN</code>
-            <code id="tag-rs4-4">RRC/DRX</code>
-            <code id="tag-rs4-5">IoT</code>
+            <code id="tag-rs1-1">4G LTE</code>
+            <code id="tag-rs1-2">RAN</code>
+            <code id="tag-rs1-3">RRC/DRX</code>
+            <code id="tag-rs1-4">IoT</code>
+            <code id="tag-rs1-5">Markov Chain</code>
+            <code id="tag-rs1-6">IEEE IoT-J '16</code>
         </div>
         <!-- Details -->
-        <div id="hide-6" style="display:none">
+        <div id="hide-1" style="display:none">
             <div class="col-lg-2"></div>
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10"><div class="myline"></div></div>
             <div class="col-lg-2"></div>
@@ -769,26 +855,26 @@ comments: false
             </div>
         </div>
     </div>
-    <!-- Teaching -->
-    <h2 id="teach-title" class="resume-title"><a id="teach-sec" href="#teach-title">Teach</a></h2>
+    <!-- [0] Teaching -->
+    <h2 id="teach-title" class="resume-title"><a id="teach-sec" href="#teach-title">Teaching</a></h2>
     <div id="row-exp-te1" class="myrow hover">
         <!-- Time Range / Title / Location -->
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-2">Feb. 2016 - Jan. 2017</div>
-        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6" onclick="expand('hide-7')" style="cursor:pointer"><strong>Teaching Assistant</strong></div>
+        <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6" onclick="expand('hide-0')" style="cursor:pointer"><strong>National Taiwan University</strong></div>
         <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4 text-xs-left text-sm-right text-md-right text-lg-right"><i class="fa fa-map-marker add-margin"></i>Taipei, Taiwan</div>
         <!-- Institution -->
         <div class="col-lg-2"></div>
-        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10">National Taiwan University - CSIE 3510 Computer Network / CSIE 5057 Advanced Computer Network</div>
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10">Teaching Assistant - CSIE 3510 Computer Network / CSIE 5057 Advanced Computer Network</div>
         <!-- Tags -->
         <div class="col-lg-2"></div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10">
             <i class="fa fa-hashtag hash-tag-spacing"></i>
             <code id="tag-te1-1">TCP/IP</code>
-            <code id="tag-te1-2">Chatbot</code>
-            <code id="tag-te1-3">Socket Programming</code>
+            <code id="tag-te1-2">Socket Programming</code>
+            <code id="tag-te1-3">IRC Chatbot</code>
         </div>
         <!-- Details -->
-        <div id="hide-7" style="display:none">
+        <div id="hide-0" style="display:none">
             <div class="col-lg-2"></div>
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10"><div class="myline"></div></div>
             <div class="col-lg-2"></div>
