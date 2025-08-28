@@ -71,11 +71,13 @@ comments: false
             <strong>Tools</strong>
         </div>
         <div class="col-xs-12 col-sm-12 col-md-10 col-lg-10">
+            <code class="code-margin">Thrift (RPC)</code>
             <code class="code-margin">PyTorch</code>
             <code class="code-margin">TensorFlow</code>
             <code class="code-margin">Scikit-learn</code>
             <code class="code-margin">Numpy</code>
-            <code class="code-margin">Seaborn</code>
+            <code class="code-margin">Matplotlib</code>
+            <code class="code-margin">Jupyter Notebook</code>
             <code class="code-margin">SimPy</code>
             <code class="code-margin">OpenAI Gym</code>
             <code class="code-margin">ns-3</code>
@@ -616,7 +618,7 @@ comments: false
         <div class="col-lg-2"></div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10">
             <i class="fa fa-hashtag hash-tag-spacing"></i>
-            <code id="tag-rs5-1">NextG</code>
+            <code id="tag-rs5-1">NextG System Design</code>
             <code id="tag-rs5-2">Integrated Computation and Communication (ICC)</code>
             <code id="tag-rs5-3">Distributed Inference</code>
             <code id="tag-rs5-4">LLM</code>
