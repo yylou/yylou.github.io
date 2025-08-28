@@ -18,6 +18,11 @@ comments: false
         I received my B.S. and M.S. degrees in Computer Science (CS) from National Chiao Tung University (NCTU) and National Taiwan University (NTU) in 2015 and 2017, respectively.
     </div>
 </div> -->
+<!-- <div class="myrow">
+    <div class="col-12" style="text-align:left">
+        I am a Ph.D. candidate at Purdue University seeking a full-time software engineer position. With experience spanning GenAI/ LLM pretraining in large-scale AI clusters at Meta, distributed inference in 6G at MediaTek, MARL in virtualized RAN at Purdue, and 3 years as a Software Engineer at Silicon Motion, I specialize in distributed system design and AI/ML optimization.
+    </div>
+</div> -->
 <p style="text-align:left">
         <code class="code-highlight">PhD @Purdue</code>
         <code>Distributed System</code>
@@ -623,7 +628,7 @@ comments: false
     <!-- [7] MTK -->
     <div id="row-exp-rs5" class="myrow hover">
         <!-- Time Range / Title / Location -->
-        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-2">Aug. 2024 - Dec. 2024</div>
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-2">Sep. 2024 - Dec. 2024</div>
         <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6" onclick="expand('hide-7')" style="cursor:pointer"><strong>MediaTek USA</strong></div>
         <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4 text-xs-left text-sm-right text-md-right text-lg-right"><i class="fa fa-map-marker add-margin"></i>West Lafayette, IN, USA</div>
         <!-- Institution -->
