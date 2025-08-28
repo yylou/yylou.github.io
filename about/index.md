@@ -440,7 +440,8 @@ comments: false
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10"><div class="myline"></div></div>
             <div class="col-lg-2"></div>
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10" style="font-size:15.5px">
-                <li>Advisors: <a href="https://www.linkedin.com/in/mung-chiang-9511445/" target= "_blank">Mung Chiang</a>, <a href="https://kimkt.com/" target= "_blank"> Kwang Taik Kim</a></li>
+                Advisors: <a href="https://www.linkedin.com/in/mung-chiang-9511445/" target= "_blank">Mung Chiang</a>, <a href="https://kimkt.com/" target= "_blank"> Kwang Taik Kim</a>
+                <br>
                 <!-- <li>Coursework: Computer Network Systems, Programming Parallel Machines, Theory of Linear Model, Deep Learning, Reinforcement Learning Theory and Algorithm
                     <code class="code-link"><i class="fa fa-book"></i> Notes</code>
                 </li> -->
@@ -461,8 +462,9 @@ comments: false
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10"><div class="myline"></div></div>
             <div class="col-lg-2"></div>
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10" style="font-size:15.5px">
-                <li>Advisor: <a href="https://www.csie.ntu.edu.tw/~acpang/" target= "_blank">Ai-Chun Pang</a></li>
-                <li>Thesis: <a href="https://tdr.lib.ntu.edu.tw/jspui/handle/123456789/68366?locale=en" target= "_blank">Fog-based Virtualization for Low-latency Wearable Services</a></li>
+                Advisor: <a href="https://www.csie.ntu.edu.tw/~acpang/" target= "_blank">Ai-Chun Pang</a>
+                <br>
+                Thesis: <a href="https://tdr.lib.ntu.edu.tw/jspui/handle/123456789/68366?locale=en" target= "_blank">Fog-based Virtualization for Low-latency Wearable Services</a>
             </div>
         </div>
     </div>
@@ -489,8 +491,9 @@ comments: false
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10"><div class="myline"></div></div>
             <div class="col-lg-2"></div>
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10" style="font-size:15.5px">
-                <li>Mentors: Yi-Ping You, Shiao-Li Tsao, T. Russell Hsing</li>
-                <li>Project: Accelerating HEVC by Adopting GPGPU/CUDA (NSTC Taiwan Research Grant 103-2815-C-009-043-E)</li>
+                Mentors: Yi-Ping You, Shiao-Li Tsao, T. Russell Hsing
+                <br>
+                Project: Accelerating HEVC by Adopting GPGPU/CUDA (NSTC Taiwan Research Grant 103-2815-C-009-043-E)
             </div>
         </div>
     </div>
