@@ -26,9 +26,9 @@ comments: false
         <code>5G Simulation</code>
         <code>Reinforcement Learning</code>
         <code class="code-highlight">Software Engineer</code>
+        <code>MLSys Performance</code>
         <code>LLM Training/Inference</code>
         <code>GPU Clusters</code>
-        <code>AI Simulation</code>
 </p>
 
 <!-- Skills -->
@@ -591,7 +591,7 @@ comments: false
         <div class="col-lg-2"></div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10">
             <i class="fa fa-hashtag hash-tag-spacing"></i>
-            <code id="tag-se3-1">AI System Performance</code>
+            <code id="tag-se3-1">AI System Simulation</code>
             <code id="tag-se3-2">LLM Pre-training Workloads</code>
             <code id="tag-se3-3">GPU Training Clusters</code>
             <code id="tag-se3-4">NCCL</code>
