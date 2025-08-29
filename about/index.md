@@ -592,7 +592,7 @@ comments: false
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-2">Jun. 2025 - Aug. 2025</div>
         <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6" onclick="expand('hide-8')" style="cursor:pointer"><strong>Meta Platforms <a href="https://www.nasdaq.com/market-activity/stocks/meta" style="text-decoration:none" target="_blank"><code id="nasdaq-se3-meta">NASDAQ: META</code></a></strong></div>
         <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4 text-xs-left text-sm-right text-md-right text-lg-right"><i class="fa fa-map-marker add-margin"></i>Menlo Park, CA, USA</div>
-        <!-- Institution -->
+        <!-- Position -->
         <div class="col-lg-2"></div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10">Software Engineer Intern, Systems and Infrastructure (PhD)</div>
         <!-- Divider -->
@@ -634,7 +634,7 @@ comments: false
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-2">Sep. 2024 - Dec. 2024</div>
         <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6" onclick="expand('hide-7')" style="cursor:pointer"><strong>MediaTek USA</strong></div>
         <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4 text-xs-left text-sm-right text-md-right text-lg-right"><i class="fa fa-map-marker add-margin"></i>West Lafayette, IN, USA</div>
-        <!-- Institution -->
+        <!-- Position -->
         <div class="col-lg-2"></div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10">Research Intern</div>
         <!-- Divider -->
@@ -673,7 +673,7 @@ comments: false
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-2"><strong>Aug. 2021 - Present</strong></div>
         <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6" onclick="expand('hide-6')" style="cursor:pointer"><strong>Purdue University - EDGE Lab</strong></div>
         <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4 text-xs-left text-sm-right text-md-right text-lg-right"><i class="fa fa-map-marker add-margin"></i>West Lafayette, IN, USA</div>
-        <!-- Institution -->
+        <!-- Position -->
         <div class="col-lg-2"></div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10">Graduate Research Assistant</div>
         <!-- Divider -->
@@ -729,7 +729,7 @@ comments: false
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-2">Apr. 2021 - Aug. 2021</div>
         <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6" onclick="expand('hide-5')" style="cursor:pointer"><strong>IoT Eye</strong></div>
         <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4 text-xs-left text-sm-right text-md-right text-lg-right"><i class="fa fa-map-marker add-margin"></i>NJ, USA / Taiwan <code>Remote</code></div>
-        <!-- Institution -->
+        <!-- Position -->
         <div class="col-lg-2"></div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10">Full-stack Cloud Developer (Contractor)</div>
         <!-- Divider -->
@@ -780,7 +780,7 @@ comments: false
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-2">Dec. 2020 - Aug. 2021</div>
         <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6" onclick="expand('hide-4')" style="cursor:pointer"><strong>Independent Researcher</strong></div>
         <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4 text-xs-left text-sm-right text-md-right text-lg-right"><i class="fa fa-map-marker add-margin"></i>NY, USA / Taiwan <code>Remote</code></div>
-        <!-- Institution -->
+        <!-- Position -->
         <div class="col-lg-2"></div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10">(Collaborator: Prof. Stephen B. Weinstein, Prof. T. Russell Hsing)</div>
         <!-- Divider -->
@@ -817,7 +817,7 @@ comments: false
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-2">Dec. 2017 - Apr. 2021</div>
         <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6" onclick="expand('hide-3')" style="cursor:pointer"><strong>Silicon Motion - Algorithm and Technology R&D Center <a href="https://www.nasdaq.com/market-activity/stocks/simo" style="text-decoration:none" target="_blank"><code id="nasdaq-se1-simo">NASDAQ: SIMO</code></a></strong></div>
         <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4 text-xs-left text-sm-right text-md-right text-lg-right"><i class="fa fa-map-marker add-margin"></i>Milpitas, CA, USA / Taipei, Taiwan</div>
-        <!-- Institution -->
+        <!-- Position -->
         <div class="col-lg-2"></div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10">Senior Software Engineer / Supervisor</div>
         <!-- Divider -->
@@ -872,7 +872,7 @@ comments: false
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-2">Sep. 2015 - Sep. 2017</div>
         <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6" onclick="expand('hide-2')" style="cursor:pointer"><strong>National Science and Technology Council (Taiwan)</strong></div>
         <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4 text-xs-left text-sm-right text-md-right text-lg-right"><i class="fa fa-map-marker add-margin"></i>Taipei, Taiwan</div>
-        <!-- Institution -->
+        <!-- Position -->
         <div class="col-lg-2"></div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10">Graduate Researcher</div>
         <!-- Divider -->
@@ -927,7 +927,7 @@ comments: false
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-2">Jul. 2014 - Mar. 2015</div>
         <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6" onclick="expand('hide-1')" style="cursor:pointer"><strong>Princeton University - EDGE Lab</strong></div>
         <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4 text-xs-left text-sm-right text-md-right text-lg-right"><i class="fa fa-map-marker add-margin"></i>Princeton, NJ, USA</div>
-        <!-- Institution -->
+        <!-- Position -->
         <div class="col-lg-2"></div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10">Research Intern (Mentor: Prof. Mung Chiang, Dr. Ming-Jye Sheng)</div>
         <!-- Divider -->
@@ -977,7 +977,7 @@ comments: false
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-2">Feb. 2016 - Jan. 2017</div>
         <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6" onclick="expand('hide-0')" style="cursor:pointer"><strong>National Taiwan University</strong></div>
         <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4 text-xs-left text-sm-right text-md-right text-lg-right"><i class="fa fa-map-marker add-margin"></i>Taipei, Taiwan</div>
-        <!-- Institution -->
+        <!-- Position -->
         <div class="col-lg-2"></div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10">Teaching Assistant - CSIE 3510 Computer Network / CSIE 5057 Advanced Computer Network</div>
         <!-- Divider -->
