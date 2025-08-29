@@ -595,6 +595,9 @@ comments: false
         <!-- Institution -->
         <div class="col-lg-2"></div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10">Software Engineer Intern, Systems and Infrastructure (PhD)</div>
+        <!-- Divider -->
+        <div class="col-lg-2"></div>
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10"><div class="myline"></div></div>
         <!-- Tags -->
         <div class="col-lg-2"></div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10">
@@ -618,11 +621,11 @@ comments: false
         </div>
         <!-- Details -->
         <div id="hide-8" style="display:none">
-            <div class="col-lg-2"></div>
+            <!-- <div class="col-lg-2"></div>
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10"><div class="myline"></div></div>
             <div class="col-lg-2"></div>
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10" style="font-size:15.5px">
-            </div>
+            </div> -->
         </div>
     </div>
     <!-- [7] MTK -->
@@ -634,6 +637,9 @@ comments: false
         <!-- Institution -->
         <div class="col-lg-2"></div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10">Research Intern</div>
+        <!-- Divider -->
+        <div class="col-lg-2"></div>
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10"><div class="myline"></div></div>
         <!-- Tags -->
         <div class="col-lg-2"></div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10">
@@ -654,11 +660,11 @@ comments: false
         </div>
         <!-- Details -->
         <div id="hide-7" style="display:none">
-            <div class="col-lg-2"></div>
+            <!-- <div class="col-lg-2"></div>
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10"><div class="myline"></div></div>
             <div class="col-lg-2"></div>
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10" style="font-size:15.5px">
-            </div>
+            </div> -->
         </div>
     </div>
     <!-- [6] Purdue -->
@@ -670,6 +676,9 @@ comments: false
         <!-- Institution -->
         <div class="col-lg-2"></div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10">Graduate Research Assistant</div>
+        <!-- Divider -->
+        <div class="col-lg-2"></div>
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10"><div class="myline"></div></div>
         <!-- Tags -->
         <div class="col-lg-2"></div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10">
@@ -693,11 +702,11 @@ comments: false
         </div>
         <!-- Details -->
         <div id="hide-6" style="display:none">
-            <div class="col-lg-2"></div>
+            <!-- <div class="col-lg-2"></div>
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10"><div class="myline"></div></div>
             <div class="col-lg-2"></div>
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10" style="font-size:15.5px">
-                <!-- <strong>AI-ML / DRL for Joint Optimization of Network and Application in 5G/6G</strong><sup style="margin-left:2px">[12]</sup>
+                <strong>AI-ML / DRL for Joint Optimization of Network and Application in 5G/6G</strong><sup style="margin-left:2px">[12]</sup>
                 <li>Trained multi-agent reinforcement learning (MARL) model for network deployment policy by considering multi-dimensional trade-offs in joint optimization</li>
                 <strong>Edge Computing for Path Planning in Autonomous Driving</strong><sup style="margin-left:2px">[8, 9]</sup>
                 <li>Optimized local path planning by collaborative and sampling-based model predictive control (MPC) method with driving data analysis in edge networks</li>
@@ -710,8 +719,8 @@ comments: false
                 <strong>Leadership and Collaboration</strong>
                 <li>Mentor undergraduate students to study Robot Operating System (ROS) and explore computer networking projects in 5G area</li>
                 <li>Work with industry partners with 10+ engineers to bridge the gap between theory and practice of deploying and orchestrating software-defined cellular systems</li>
-                <li>Collaborate with Purdue research teams on AI IoT and Industry 4.0 projects including collaborative video analysis for multi-object tracking (MOT) <sup style="margin-left:2px">[7, 10]</sup></li> -->
-            </div>
+                <li>Collaborate with Purdue research teams on AI IoT and Industry 4.0 projects including collaborative video analysis for multi-object tracking (MOT) <sup style="margin-left:2px">[7, 10]</sup></li>
+            </div> -->
         </div>
     </div>
     <!-- [5] IoT Eye -->
@@ -723,6 +732,9 @@ comments: false
         <!-- Institution -->
         <div class="col-lg-2"></div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10">Full-stack Cloud Developer (Contractor)</div>
+        <!-- Divider -->
+        <div class="col-lg-2"></div>
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10"><div class="myline"></div></div>
         <!-- Tags -->
         <div class="col-lg-2"></div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10">
@@ -746,11 +758,11 @@ comments: false
         </div>
         <!-- Details -->
         <div id="hide-5" style="display:none">
-            <div class="col-lg-2"></div>
+            <!-- <div class="col-lg-2"></div>
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10"><div class="myline"></div></div>
             <div class="col-lg-2"></div>
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10" style="font-size:15.5px">
-                <!-- <strong>DevOps and Cloud Application Development</strong>
+                <strong>DevOps and Cloud Application Development</strong>
                 <li>Deployed multi-agency management platform on AWS using Frappe framework to support five industry partners</li>
                 <li>Developed DevOps toolkit in Python automating product deployment and management to improve scalability</li>
                 <li>Automated Flask Eve API testing using Postman and Python to boost product robustness</li>
@@ -758,8 +770,8 @@ comments: false
                 <li>
                     Released internal documents of developed products and tools and publish tutorial of Frappe app development on GitHub
                     <a href="https://github.com/yylou/frappe-apps" style="text-decoration:none" target="_blank"><code class="code-link" id="link-se-iot"><i class="fa fa-github"></i> GitHub Repo</code></a>
-                </li> -->
-            </div>
+                </li>
+            </div> -->
         </div>
     </div>
     <!-- [4] Independent Researcher -->
@@ -771,6 +783,9 @@ comments: false
         <!-- Institution -->
         <div class="col-lg-2"></div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10">(Collaborator: Prof. Stephen B. Weinstein, Prof. T. Russell Hsing)</div>
+        <!-- Divider -->
+        <div class="col-lg-2"></div>
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10"><div class="myline"></div></div>
         <!-- Tags -->
         <div class="col-lg-2"></div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10">
@@ -782,18 +797,18 @@ comments: false
         </div>
         <!-- Details -->
         <div id="hide-4" style="display:none">
-            <div class="col-lg-2"></div>
+            <!-- <div class="col-lg-2"></div>
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10"><div class="myline"></div></div>
             <div class="col-lg-2"></div>
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10" style="font-size:15.5px">
-                <!-- <strong>Distributed SDN and Edge Computing for 6G Networks</strong>
+                <strong>Distributed SDN and Edge Computing for 6G Networks</strong>
                 <li>Proposed distributed SDN system coupled with localized edge platforms and storage to support emerging applications such as autonomous driving</li>
                 <li>
                     Served as speaker in Edge and Fog Computing track on IEEE 7th World Forum on Internet of Things (WF-IoT) in 2021
                     <a href="https://wfiot2021.iot.ieee.org/edge-compute/" style="text-decoration:none" target="_blank"><code class="code-link" id="link-rs-ir"><i class="fa fa-link"></i> IEEE WF-IoT</code></a>
                 </li>
-                <li>Published an introductory paper on IEEE COMCAS 2021 <sup style="margin-left:2px">[6]</sup></li> -->
-            </div>
+                <li>Published an introductory paper on IEEE COMCAS 2021 <sup style="margin-left:2px">[6]</sup></li>
+            </div> -->
         </div>
     </div>
     <!-- [3] SMI -->
@@ -805,6 +820,9 @@ comments: false
         <!-- Institution -->
         <div class="col-lg-2"></div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10">Senior Software Engineer / Supervisor</div>
+        <!-- Divider -->
+        <div class="col-lg-2"></div>
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10"><div class="myline"></div></div>
         <!-- Tags -->
         <div class="col-lg-2"></div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10">
@@ -831,11 +849,11 @@ comments: false
         </div>
         <!-- Details -->
         <div id="hide-3" style="display:none">
-            <div class="col-lg-2"></div>
+            <!-- <div class="col-lg-2"></div>
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10"><div class="myline"></div></div>
             <div class="col-lg-2"></div>
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10" style="font-size:15.5px">
-                <!-- <strong>Design Flow Automation and In-house EDA Tool Development</strong>
+                <strong>Design Flow Automation and In-house EDA Tool Development</strong>
                 <li>Deployed microservice system in on-premise servers to automate 7/16 nm IC design flows, boosting development efficiency and improving verification robustness</li>
                 <li>Developed in-house design verification tools reviewing timing and power requirements to improve reliability</li>
                 <li>Automated library maintenance flow using Python and shell script to save manual effort by up to 80%</li>
@@ -844,8 +862,8 @@ comments: false
                 <li>Acted as project leader to cooperate with industry partners (TSMC, Synopsys) for establishing design flows in new IC technology nodes</li>
                 <li>Cooperated with Human Resources as technical campus recruiter to promote on-campus brand awareness</li>
                 <li>Established programming disciplines (Python) and organized training sessions for new employees</li>
-                <li><u>Promoted twice within 24 months</u> for outstanding performance on software development and solution finding</li> -->
-            </div>
+                <li><u>Promoted twice within 24 months</u> for outstanding performance on software development and solution finding</li>
+            </div> -->
         </div>
     </div>
     <!-- [2] NSTC -->
@@ -857,6 +875,9 @@ comments: false
         <!-- Institution -->
         <div class="col-lg-2"></div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10">Graduate Researcher</div>
+        <!-- Divider -->
+        <div class="col-lg-2"></div>
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10"><div class="myline"></div></div>
         <!-- Tags -->
         <div class="col-lg-2"></div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10">
@@ -882,11 +903,11 @@ comments: false
         </div>
         <!-- Details -->
         <div id="hide-2" style="display:none">
-            <div class="col-lg-2"></div>
+            <!-- <div class="col-lg-2"></div>
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10"><div class="myline"></div></div>
             <div class="col-lg-2"></div>
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10" style="font-size:15.5px">
-                <!-- <strong>Microservice-based Computation Offloading for Wearable Devices</strong>
+                <strong>Microservice-based Computation Offloading for Wearable Devices</strong>
                 <li>Proposed microservice-based function module sharing framework (Virtual Local-Hub) for Android wearable devices by edge computing and WiFi P2P concept</li>
                 <li>Modified Android Wear OS to intercept system calls and redirect application API calls to wireless base stations for offloading orchestration</li>
                 <li>Reduced execution time of wearable microservices by up to 60% and CPU usage by up to 70%</li>
@@ -896,8 +917,8 @@ comments: false
                 <li>Built WLAN testbed from scratch including DHCP and NAT to evaluate E2E latency and power consumption of wearable edge computing framework</li>
                 <li>Designed telemetry platform using Django to monitor system performance and manage service provisioning
                     <a href="https://www.cakeresume.com/portfolios/network-dashboard" style="text-decoration:none" target="_blank"><code class="code-link" id="link-rs-most"><i class="fa fa-link"></i> Portfolio</code></a></li>
-                <li>Developed latency-sensitive applications on Android devices such as speech recognition in natural language processing by CMUSphinx</li> -->
-            </div>
+                <li>Developed latency-sensitive applications on Android devices such as speech recognition in natural language processing by CMUSphinx</li>
+            </div> -->
         </div>
     </div>
     <!-- [1] Princeton -->
@@ -909,6 +930,9 @@ comments: false
         <!-- Institution -->
         <div class="col-lg-2"></div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10">Research Intern (Mentor: Prof. Mung Chiang, Dr. Ming-Jye Sheng)</div>
+        <!-- Divider -->
+        <div class="col-lg-2"></div>
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10"><div class="myline"></div></div>
         <!-- Tags -->
         <div class="col-lg-2"></div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10">
@@ -933,17 +957,17 @@ comments: false
         </div>
         <!-- Details -->
         <div id="hide-1" style="display:none">
-            <div class="col-lg-2"></div>
+            <!-- <div class="col-lg-2"></div>
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10"><div class="myline"></div></div>
             <div class="col-lg-2"></div>
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10" style="font-size:15.5px">
-                <!-- <strong>4G LTE IoT Session Management for Balancing Latency, Power, and Signaling</strong>
+                <strong>4G LTE IoT Session Management for Balancing Latency, Power, and Signaling</strong>
                 <li>Built Markov chain model based on RRC inference algorithms in AT&T tools to analyze DRX impact on 4G LTE IoT session factors (signal load, power, delay)</li>
                 <li>Conduct probabilistic model simulations to reveal the efficacy of algorithms in power saving and signal reduction for IoT</li>
                 <li>Developed toolkits based on AT&T Lab tools to analyze packets and profile Android apps performance</li>
                 <li>Improved power saving by up to 50% and signal saving by up to 60% for packets within 0.1s delay</li>
-                <li>Published a journal paper in IEEE Internet of Things Journal (IoT-J) in 2016 <sup style="margin-left:2px">[1]</sup></li> -->
-            </div>
+                <li>Published a journal paper in IEEE Internet of Things Journal (IoT-J) in 2016 <sup style="margin-left:2px">[1]</sup></li>
+            </div> -->
         </div>
     </div>
     <!-- [0] Teaching -->
@@ -956,6 +980,9 @@ comments: false
         <!-- Institution -->
         <div class="col-lg-2"></div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10">Teaching Assistant - CSIE 3510 Computer Network / CSIE 5057 Advanced Computer Network</div>
+        <!-- Divider -->
+        <div class="col-lg-2"></div>
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10"><div class="myline"></div></div>
         <!-- Domains -->
         <div class="col-lg-2"></div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10">
@@ -976,19 +1003,19 @@ comments: false
         </div>
         <!-- Details -->
         <div id="hide-0" style="display:none">
-            <div class="col-lg-2"></div>
+            <!-- <div class="col-lg-2"></div>
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10"><div class="myline"></div></div>
             <div class="col-lg-2"></div>
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-10" style="font-size:15.5px">
-                <!-- <strong>TCP/IP & Socket Programming in C++/Python</strong>
+                <strong>TCP/IP & Socket Programming in C++/Python</strong>
                 <li>Lectured TCP/IP protocol (802.11, 802.3) and demonstrated network packet monitoring and analysis using WireShark</li>
                 <li>Designed IRC chatbot application as project assignment to teach students socket programming 
                     <code class="code-link"><i class="fa fa-github"></i> GitHub Repo</code>
                 </li>
                 <li>Enhanced program robustness by peer-testing system and promoted creativity by flexible score criterion</li>
                 <li>Assigned paper readings and hold course seminar for final evaluation</li>
-                <li>Received two times of Outstanding Teaching Assistant awards</li> -->
-            </div>
+                <li>Received two times of Outstanding Teaching Assistant awards</li>
+            </div> -->
         </div>
     </div>
 </div>
