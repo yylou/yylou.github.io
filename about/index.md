@@ -154,7 +154,7 @@ comments: false
         </div>
         <!-- Authors -->
         <div class="col-md-1 col-lg-1"></div>
-        <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">C.-S. Yang, Y.-J. Ku, <strong>Y.-Y. Lou,</strong>, N. Tenny, Alex C.-C. Hsu</div>
+        <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">C.-S. Yang, Y.-J. Ku, <strong>Y.-Y. Lou</strong>, N. Tenny, Alex C.-C. Hsu</div>
         <!-- Conference / Journal -->
         <div class="col-md-1 col-lg-1"></div>
         <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">Preprint arXiv:2504.16529 [cs.DC]</div>
@@ -180,7 +180,7 @@ comments: false
         </div>
         <!-- Authors -->
         <div class="col-md-1 col-lg-1"></div>
-        <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">X. Li, C. Chen, <strong>Y.-Y. Lou,</strong>, M. Abdallah, K. T. Kim, S. Bagchi</div>
+        <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">X. Li, C. Chen, <strong>Y.-Y. Lou</strong>, M. Abdallah, K. T. Kim, S. Bagchi</div>
         <!-- Conference / Journal -->
         <div class="col-md-1 col-lg-1"></div>
         <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">Preprint arXiv:2411.00608 [cs.CV]</div>
@@ -206,7 +206,7 @@ comments: false
         </div>
         <!-- Authors -->
         <div class="col-md-1 col-lg-1"></div>
-        <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11"><strong>Y.-Y. Lou,</strong>, J. Spencer, K. T. Kim, M. Chiang</div>
+        <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11"><strong>Y.-Y. Lou</strong>, J. Spencer, K. T. Kim, M. Chiang</div>
         <!-- Conference / Journal -->
         <div class="col-md-1 col-lg-1"></div>
         <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">Preprint arXiv:2410.00695 [cs.DC]</div>
@@ -232,7 +232,7 @@ comments: false
         </div>
         <!-- Authors -->
         <div class="col-md-1 col-lg-1"></div>
-        <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11"><strong>Y.-Y. Lou,</strong>, J. Spencer, K. T. Kim, M. Chiang</div>
+        <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11"><strong>Y.-Y. Lou</strong>, J. Spencer, K. T. Kim, M. Chiang</div>
         <!-- Conference / Journal -->
         <div class="col-md-1 col-lg-1"></div>
         <div class="col-xs-12 col-sm-12 col-md-11 col-lg-11">Preprint arXiv:2409.19834 [eess.SY]</div>
