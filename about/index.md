@@ -28,7 +28,7 @@ comments: false
         <code>Distributed System</code>
         <code>Computer Network</code>
         <code>Wireless Communiation</code>
-        <code>5G Simulation</code>
+        <code>4G LTE / 5G NR / 6G</code>
         <code>Reinforcement Learning</code>
         <code class="code-highlight">Software Engineer</code>
         <code>MLSys Performance</code>
